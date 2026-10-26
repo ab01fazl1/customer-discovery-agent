@@ -1,0 +1,38 @@
+
+Processed 1500 messages in 116.8s
+
+FUNNEL
+  stage                  in    out    kept     sec
+  1_prefilter          1500    287     19%    0.01
+  2_embedding           287     34     12%    3.15
+  3_local_llm            34     34    100%  113.61
+  4_cloud_fallback       34     34    100%    0.00
+
+ACCURACY (against ground-truth labels)
+  precision 1.00   recall 0.31   (TP 34, FP 0, FN 76)
+  where real leads were lost / noise removed, per stage:
+    1_prefilter        leads lost   22   noise dropped  1191
+    2_embedding        leads lost   54   noise dropped   199
+    3_local_llm        leads lost    0   noise dropped     0
+    4_cloud_fallback   leads lost    0   noise dropped     0
+
+COST
+  3_local_llm        calls    34  tokens in/out 4358/1088  $0.0000
+  total $0.0000
+
+TOP LEADS (34 total)
+  0.90 high   small   We're ready to purchase a security camera, who can send an invoice?
+  0.90 high   unknown Who sells solar panels and do they deliver? Need them asap
+  0.90 high   small   We're ready to purchase a security camera, who can send an invoice?
+  0.90 high   unknown How much does a solar panel cost? Need to order today
+  0.90 high   large   Need a quote for 50 laptops for our office
+  0.90 medium medium  Need a quote for 10 laptops for our office
+  0.90 high   large   We're ready to purchase a projector, who can send an invoice?
+  0.90 high   unknown How much does a solar panel cost? Need to order today
+  0.90 high   large   Need a quote for 50 laptops for our office
+  0.90 high   small   We're ready to purchase a security camera, who can send an invoice?
+  0.90 high   small   How much does a 3D printer cost? Need to order today
+  0.90 high   small   We're ready to purchase a security camera, who can send an invoice?
+  0.90 high   large   We're ready to purchase a e-bike, who can send an invoice?
+  0.90 high   medium  We're ready to purchase a espresso machine, who can send an invoice?
+  0.90 high   large   Where can I buy 3D printers in bulk?

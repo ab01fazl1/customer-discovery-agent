@@ -1,0 +1,6 @@
+telethon>=1.36
+ollama>=0.3
+anthropic>=0.40
+numpy>=1.26
+python-dotenv>=1.0
+rich>=13.7

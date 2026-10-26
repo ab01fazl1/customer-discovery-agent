@@ -1,0 +1,70 @@
+{"lead_id": 313, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 254, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 263, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 504, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 324, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 446, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 224, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 465, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 508, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 346, "scenario": "hot", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 269, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 341, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 509, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 229, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 201, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 308, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 331, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 348, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 213, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 480, "scenario": "hot_answered", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 470, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 384, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 451, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 231, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 467, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 249, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 481, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 489, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 316, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 239, "scenario": "hot_peer_noise", "decision": "alert", "reason": "urgent and large deal, still unanswered"}
+{"lead_id": 420, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 445, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 315, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 212, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 359, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 500, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 345, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 436, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 200, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 322, "scenario": "medium_large", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 238, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 444, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 294, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 476, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 510, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 243, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 461, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 381, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 518, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 339, "scenario": "vague", "decision": "queue", "reason": "real intent but not urgent or not large; worth a look later"}
+{"lead_id": 295, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 290, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 253, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 270, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 511, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 439, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 441, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 514, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 477, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 282, "scenario": "vague_returning", "decision": "alert", "reason": "returning sender with repeated buying intent"}
+{"lead_id": 194, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 462, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 450, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 418, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 355, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 245, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 328, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 487, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 232, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}
+{"lead_id": 353, "scenario": "vague_resolved", "decision": "drop", "reason": "already answered or resolved"}

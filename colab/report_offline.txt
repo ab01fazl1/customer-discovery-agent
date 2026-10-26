@@ -1,0 +1,39 @@
+
+Processed 1500 messages in 0.6s
+
+FUNNEL
+  stage                  in    out    kept     sec
+  1_prefilter          1500    287     19%    0.01
+  2_embedding           287    152     53%    0.55
+  3_local_llm           152     78     51%    0.01
+  4_cloud_fallback       78     78    100%    0.00
+
+ACCURACY (against ground-truth labels)
+  precision 1.00   recall 0.71   (TP 78, FP 0, FN 32)
+  where real leads were lost / noise removed, per stage:
+    1_prefilter        leads lost   22   noise dropped  1191
+    2_embedding        leads lost   10   noise dropped   125
+    3_local_llm        leads lost    0   noise dropped    74
+    4_cloud_fallback   leads lost    0   noise dropped     0
+
+COST
+  3_local_llm        calls   152  tokens in/out 0/0  $0.0000
+  total $0.0000
+
+TOP LEADS (78 total)
+  1.00 high   unknown How much does a solar panel cost? Need to order today
+  1.00 high   small   Looking to buy 2 licenses this week, any recommendations?
+  1.00 high   unknown Looking to buy 50 3D printers this week, any recommendations?
+  1.00 high   small   Looking to buy 2 e-bikes this week, any recommendations?
+  1.00 high   unknown How much does a solar panel cost? Need to order today
+  1.00 high   unknown How much does a 3D printer cost? Need to order today
+  1.00 high   unknown Looking to buy 50 standing desks this week, any recommendations?
+  1.00 high   large   What's the price of a office chair and is it in stock? Want to order tomorrow
+  1.00 high   unknown Looking to buy 50 security cameras this week, any recommendations?
+  1.00 high   large   Looking to buy 50 licenses this week, any recommendations?
+  1.00 high   unknown What's the price of a projector and is it in stock? Want to order tomorrow
+  1.00 high   unknown What's the price of a e-bike and is it in stock? Want to order tomorrow
+  1.00 high   unknown How much does a standing desk cost? Need to order today
+  1.00 high   unknown What's the price of a e-bike and is it in stock? Want to order tomorrow
+  1.00 high   unknown What's the price of a espresso machine and is it in stock? Want to order tomorrow
+  (? = ambiguous; cloud fallback not configured, set ANTHROPIC_API_KEY)

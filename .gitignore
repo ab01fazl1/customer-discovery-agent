@@ -1,0 +1,18 @@
+.env
+*.session
+*.session-journal
+*.db
+__pycache__/
+.venv/
+.DS_Store
+HANDOFF.md
+docs/dev-exp.rtf
+colab/*.zip
+colab/* copy*
+# empty scaffolding and an unused settings module
+config/
+connectors/
+models/
+output/
+pipeline/
+storage/

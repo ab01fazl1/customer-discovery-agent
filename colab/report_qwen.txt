@@ -1,0 +1,114 @@
+ok  hot              expected alert got alert steps 3 37.9s
+ok  hot              expected alert got alert steps 3 5.5s
+ok  hot              expected alert got alert steps 3 6.2s
+ok  hot              expected alert got alert steps 3 6.1s
+ok  hot              expected alert got alert steps 4 9.0s
+ok  hot              expected alert got alert steps 3 6.4s
+ok  hot              expected alert got alert steps 3 6.4s
+ok  hot              expected alert got alert steps 3 5.7s
+ok  hot              expected alert got alert steps 3 6.4s
+ok  hot              expected alert got alert steps 3 6.1s
+MISS hot_answered     expected drop  got alert steps 2 7.1s
+MISS hot_answered     expected drop  got alert steps 4 9.9s
+MISS hot_answered     expected drop  got alert steps 4 9.9s
+MISS hot_answered     expected drop  got alert steps 4 8.4s
+MISS hot_answered     expected drop  got alert steps 4 7.8s
+MISS hot_answered     expected drop  got alert steps 2 2.2s
+MISS hot_answered     expected drop  got alert steps 3 5.8s
+MISS hot_answered     expected drop  got alert steps 3 7.5s
+MISS hot_answered     expected drop  got alert steps 4 9.0s
+ok  hot_answered     expected drop  got drop  steps 2 5.2s
+ok  hot_peer_noise   expected alert got alert steps 3 9.9s
+ok  hot_peer_noise   expected alert got alert steps 3 9.0s
+ok  hot_peer_noise   expected alert got alert steps 4 8.4s
+ok  hot_peer_noise   expected alert got alert steps 4 13.8s
+ok  hot_peer_noise   expected alert got alert steps 3 9.1s
+ok  hot_peer_noise   expected alert got alert steps 3 9.7s
+ok  hot_peer_noise   expected alert got alert steps 3 8.1s
+ok  hot_peer_noise   expected alert got alert steps 4 11.5s
+ok  hot_peer_noise   expected alert got alert steps 3 9.5s
+ok  hot_peer_noise   expected alert got alert steps 3 8.7s
+MISS medium_large     expected queue got alert steps 3 6.9s
+MISS medium_large     expected queue got alert steps 3 8.4s
+ok  medium_large     expected queue got queue steps 3 7.0s
+MISS medium_large     expected queue got alert steps 3 7.1s
+MISS medium_large     expected queue got alert steps 3 7.4s
+MISS medium_large     expected queue got alert steps 3 7.1s
+MISS medium_large     expected queue got alert steps 3 7.2s
+MISS medium_large     expected queue got alert steps 3 7.1s
+MISS medium_large     expected queue got alert steps 3 7.1s
+MISS medium_large     expected queue got alert steps 3 7.1s
+ok  vague            expected queue got queue steps 4 10.3s
+ok  vague            expected queue got queue steps 3 6.9s
+ok  vague            expected queue got queue steps 3 8.1s
+ok  vague            expected queue got queue steps 3 6.7s
+ok  vague            expected queue got queue steps 3 6.8s
+ok  vague            expected queue got queue steps 3 6.9s
+ok  vague            expected queue got queue steps 3 8.0s
+ok  vague            expected queue got queue steps 3 7.5s
+ok  vague            expected queue got queue steps 3 6.8s
+ok  vague            expected queue got queue steps 3 7.1s
+MISS vague_returning  expected alert got queue steps 3 7.7s
+MISS vague_returning  expected alert got queue steps 3 7.2s
+MISS vague_returning  expected alert got queue steps 3 6.8s
+MISS vague_returning  expected alert got queue steps 3 7.5s
+MISS vague_returning  expected alert got queue steps 3 8.1s
+MISS vague_returning  expected alert got queue steps 3 7.4s
+MISS vague_returning  expected alert got queue steps 3 7.1s
+MISS vague_returning  expected alert got queue steps 3 8.3s
+MISS vague_returning  expected alert got queue steps 3 6.7s
+MISS vague_returning  expected alert got queue steps 3 7.4s
+ok  vague_resolved   expected drop  got drop  steps 2 3.7s
+ok  vague_resolved   expected drop  got drop  steps 2 3.5s
+ok  vague_resolved   expected drop  got drop  steps 2 3.7s
+ok  vague_resolved   expected drop  got drop  steps 2 2.3s
+ok  vague_resolved   expected drop  got drop  steps 3 6.8s
+ok  vague_resolved   expected drop  got drop  steps 2 4.4s
+ok  vague_resolved   expected drop  got drop  steps 2 3.7s
+ok  vague_resolved   expected drop  got drop  steps 2 4.0s
+ok  vague_resolved   expected drop  got drop  steps 2 3.2s
+ok  vague_resolved   expected drop  got drop  steps 2 2.1s
+
+REVIEWER EVALUATION (70 labelled leads)
+  agent accuracy          0.60
+  text-only rule baseline 0.57   (no tools, no model)
+  always-'alert' baseline  0.43
+  finished a decision     1.00   (unfinished default to queue)
+  avg steps 3.0   avg tool calls 2.0
+
+CONFUSION (rows = correct, columns = agent said)
+            alert  queue   drop
+  alert        20     10      0
+  queue         9     11      0
+  drop          9      0     11
+
+BY SCENARIO (agent vs text-only baseline)
+  hot              agent 1.00   baseline 1.00   (n=10)
+  hot_answered     agent 0.10   baseline 0.00   (n=10)
+  hot_peer_noise   agent 1.00   baseline 1.00   (n=10)
+  medium_large     agent 0.10   baseline 1.00   (n=10)
+  vague            agent 1.00   baseline 1.00   (n=10)
+  vague_returning  agent 0.00   baseline 0.00   (n=10)
+  vague_resolved   agent 1.00   baseline 0.00   (n=10)
+
+COST
+  tokens in/out 141604/14772   $0.0000 total   $0.00000 per lead
+  time 525.4s total   7.5s per lead
+
+MISTAKES (28), first 8
+  [hot_answered] expected drop, got alert: We need 20 3D printers delivered asap, who can send an invoice?
+      agent said: Large quantity, urgent delivery, and no specific offer from a seller.
+  [hot_answered] expected drop, got alert: Looking for a vendor for security cameras, company needs 20 units by t
+      agent said: Urgent need for 20 security cameras by tomorrow, no previous buying history.
+  [hot_answered] expected drop, got alert: Need a quote for 20 3D printers for our office, must order today
+      agent said: Urgent large order, no previous interaction, and seller has not responded.
+  [hot_answered] expected drop, got alert: We need 20 3D printers delivered asap, who can send an invoice?
+      agent said: Large order (20 3D printers) with urgent delivery requirement, no previous replies.
+  [hot_answered] expected drop, got alert: We need 50 standing desks delivered asap, who can send an invoice?
+      agent said: Large order with urgent delivery request, no previous responses.
+  [hot_answered] expected drop, got alert: Looking for a vendor for licenses, company needs 50 units by tomorrow
+      agent said: Urgent purchase request with a deadline of tomorrow, no reply yet.
+  [hot_answered] expected drop, got alert: Need a quote for 20 security cameras for our office, must order today
+      agent said: Urgent request for 20 security cameras, no response from seller yet.
+  [hot_answered] expected drop, got alert: Need a quote for 20 espresso machines for our office, must order today
+      agent said: Urgent request for 20 espresso machines, no response yet.

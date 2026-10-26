@@ -1,0 +1,45 @@
+  thr  leads   TP   FP   FN   prec  recall  s2 in  s3 in  s3 lost leads  s3 noise dropped
+  0.5     88   88    0   22   1.00    0.80    168    168              0                80
+ 0.55     86   86    0   24   1.00    0.78    111    111              0                25
+  0.6     66   66    0   44   1.00    0.60     66     66              0                 0
+
+--- false positives at T=0.5: 0 ---
+
+--- false positives at T=0.55: 0 ---
+
+--- false positives at T=0.6: 0 ---
+
+=== full report at T=0.55 ===
+
+Processed 1500 messages in 0.7s
+
+FUNNEL
+  stage                  in    out    kept     sec
+  1_prefilter          1500    287     19%    0.01
+  2_embedding           287    111     39%    0.70
+  3_local_llm           111     86     77%    0.00
+  4_cloud_fallback       86     86    100%    0.00
+
+ACCURACY (against ground-truth labels)
+  precision 1.00   recall 0.78   (TP 86, FP 0, FN 24)
+  where real leads were lost / noise removed, per stage:
+    1_prefilter        leads lost   22   noise dropped  1191
+    2_embedding        leads lost    2   noise dropped   174
+    3_local_llm        leads lost    0   noise dropped    25
+    4_cloud_fallback   leads lost    0   noise dropped     0
+
+COST
+  3_local_llm        calls   111  tokens in/out 14157/3552  $0.0000
+  total $0.0000
+
+TOP LEADS (86 total)
+  0.90 high   small   We're ready to purchase a security camera, who can send an invoice?
+  0.90 high   unknown Who sells solar panels and do they deliver? Need them asap
+  0.90 high   small   We're ready to purchase a security camera, who can send an invoice?
+  0.90 high   large   Interested in buying 50 espresso machines, please send prices
+  0.90 high   medium  How much does a solar panel cost? Need to order today
+  0.90 high   large   Need a quote for 50 laptops for our office
+  0.90 medium medium  Need a quote for 10 laptops for our office
+  0.90 high   large   How much for 5 projectors? Ready to buy now
+  0.90 medium large   Interested in buying 5 projectors, please send prices
+  0.90 high   large   We're ready to purchase a projector, who can send an invoice?

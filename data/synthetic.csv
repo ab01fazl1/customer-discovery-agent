@@ -1,0 +1,3001 @@
+id,timestamp,author,text,label
+1,2026-10-01T07:00:23,user_055,how much did you pay for dinner last night?,0
+2,2026-10-01T07:00:26,user_003,congrats!!,0
+3,2026-10-01T07:01:01,user_031,check this out https://example.com/video,0
+4,2026-10-01T07:02:48,user_012,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+5,2026-10-01T07:02:51,user_037,"just got my standing desk, works great, thanks for the tips yesterday",0
+6,2026-10-01T07:04:34,user_029,Can anyone recommend a supplier for laptops? Budget is around $5000,1
+7,2026-10-01T07:05:24,user_054,I'll check and let you know,0
+8,2026-10-01T07:07:23,user_051,did anyone see the news today?,0
+9,2026-10-01T07:08:20,user_057,nice one,0
+10,2026-10-01T07:09:04,user_023,did anyone see the news today?,0
+11,2026-10-01T07:10:17,user_009,anyone watching the game tonight?,0
+12,2026-10-01T07:13:29,user_040,agreed,0
+13,2026-10-01T07:13:37,user_031,my cost of living is insane this year,0
+14,2026-10-01T07:15:34,user_005,what time is the meetup?,0
+15,2026-10-01T07:16:36,user_017,nice one,0
+16,2026-10-01T07:16:51,user_043,yes,0
+17,2026-10-01T07:19:07,user_019,"just finished work, finally",0
+18,2026-10-01T07:19:24,user_036,that's hilarious,0
+19,2026-10-01T07:21:14,user_007,gm,0
+20,2026-10-01T07:21:28,user_040,true,0
+21,2026-10-01T07:22:27,user_040,gm,0
+22,2026-10-01T07:24:29,user_051,traffic was terrible this morning,0
+23,2026-10-01T07:27:45,user_018,where can I get a decent pizza around here?,0
+24,2026-10-01T07:27:56,user_004,good morning everyone,0
+25,2026-10-01T07:30:30,user_051,gm,0
+26,2026-10-01T07:30:31,user_040,haha yes,0
+27,2026-10-01T07:31:41,user_052,😂😂,0
+28,2026-10-01T07:31:58,user_027,brb,0
+29,2026-10-01T07:33:49,user_016,see you all tomorrow,0
+30,2026-10-01T07:35:55,user_018,congrats!!,0
+31,2026-10-01T07:35:58,user_021,good point,0
+32,2026-10-01T07:37:17,user_060,same here,0
+33,2026-10-01T07:37:32,user_056,lol,0
+34,2026-10-01T07:38:08,user_018,my cost of living is insane this year,0
+35,2026-10-01T07:40:03,user_011,no worries,0
+36,2026-10-01T07:40:13,user_013,no worries,0
+37,2026-10-01T07:40:21,user_001,that's hilarious,0
+38,2026-10-01T07:40:33,user_051,same here,0
+39,2026-10-01T07:41:12,user_032,"just finished work, finally",0
+40,2026-10-01T07:41:39,user_017,agreed,0
+41,2026-10-01T07:43:06,user_043,"just got my e-bike, works great, thanks for the tips yesterday",0
+42,2026-10-01T07:43:15,user_033,where can I get a decent pizza around here?,0
+43,2026-10-01T07:43:37,user_055,haha yes,0
+44,2026-10-01T07:43:41,user_039,is the group chat available for new members to join?,0
+45,2026-10-01T07:44:24,user_025,good point,0
+46,2026-10-01T07:45:03,user_007,ok,0
+47,2026-10-01T07:45:29,user_009,gm,0
+48,2026-10-01T07:46:05,user_050,who's coming on saturday?,0
+49,2026-10-01T07:46:55,user_057,happy birthday!,0
+50,2026-10-01T07:47:36,user_017,maybe later,0
+51,2026-10-01T07:47:49,user_053,anyone watching the game tonight?,0
+52,2026-10-01T07:48:14,user_014,anyone watching the game tonight?,0
+53,2026-10-01T07:48:42,user_060,brb,0
+54,2026-10-01T07:49:20,user_018,nice one,0
+55,2026-10-01T07:53:48,user_046,can anyone recommend a good movie for tonight?,0
+56,2026-10-01T07:54:02,user_060,haha yes,0
+57,2026-10-01T07:54:45,user_024,nice one,0
+58,2026-10-01T07:55:12,user_014,good point,0
+59,2026-10-01T07:55:42,user_003,gm,0
+60,2026-10-01T07:57:38,user_048,see you all tomorrow,0
+61,2026-10-01T07:59:16,user_049,"rent prices here are ridiculous, don't even ask",0
+62,2026-10-01T08:00:24,user_002,see you all tomorrow,0
+63,2026-10-01T08:00:54,user_007,"just finished work, finally",0
+64,2026-10-01T08:01:18,user_042,good morning everyone,0
+65,2026-10-01T08:02:19,user_006,"interesting, never thought of it that way",0
+66,2026-10-01T08:02:47,user_054,congrats!!,0
+67,2026-10-01T08:03:50,user_031,https://example.com/article/12345,0
+68,2026-10-01T08:06:01,user_046,I'll check and let you know,0
+69,2026-10-01T08:06:16,user_047,thanks!,0
+70,2026-10-01T08:06:31,user_059,what time is the meetup?,0
+71,2026-10-01T08:07:34,user_037,yes,0
+72,2026-10-01T08:08:30,user_029,I'll check and let you know,0
+73,2026-10-01T08:08:50,user_023,yes,0
+74,2026-10-01T08:10:58,user_026,The price of 3D printers is crazy lol,0
+75,2026-10-01T08:11:33,user_054,can you resend the photo?,0
+76,2026-10-01T08:13:17,user_007,can anyone recommend a good movie for tonight?,0
+77,2026-10-01T08:13:33,user_014,this weather is something else,0
+78,2026-10-01T08:13:39,user_014,the new update broke my app again,0
+79,2026-10-01T08:13:45,user_016,traffic was terrible this morning,0
+80,2026-10-01T08:14:21,user_036,agreed,0
+81,2026-10-01T08:15:24,user_049,I'll check and let you know,0
+82,2026-10-01T08:18:38,user_041,"might need a 3D printer next month, any idea on pricing?",1
+83,2026-10-01T08:20:13,user_052,"thinking about getting a e-bike soon, what do they go for?",1
+84,2026-10-01T08:20:16,user_059,"rent prices here are ridiculous, don't even ask",0
+85,2026-10-01T08:21:29,user_038,sent you a DM,0
+86,2026-10-01T08:21:29,user_012,lol,0
+87,2026-10-01T08:23:26,user_024,yes,0
+88,2026-10-01T08:24:37,user_039,"just got my 3D printer, works great, thanks for the tips yesterday",0
+89,2026-10-01T08:25:52,user_048,can someone explain how the voting works?,0
+90,2026-10-01T08:27:54,user_048,true,0
+91,2026-10-01T08:29:24,user_037,brb,0
+92,2026-10-01T08:30:34,user_042,agreed,0
+93,2026-10-01T08:31:45,user_052,I'm looking for a free ride to the airport on friday,0
+94,2026-10-01T08:32:50,user_036,true,0
+95,2026-10-01T08:32:56,user_002,can you resend the photo?,0
+96,2026-10-01T08:33:18,user_057,sent you a DM,0
+97,2026-10-01T08:34:36,user_021,that's hilarious,0
+98,2026-10-01T08:35:14,user_041,lol,0
+99,2026-10-01T08:36:02,user_053,is the group chat available for new members to join?,0
+100,2026-10-01T08:36:35,user_022,happy birthday!,0
+101,2026-10-01T08:38:39,user_001,traffic was terrible this morning,0
+102,2026-10-01T08:39:04,user_036,"We're ready to purchase a security camera, who can send an invoice?",1
+103,2026-10-01T08:39:05,user_012,brb,0
+104,2026-10-01T08:39:45,user_034,wow,0
+105,2026-10-01T08:40:25,user_043,I disagree but fair enough,0
+106,2026-10-01T08:41:08,user_018,sent you a DM,0
+107,2026-10-01T08:41:10,user_013,what time is the meetup?,0
+108,2026-10-01T08:41:34,user_013,traffic was terrible this morning,0
+109,2026-10-01T08:47:07,user_003,"thinking about getting a solar panel soon, what do they go for?",1
+110,2026-10-01T08:49:20,user_005,gm,0
+111,2026-10-01T08:50:42,user_043,nice one,0
+112,2026-10-01T08:51:36,user_051,congrats!!,0
+113,2026-10-01T08:52:21,user_023,wow,0
+114,2026-10-01T08:52:33,user_038,I bought a e-bike last year and it broke after a month,0
+115,2026-10-01T08:55:30,user_004,good morning everyone,0
+116,2026-10-01T08:56:27,user_023,no,0
+117,2026-10-01T08:56:57,user_005,good point,0
+118,2026-10-01T08:56:59,user_016,"interesting, never thought of it that way",0
+119,2026-10-01T08:57:09,user_031,Who sells solar panels and do they deliver? Need them asap,1
+120,2026-10-01T08:57:45,user_038,gm,0
+121,2026-10-01T08:58:50,user_042,"rent prices here are ridiculous, don't even ask",0
+122,2026-10-01T08:59:03,user_040,happy birthday!,0
+123,2026-10-01T08:59:20,user_015,"We're ready to purchase a security camera, who can send an invoice?",1
+124,2026-10-01T08:59:45,user_051,nice one,0
+125,2026-10-01T09:00:03,user_041,"rent prices here are ridiculous, don't even ask",0
+126,2026-10-01T09:00:11,user_008,"haha that e-bike meme is great, the price tag in the picture made me laugh",0
+127,2026-10-01T09:02:11,user_054,good morning everyone,0
+128,2026-10-01T09:03:22,user_051,https://example.com/article/12345,0
+129,2026-10-01T09:03:28,user_020,happy birthday!,0
+130,2026-10-01T09:04:03,user_051,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+131,2026-10-01T09:04:55,user_003,how much did you pay for dinner last night?,0
+132,2026-10-01T09:06:16,user_041,"just finished work, finally",0
+133,2026-10-01T09:09:01,user_006,true,0
+134,2026-10-01T09:10:12,user_004,can you resend the photo?,0
+135,2026-10-01T09:11:07,user_060,good point,0
+136,2026-10-01T09:11:29,user_004,congrats!!,0
+137,2026-10-01T09:11:54,user_023,"Interested in buying 50 espresso machines, please send prices",1
+138,2026-10-01T09:14:23,user_027,😂😂,0
+139,2026-10-01T09:14:38,user_022,lol,0
+140,2026-10-01T09:15:13,user_015,check this out https://example.com/video,0
+141,2026-10-01T09:15:35,user_024,"interesting, never thought of it that way",0
+142,2026-10-01T09:17:04,user_045,did anyone see the news today?,0
+143,2026-10-01T09:17:29,user_044,no worries,0
+144,2026-10-01T09:18:50,user_059,sent you a DM,0
+145,2026-10-01T09:18:59,user_003,gm,0
+146,2026-10-01T09:19:20,user_038,see you all tomorrow,0
+147,2026-10-01T09:21:25,user_060,yes,0
+148,2026-10-01T09:21:58,user_001,congrats!!,0
+149,2026-10-01T09:22:49,user_035,the new update broke my app again,0
+150,2026-10-01T09:22:58,user_017,no,0
+151,2026-10-01T09:23:45,user_057,I bought a e-bike last year and it broke after a month,0
+152,2026-10-01T09:24:12,user_032,ok,0
+153,2026-10-01T09:24:50,user_039,"rent prices here are ridiculous, don't even ask",0
+154,2026-10-01T09:25:34,user_056,"just finished work, finally",0
+155,2026-10-01T09:26:40,user_056,wow,0
+156,2026-10-01T09:27:10,user_001,congrats!!,0
+157,2026-10-01T09:27:16,user_033,Need a quote for 2 licenses for our office,1
+158,2026-10-01T09:27:23,user_017,traffic was terrible this morning,0
+159,2026-10-01T09:28:07,user_014,anyone watching the game tonight?,0
+160,2026-10-01T09:29:25,user_024,haha yes,0
+161,2026-10-01T09:29:33,user_053,who's coming on saturday?,0
+162,2026-10-01T09:29:38,user_056,how much did you pay for dinner last night?,0
+163,2026-10-01T09:29:47,user_027,wow,0
+164,2026-10-01T09:30:48,user_054,nice one,0
+165,2026-10-01T09:31:55,user_045,yes,0
+166,2026-10-01T09:32:09,user_059,the new update broke my app again,0
+167,2026-10-01T09:34:19,user_024,yes,0
+168,2026-10-01T09:35:23,user_027,this weather is something else,0
+169,2026-10-01T09:36:10,user_017,my cost of living is insane this year,0
+170,2026-10-01T09:36:58,user_037,the new update broke my app again,0
+171,2026-10-01T09:37:40,user_041,happy birthday!,0
+172,2026-10-01T09:39:13,user_050,congrats!!,0
+173,2026-10-01T09:40:07,user_045,The price of licenses is crazy lol,0
+174,2026-10-01T09:42:06,user_029,I disagree but fair enough,0
+175,2026-10-01T09:43:08,user_019,can you resend the photo?,0
+176,2026-10-01T09:43:15,user_019,traffic was terrible this morning,0
+177,2026-10-01T09:43:26,user_027,check this out https://example.com/video,0
+178,2026-10-01T09:44:06,user_036,How much does a solar panel cost? Need to order today,1
+179,2026-10-01T09:44:29,user_041,no worries,0
+180,2026-10-01T09:44:50,user_006,can you resend the photo?,0
+181,2026-10-01T09:45:11,user_052,Need a quote for 50 laptops for our office,1
+182,2026-10-01T09:46:50,user_060,no worries,0
+183,2026-10-01T09:47:33,user_043,https://example.com/article/12345,0
+184,2026-10-01T09:48:48,user_041,https://example.com/article/12345,0
+185,2026-10-01T09:48:51,user_047,maybe later,0
+186,2026-10-01T09:51:08,user_006,I'll check and let you know,0
+187,2026-10-01T09:51:26,user_060,lol,0
+188,2026-10-01T09:53:24,user_021,that's hilarious,0
+189,2026-10-01T09:53:52,user_048,this weather is something else,0
+190,2026-10-01T09:53:54,user_004,"thinking about getting a security camera soon, what do they go for?",1
+191,2026-10-01T09:53:54,user_024,brb,0
+192,2026-10-01T09:55:09,user_054,good morning everyone,0
+193,2026-10-01T09:55:31,user_028,"thinking about getting a espresso machine soon, what do they go for?",1
+194,2026-10-01T09:55:46,user_016,need coffee asap,0
+195,2026-10-01T09:56:12,user_021,same here,0
+196,2026-10-01T09:56:21,user_046,can you resend the photo?,0
+197,2026-10-01T09:59:55,user_028,yes,0
+198,2026-10-01T10:01:42,user_029,haha yes,0
+199,2026-10-01T10:02:27,user_023,no worries,0
+200,2026-10-01T10:02:51,user_015,my cost of living is insane this year,0
+201,2026-10-01T10:03:30,user_024,makes sense,0
+202,2026-10-01T10:03:33,user_023,ok,0
+203,2026-10-01T10:04:18,user_051,how much did you pay for dinner last night?,0
+204,2026-10-01T10:05:21,user_043,no worries,0
+205,2026-10-01T10:06:28,user_024,haha yes,0
+206,2026-10-01T10:06:31,user_031,my cost of living is insane this year,0
+207,2026-10-01T10:07:22,user_010,check this out https://example.com/video,0
+208,2026-10-01T10:07:50,user_022,ok,0
+209,2026-10-01T10:08:14,user_010,anyone watching the game tonight?,0
+210,2026-10-01T10:09:10,user_015,I bought a security camera last year and it broke after a month,0
+211,2026-10-01T10:09:28,user_011,haha yes,0
+212,2026-10-01T10:10:36,user_004,I'll check and let you know,0
+213,2026-10-01T10:12:29,user_057,"just finished work, finally",0
+214,2026-10-01T10:13:03,user_040,can anyone recommend a good movie for tonight?,0
+215,2026-10-01T10:17:09,user_057,can you resend the photo?,0
+216,2026-10-01T10:17:10,user_041,thanks!,0
+217,2026-10-01T10:18:25,user_019,agreed,0
+218,2026-10-01T10:19:07,user_028,"thinking about getting a office chair soon, what do they go for?",1
+219,2026-10-01T10:19:14,user_004,👍,0
+220,2026-10-01T10:19:40,user_001,yes,0
+221,2026-10-01T10:19:50,user_037,"just finished work, finally",0
+222,2026-10-01T10:21:49,user_027,see you all tomorrow,0
+223,2026-10-01T10:23:13,user_037,brb,0
+224,2026-10-01T10:23:19,user_035,good morning everyone,0
+225,2026-10-01T10:25:37,user_021,yes,0
+226,2026-10-01T10:27:21,user_050,did anyone see the news today?,0
+227,2026-10-01T10:29:19,user_037,congrats!!,0
+228,2026-10-01T10:31:30,user_045,that's hilarious,0
+229,2026-10-01T10:32:18,user_010,makes sense,0
+230,2026-10-01T10:34:34,user_033,lol,0
+231,2026-10-01T10:35:34,user_032,see you all tomorrow,0
+232,2026-10-01T10:35:57,user_019,no worries,0
+233,2026-10-01T10:36:17,user_038,I'm looking for a free ride to the airport on friday,0
+234,2026-10-01T10:36:21,user_001,Anyone selling a security camera? I'll take it if the price is right,1
+235,2026-10-01T10:36:26,user_030,haha yes,0
+236,2026-10-01T10:37:24,user_056,thanks!,0
+237,2026-10-01T10:37:34,user_029,that's hilarious,0
+238,2026-10-01T10:37:38,user_020,https://example.com/article/12345,0
+239,2026-10-01T10:38:21,user_034,can you resend the photo?,0
+240,2026-10-01T10:38:44,user_030,I'll check and let you know,0
+241,2026-10-01T10:39:32,user_012,I'll check and let you know,0
+242,2026-10-01T10:39:54,user_009,haha yes,0
+243,2026-10-01T10:39:59,user_041,haha yes,0
+244,2026-10-01T10:40:17,user_009,haha yes,0
+245,2026-10-01T10:40:47,user_057,check this out https://example.com/video,0
+246,2026-10-01T10:42:18,user_042,makes sense,0
+247,2026-10-01T10:42:27,user_001,Anyone selling a CRM license? I'll take it if the price is right,1
+248,2026-10-01T10:42:32,user_013,what time is the meetup?,0
+249,2026-10-01T10:42:40,user_057,wow,0
+250,2026-10-01T10:43:09,user_028,did anyone see the news today?,0
+251,2026-10-01T10:43:13,user_031,need coffee asap,0
+252,2026-10-01T10:45:02,user_009,nice one,0
+253,2026-10-01T10:45:08,user_020,no worries,0
+254,2026-10-01T10:45:28,user_003,my cost of living is insane this year,0
+255,2026-10-01T10:46:58,user_033,the new update broke my app again,0
+256,2026-10-01T10:49:28,user_044,true,0
+257,2026-10-01T10:50:23,user_045,check this out https://example.com/video,0
+258,2026-10-01T10:50:53,user_011,how much did you pay for dinner last night?,0
+259,2026-10-01T10:51:38,user_038,Need a quote for 10 laptops for our office,1
+260,2026-10-01T10:52:09,user_009,the new update broke my app again,0
+261,2026-10-01T10:52:35,user_002,ok,0
+262,2026-10-01T10:53:02,user_046,lol,0
+263,2026-10-01T10:56:16,user_044,same here,0
+264,2026-10-01T10:57:43,user_003,makes sense,0
+265,2026-10-01T10:58:24,user_047,this weather is something else,0
+266,2026-10-01T10:59:50,user_048,true,0
+267,2026-10-01T11:00:21,user_057,is the group chat available for new members to join?,0
+268,2026-10-01T11:01:10,user_044,How much for 5 projectors? Ready to buy now,1
+269,2026-10-01T11:01:28,user_003,ok,0
+270,2026-10-01T11:01:49,user_027,yes,0
+271,2026-10-01T11:02:03,user_042,check this out https://example.com/video,0
+272,2026-10-01T11:02:06,user_048,I'll check and let you know,0
+273,2026-10-01T11:03:27,user_003,brb,0
+274,2026-10-01T11:03:55,user_032,nice one,0
+275,2026-10-01T11:03:58,user_042,happy birthday!,0
+276,2026-10-01T11:04:24,user_043,👍,0
+277,2026-10-01T11:06:47,user_007,nice one,0
+278,2026-10-01T11:07:42,user_032,no worries,0
+279,2026-10-01T11:08:51,user_043,"just got my security camera, works great, thanks for the tips yesterday",0
+280,2026-10-01T11:09:24,user_042,haha yes,0
+281,2026-10-01T11:14:21,user_026,thanks!,0
+282,2026-10-01T11:14:43,user_042,check this out https://example.com/video,0
+283,2026-10-01T11:15:30,user_016,is the group chat available for new members to join?,0
+284,2026-10-01T11:16:03,user_053,"interesting, never thought of it that way",0
+285,2026-10-01T11:16:57,user_029,The price of e-bikes is crazy lol,0
+286,2026-10-01T11:17:13,user_010,brb,0
+287,2026-10-01T11:17:55,user_021,no,0
+288,2026-10-01T11:19:49,user_046,"just finished work, finally",0
+289,2026-10-01T11:20:39,user_044,no worries,0
+290,2026-10-01T11:20:44,user_008,agreed,0
+291,2026-10-01T11:24:02,user_047,this weather is something else,0
+292,2026-10-01T11:24:08,user_015,😂😂,0
+293,2026-10-01T11:24:37,user_029,check this out https://example.com/video,0
+294,2026-10-01T11:26:00,user_006,gm,0
+295,2026-10-01T11:27:32,user_025,https://example.com/article/12345,0
+296,2026-10-01T11:28:20,user_060,"Interested in buying 5 projectors, please send prices",1
+297,2026-10-01T11:30:07,user_027,congrats!!,0
+298,2026-10-01T11:30:13,user_022,"just finished work, finally",0
+299,2026-10-01T11:31:23,user_051,"We're ready to purchase a projector, who can send an invoice?",1
+300,2026-10-01T11:32:19,user_018,anyone watching the game tonight?,0
+301,2026-10-01T11:33:05,user_039,"Looking to buy 2 licenses this week, any recommendations?",1
+302,2026-10-01T11:33:07,user_055,congrats!!,0
+303,2026-10-01T11:33:34,user_036,how much did you pay for dinner last night?,0
+304,2026-10-01T11:35:10,user_002,gm,0
+305,2026-10-01T11:35:17,user_035,Anyone selling a espresso machine? I'll take it if the price is right,1
+306,2026-10-01T11:35:27,user_052,"just finished work, finally",0
+307,2026-10-01T11:36:15,user_001,what time is the meetup?,0
+308,2026-10-01T11:38:05,user_023,brb,0
+309,2026-10-01T11:39:12,user_016,did anyone see the news today?,0
+310,2026-10-01T11:39:28,user_023,need coffee asap,0
+311,2026-10-01T11:40:23,user_060,makes sense,0
+312,2026-10-01T11:40:48,user_020,I disagree but fair enough,0
+313,2026-10-01T11:42:33,user_047,this weather is something else,0
+314,2026-10-01T11:44:23,user_058,congrats!!,0
+315,2026-10-01T11:45:32,user_002,this weather is something else,0
+316,2026-10-01T11:45:39,user_016,I'm looking for a free ride to the airport on friday,0
+317,2026-10-01T11:46:03,user_004,How much for 2 licenses? Ready to buy now,1
+318,2026-10-01T11:48:07,user_001,traffic was terrible this morning,0
+319,2026-10-01T11:49:19,user_040,thanks!,0
+320,2026-10-01T11:49:46,user_019,can someone explain how the voting works?,0
+321,2026-10-01T11:50:04,user_018,I'm looking for a free ride to the airport on friday,0
+322,2026-10-01T11:52:05,user_046,can you resend the photo?,0
+323,2026-10-01T11:52:09,user_020,"haha that CRM license meme is great, the price tag in the picture made me laugh",0
+324,2026-10-01T11:53:10,user_006,the new update broke my app again,0
+325,2026-10-01T11:53:28,user_051,"just finished work, finally",0
+326,2026-10-01T11:54:50,user_031,haha yes,0
+327,2026-10-01T11:55:28,user_023,nice one,0
+328,2026-10-01T11:59:24,user_016,how much did you pay for dinner last night?,0
+329,2026-10-01T12:01:03,user_020,did anyone see the news today?,0
+330,2026-10-01T12:01:19,user_058,nice one,0
+331,2026-10-01T12:02:02,user_012,what time is the meetup?,0
+332,2026-10-01T12:04:06,user_046,https://example.com/article/12345,0
+333,2026-10-01T12:04:48,user_004,haha yes,0
+334,2026-10-01T12:05:21,user_057,the new update broke my app again,0
+335,2026-10-01T12:05:43,user_004,happy birthday!,0
+336,2026-10-01T12:07:06,user_034,"rent prices here are ridiculous, don't even ask",0
+337,2026-10-01T12:08:25,user_023,good point,0
+338,2026-10-01T12:09:26,user_045,wow,0
+339,2026-10-01T12:09:54,user_053,congrats!!,0
+340,2026-10-01T12:12:49,user_012,can someone explain how the voting works?,0
+341,2026-10-01T12:13:39,user_054,I disagree but fair enough,0
+342,2026-10-01T12:15:08,user_054,lol,0
+343,2026-10-01T12:15:11,user_009,"rent prices here are ridiculous, don't even ask",0
+344,2026-10-01T12:16:19,user_027,what time is the meetup?,0
+345,2026-10-01T12:16:42,user_029,my cost of living is insane this year,0
+346,2026-10-01T12:17:35,user_032,"just got my projector, works great, thanks for the tips yesterday",0
+347,2026-10-01T12:17:41,user_046,anyone have a solar panel they'd part with?,1
+348,2026-10-01T12:19:05,user_022,where can I get a decent pizza around here?,0
+349,2026-10-01T12:19:59,user_033,need coffee asap,0
+350,2026-10-01T12:22:46,user_004,sent you a DM,0
+351,2026-10-01T12:23:43,user_053,ok,0
+352,2026-10-01T12:24:40,user_031,sent you a DM,0
+353,2026-10-01T12:25:14,user_017,happy birthday!,0
+354,2026-10-01T12:26:33,user_048,the new update broke my app again,0
+355,2026-10-01T12:27:25,user_016,no worries,0
+356,2026-10-01T12:27:28,user_059,traffic was terrible this morning,0
+357,2026-10-01T12:28:07,user_007,good point,0
+358,2026-10-01T12:29:26,user_009,this weather is something else,0
+359,2026-10-01T12:30:18,user_029,can someone explain how the voting works?,0
+360,2026-10-01T12:31:22,user_010,"just finished work, finally",0
+361,2026-10-01T12:31:43,user_040,https://example.com/article/12345,0
+362,2026-10-01T12:32:02,user_049,thanks!,0
+363,2026-10-01T12:32:05,user_052,I disagree but fair enough,0
+364,2026-10-01T12:32:18,user_041,see you all tomorrow,0
+365,2026-10-01T12:32:32,user_026,"Looking to buy 50 3D printers this week, any recommendations?",1
+366,2026-10-01T12:34:49,user_046,is the group chat available for new members to join?,0
+367,2026-10-01T12:38:01,user_039,can you resend the photo?,0
+368,2026-10-01T12:38:06,user_014,lol,0
+369,2026-10-01T12:39:27,user_001,my cost of living is insane this year,0
+370,2026-10-01T12:39:45,user_020,"Looking to buy 2 e-bikes this week, any recommendations?",1
+371,2026-10-01T12:40:28,user_050,this weather is something else,0
+372,2026-10-01T12:40:37,user_006,"haha that espresso machine meme is great, the price tag in the picture made me laugh",0
+373,2026-10-01T12:41:10,user_048,ok,0
+374,2026-10-01T12:43:21,user_001,makes sense,0
+375,2026-10-01T12:45:14,user_008,"interesting, never thought of it that way",0
+376,2026-10-01T12:45:27,user_024,ok,0
+377,2026-10-01T12:47:54,user_006,makes sense,0
+378,2026-10-01T12:48:44,user_016,haha yes,0
+379,2026-10-01T12:50:25,user_050,no worries,0
+380,2026-10-01T12:50:39,user_013,can you resend the photo?,0
+381,2026-10-01T12:51:12,user_021,sent you a DM,0
+382,2026-10-01T12:51:40,user_025,"just got my espresso machine, works great, thanks for the tips yesterday",0
+383,2026-10-01T12:53:33,user_034,I disagree but fair enough,0
+384,2026-10-01T12:54:11,user_030,my cost of living is insane this year,0
+385,2026-10-01T12:54:16,user_028,thanks!,0
+386,2026-10-01T12:54:19,user_036,that's hilarious,0
+387,2026-10-01T12:54:29,user_049,good morning everyone,0
+388,2026-10-01T12:55:45,user_045,"Interested in buying 10 office chairs, please send prices",1
+389,2026-10-01T12:56:04,user_017,yes,0
+390,2026-10-01T12:59:16,user_036,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+391,2026-10-01T12:59:37,user_013,congrats!!,0
+392,2026-10-01T12:59:39,user_034,no worries,0
+393,2026-10-01T13:01:21,user_015,check this out https://example.com/video,0
+394,2026-10-01T13:01:25,user_013,same here,0
+395,2026-10-01T13:01:56,user_037,true,0
+396,2026-10-01T13:02:18,user_029,no worries,0
+397,2026-10-01T13:02:40,user_056,no,0
+398,2026-10-01T13:04:20,user_041,brb,0
+399,2026-10-01T13:04:34,user_015,"just finished work, finally",0
+400,2026-10-01T13:05:11,user_013,where can I get a decent pizza around here?,0
+401,2026-10-01T13:05:22,user_052,happy birthday!,0
+402,2026-10-01T13:06:16,user_025,good morning everyone,0
+403,2026-10-01T13:06:38,user_058,good point,0
+404,2026-10-01T13:06:52,user_026,"interesting, never thought of it that way",0
+405,2026-10-01T13:07:33,user_028,I'm looking for a free ride to the airport on friday,0
+406,2026-10-01T13:09:09,user_036,gm,0
+407,2026-10-01T13:09:50,user_007,what time is the meetup?,0
+408,2026-10-01T13:10:26,user_036,my cost of living is insane this year,0
+409,2026-10-01T13:10:52,user_042,👍,0
+410,2026-10-01T13:11:07,user_021,wow,0
+411,2026-10-01T13:11:25,user_039,same here,0
+412,2026-10-01T13:11:30,user_045,"Looking for a vendor for solar panels, our company needs 50 units",1
+413,2026-10-01T13:12:38,user_047,check this out https://example.com/video,0
+414,2026-10-01T13:12:48,user_031,no worries,0
+415,2026-10-01T13:14:19,user_013,can you resend the photo?,0
+416,2026-10-01T13:16:40,user_010,How much does a solar panel cost? Need to order today,1
+417,2026-10-01T13:18:24,user_051,how much did you pay for dinner last night?,0
+418,2026-10-01T13:18:51,user_035,is the group chat available for new members to join?,0
+419,2026-10-01T13:19:53,user_032,good morning everyone,0
+420,2026-10-01T13:21:41,user_014,thanks!,0
+421,2026-10-01T13:23:53,user_027,The price of solar panels is crazy lol,0
+422,2026-10-01T13:24:51,user_016,that's hilarious,0
+423,2026-10-01T13:25:42,user_043,anyone watching the game tonight?,0
+424,2026-10-01T13:27:56,user_053,happy birthday!,0
+425,2026-10-01T13:27:58,user_046,"interesting, never thought of it that way",0
+426,2026-10-01T13:29:33,user_043,my cost of living is insane this year,0
+427,2026-10-01T13:29:45,user_037,where can I get a decent pizza around here?,0
+428,2026-10-01T13:30:51,user_053,Need a quote for 50 laptops for our office,1
+429,2026-10-01T13:32:21,user_008,where can I get a decent pizza around here?,0
+430,2026-10-01T13:35:14,user_051,true,0
+431,2026-10-01T13:36:18,user_037,need coffee asap,0
+432,2026-10-01T13:36:25,user_008,https://example.com/article/12345,0
+433,2026-10-01T13:36:27,user_018,I'll check and let you know,0
+434,2026-10-01T13:36:27,user_019,check this out https://example.com/video,0
+435,2026-10-01T13:37:09,user_040,"thinking about getting a e-bike soon, what do they go for?",1
+436,2026-10-01T13:37:45,user_031,no,0
+437,2026-10-01T13:37:51,user_048,did anyone see the news today?,0
+438,2026-10-01T13:38:03,user_007,good morning everyone,0
+439,2026-10-01T13:38:16,user_006,makes sense,0
+440,2026-10-01T13:40:01,user_040,sent you a DM,0
+441,2026-10-01T13:42:31,user_009,can you resend the photo?,0
+442,2026-10-01T13:42:54,user_056,The price of security cameras is crazy lol,0
+443,2026-10-01T13:42:59,user_037,"interesting, never thought of it that way",0
+444,2026-10-01T13:46:42,user_005,yes,0
+445,2026-10-01T13:46:45,user_007,this weather is something else,0
+446,2026-10-01T13:48:22,user_003,wow,0
+447,2026-10-01T13:49:33,user_028,true,0
+448,2026-10-01T13:49:46,user_055,"might need a standing desk next month, any idea on pricing?",1
+449,2026-10-01T13:50:44,user_040,maybe later,0
+450,2026-10-01T13:51:25,user_025,brb,0
+451,2026-10-01T13:51:38,user_018,"We're ready to purchase a security camera, who can send an invoice?",1
+452,2026-10-01T13:51:40,user_041,good point,0
+453,2026-10-01T13:55:47,user_029,traffic was terrible this morning,0
+454,2026-10-01T13:58:18,user_010,👍,0
+455,2026-10-01T13:59:48,user_022,gm,0
+456,2026-10-01T14:03:53,user_017,I bought a 3D printer last year and it broke after a month,0
+457,2026-10-01T14:04:10,user_030,"just got my solar panel, works great, thanks for the tips yesterday",0
+458,2026-10-01T14:04:34,user_022,this weather is something else,0
+459,2026-10-01T14:05:27,user_049,no,0
+460,2026-10-01T14:05:27,user_030,😂😂,0
+461,2026-10-01T14:06:08,user_019,agreed,0
+462,2026-10-01T14:07:01,user_059,my cost of living is insane this year,0
+463,2026-10-01T14:07:41,user_040,sent you a DM,0
+464,2026-10-01T14:08:10,user_043,ok,0
+465,2026-10-01T14:08:34,user_026,https://example.com/article/12345,0
+466,2026-10-01T14:08:47,user_054,no,0
+467,2026-10-01T14:09:36,user_029,nice one,0
+468,2026-10-01T14:10:26,user_002,can anyone recommend a good movie for tonight?,0
+469,2026-10-01T14:10:44,user_020,maybe later,0
+470,2026-10-01T14:11:00,user_058,good point,0
+471,2026-10-01T14:11:15,user_042,anyone watching the game tonight?,0
+472,2026-10-01T14:12:02,user_019,who's coming on saturday?,0
+473,2026-10-01T14:12:37,user_037,"Looking for a vendor for espresso machines, our company needs 20 units",1
+474,2026-10-01T14:13:02,user_001,yes,0
+475,2026-10-01T14:14:28,user_045,congrats!!,0
+476,2026-10-01T14:16:07,user_028,who's coming on saturday?,0
+477,2026-10-01T14:16:33,user_004,"interesting, never thought of it that way",0
+478,2026-10-01T14:16:38,user_042,"interesting, never thought of it that way",0
+479,2026-10-01T14:19:02,user_052,who's coming on saturday?,0
+480,2026-10-01T14:21:04,user_022,the new update broke my app again,0
+481,2026-10-01T14:21:39,user_016,ok,0
+482,2026-10-01T14:21:48,user_040,maybe later,0
+483,2026-10-01T14:22:02,user_023,what time is the meetup?,0
+484,2026-10-01T14:23:15,user_045,ok,0
+485,2026-10-01T14:23:24,user_010,that's hilarious,0
+486,2026-10-01T14:23:29,user_035,https://example.com/article/12345,0
+487,2026-10-01T14:23:41,user_042,that's hilarious,0
+488,2026-10-01T14:25:49,user_007,thanks!,0
+489,2026-10-01T14:26:40,user_014,lol,0
+490,2026-10-01T14:27:18,user_024,agreed,0
+491,2026-10-01T14:27:47,user_052,"interesting, never thought of it that way",0
+492,2026-10-01T14:31:08,user_056,what time is the meetup?,0
+493,2026-10-01T14:32:17,user_027,makes sense,0
+494,2026-10-01T14:33:26,user_040,Anyone selling a e-bike? I'll take it if the price is right,1
+495,2026-10-01T14:33:42,user_004,anyone watching the game tonight?,0
+496,2026-10-01T14:34:47,user_024,yes,0
+497,2026-10-01T14:35:12,user_022,anyone watching the game tonight?,0
+498,2026-10-01T14:36:13,user_033,😂😂,0
+499,2026-10-01T14:38:17,user_016,agreed,0
+500,2026-10-01T14:39:26,user_053,can someone explain how the voting works?,0
+501,2026-10-01T14:39:32,user_026,"just got my standing desk, works great, thanks for the tips yesterday",0
+502,2026-10-01T14:41:04,user_057,haha yes,0
+503,2026-10-01T14:41:14,user_053,same here,0
+504,2026-10-01T14:42:51,user_008,congrats!!,0
+505,2026-10-01T14:43:48,user_049,https://example.com/article/12345,0
+506,2026-10-01T14:44:33,user_058,nice one,0
+507,2026-10-01T14:44:41,user_010,the new update broke my app again,0
+508,2026-10-01T14:45:01,user_025,brb,0
+509,2026-10-01T14:45:25,user_044,that's hilarious,0
+510,2026-10-01T14:46:51,user_009,wow,0
+511,2026-10-01T14:47:51,user_005,"haha that office chair meme is great, the price tag in the picture made me laugh",0
+512,2026-10-01T14:47:52,user_044,sent you a DM,0
+513,2026-10-01T14:48:01,user_040,traffic was terrible this morning,0
+514,2026-10-01T14:50:13,user_045,check this out https://example.com/video,0
+515,2026-10-01T14:50:29,user_011,that's hilarious,0
+516,2026-10-01T14:50:43,user_042,👍,0
+517,2026-10-01T14:53:42,user_016,How much does a 3D printer cost? Need to order today,1
+518,2026-10-01T14:53:50,user_056,The price of solar panels is crazy lol,0
+519,2026-10-01T14:55:03,user_018,how much did you pay for dinner last night?,0
+520,2026-10-01T14:59:28,user_056,"might need a espresso machine next month, any idea on pricing?",1
+521,2026-10-01T15:00:12,user_004,lol,0
+522,2026-10-01T15:00:34,user_043,makes sense,0
+523,2026-10-01T15:02:05,user_026,check this out https://example.com/video,0
+524,2026-10-01T15:02:06,user_016,congrats!!,0
+525,2026-10-01T15:02:17,user_056,brb,0
+526,2026-10-01T15:03:52,user_001,"Interested in buying 50 office chairs, please send prices",1
+527,2026-10-01T15:04:04,user_041,"rent prices here are ridiculous, don't even ask",0
+528,2026-10-01T15:04:08,user_021,"haha that projector meme is great, the price tag in the picture made me laugh",0
+529,2026-10-01T15:05:03,user_001,who's coming on saturday?,0
+530,2026-10-01T15:07:39,user_005,good point,0
+531,2026-10-01T15:08:05,user_050,I'm looking for a free ride to the airport on friday,0
+532,2026-10-01T15:08:29,user_052,makes sense,0
+533,2026-10-01T15:09:42,user_055,"just got my projector, works great, thanks for the tips yesterday",0
+534,2026-10-01T15:10:46,user_041,same here,0
+535,2026-10-01T15:10:55,user_018,the new update broke my app again,0
+536,2026-10-01T15:14:46,user_059,we used to sell espresso machines but stopped last year,0
+537,2026-10-01T15:15:46,user_028,same here,0
+538,2026-10-01T15:21:50,user_012,lol,0
+539,2026-10-01T15:22:07,user_020,"Looking to buy 50 standing desks this week, any recommendations?",1
+540,2026-10-01T15:23:11,user_018,is the group chat available for new members to join?,0
+541,2026-10-01T15:23:26,user_009,can you resend the photo?,0
+542,2026-10-01T15:24:45,user_014,good point,0
+543,2026-10-01T15:25:53,user_026,I'm looking for a free ride to the airport on friday,0
+544,2026-10-01T15:25:53,user_029,congrats!!,0
+545,2026-10-01T15:26:01,user_002,"We're ready to purchase a security camera, who can send an invoice?",1
+546,2026-10-01T15:26:44,user_034,check this out https://example.com/video,0
+547,2026-10-01T15:27:03,user_043,The price of licenses is crazy lol,0
+548,2026-10-01T15:27:20,user_044,congrats!!,0
+549,2026-10-01T15:28:01,user_015,can you resend the photo?,0
+550,2026-10-01T15:28:33,user_038,did anyone see the news today?,0
+551,2026-10-01T15:28:53,user_030,true,0
+552,2026-10-01T15:31:04,user_046,good morning everyone,0
+553,2026-10-01T15:31:17,user_019,👍,0
+554,2026-10-01T15:32:48,user_031,I disagree but fair enough,0
+555,2026-10-01T15:33:08,user_044,wow,0
+556,2026-10-01T15:34:09,user_021,agreed,0
+557,2026-10-01T15:35:54,user_002,I bought a CRM license last year and it broke after a month,0
+558,2026-10-01T15:38:34,user_057,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+559,2026-10-01T15:39:09,user_034,brb,0
+560,2026-10-01T15:39:18,user_050,"We're ready to purchase a e-bike, who can send an invoice?",1
+561,2026-10-01T15:40:00,user_055,the new update broke my app again,0
+562,2026-10-01T15:40:35,user_037,yes,0
+563,2026-10-01T15:41:08,user_007,happy birthday!,0
+564,2026-10-01T15:41:24,user_056,congrats!!,0
+565,2026-10-01T15:42:08,user_057,"just got my solar panel, works great, thanks for the tips yesterday",0
+566,2026-10-01T15:45:05,user_043,no worries,0
+567,2026-10-01T15:45:57,user_041,agreed,0
+568,2026-10-01T15:46:56,user_008,"haha that solar panel meme is great, the price tag in the picture made me laugh",0
+569,2026-10-01T15:47:16,user_021,lol,0
+570,2026-10-01T15:49:23,user_049,How much for 2 office chairs? Ready to buy now,1
+571,2026-10-01T15:51:37,user_026,👍,0
+572,2026-10-01T15:51:45,user_055,true,0
+573,2026-10-01T15:52:13,user_011,good point,0
+574,2026-10-01T15:53:24,user_013,😂😂,0
+575,2026-10-01T15:54:04,user_027,where can I get a decent pizza around here?,0
+576,2026-10-01T15:54:40,user_049,what time is the meetup?,0
+577,2026-10-01T15:56:44,user_018,did anyone see the news today?,0
+578,2026-10-01T15:59:14,user_004,What's the price of a office chair and is it in stock? Want to order tomorrow,1
+579,2026-10-01T16:02:25,user_060,"haha that security camera meme is great, the price tag in the picture made me laugh",0
+580,2026-10-01T16:02:47,user_006,I bought a e-bike last year and it broke after a month,0
+581,2026-10-01T16:03:01,user_012,no,0
+582,2026-10-01T16:03:31,user_043,check this out https://example.com/video,0
+583,2026-10-01T16:03:41,user_037,"Looking to buy 50 security cameras this week, any recommendations?",1
+584,2026-10-01T16:03:49,user_026,where can I get a decent pizza around here?,0
+585,2026-10-01T16:04:06,user_018,ok,0
+586,2026-10-01T16:04:36,user_014,see you all tomorrow,0
+587,2026-10-01T16:07:25,user_011,I disagree but fair enough,0
+588,2026-10-01T16:08:05,user_016,I disagree but fair enough,0
+589,2026-10-01T16:09:00,user_048,anyone watching the game tonight?,0
+590,2026-10-01T16:10:02,user_029,wow,0
+591,2026-10-01T16:10:13,user_018,I'll check and let you know,0
+592,2026-10-01T16:10:52,user_033,where can I get a decent pizza around here?,0
+593,2026-10-01T16:11:18,user_050,my cost of living is insane this year,0
+594,2026-10-01T16:13:26,user_020,good point,0
+595,2026-10-01T16:14:15,user_014,"Interested in buying 10 solar panels, please send prices",1
+596,2026-10-01T16:14:36,user_016,my cost of living is insane this year,0
+597,2026-10-01T16:15:30,user_020,is the group chat available for new members to join?,0
+598,2026-10-01T16:15:35,user_004,where can I get a decent pizza around here?,0
+599,2026-10-01T16:15:51,user_055,no worries,0
+600,2026-10-01T16:17:11,user_022,"just finished work, finally",0
+601,2026-10-01T16:19:06,user_013,haha yes,0
+602,2026-10-01T16:19:31,user_005,happy birthday!,0
+603,2026-10-01T16:19:43,user_035,this weather is something else,0
+604,2026-10-01T16:19:58,user_056,is the group chat available for new members to join?,0
+605,2026-10-01T16:22:06,user_046,ok,0
+606,2026-10-01T16:23:51,user_007,sent you a DM,0
+607,2026-10-01T16:25:20,user_047,no,0
+608,2026-10-01T16:26:15,user_049,is the group chat available for new members to join?,0
+609,2026-10-01T16:26:17,user_052,I bought a projector last year and it broke after a month,0
+610,2026-10-01T16:27:07,user_023,this weather is something else,0
+611,2026-10-01T16:27:23,user_039,is the group chat available for new members to join?,0
+612,2026-10-01T16:28:44,user_043,"just got my used laptop, works great, thanks for the tips yesterday",0
+613,2026-10-01T16:28:59,user_015,anyone have a espresso machine they'd part with?,1
+614,2026-10-01T16:29:49,user_022,no worries,0
+615,2026-10-01T16:29:52,user_010,did anyone see the news today?,0
+616,2026-10-01T16:31:21,user_023,agreed,0
+617,2026-10-01T16:31:36,user_034,no worries,0
+618,2026-10-01T16:31:40,user_022,no worries,0
+619,2026-10-01T16:32:16,user_014,how much did you pay for dinner last night?,0
+620,2026-10-01T16:34:06,user_003,no,0
+621,2026-10-01T16:34:39,user_036,good point,0
+622,2026-10-01T16:35:42,user_015,good point,0
+623,2026-10-01T16:37:15,user_002,congrats!!,0
+624,2026-10-01T16:38:00,user_055,yes,0
+625,2026-10-01T16:38:49,user_023,we used to sell laptops but stopped last year,0
+626,2026-10-01T16:39:27,user_052,"thinking about getting a espresso machine soon, what do they go for?",1
+627,2026-10-01T16:39:41,user_036,can someone explain how the voting works?,0
+628,2026-10-01T16:42:15,user_005,good morning everyone,0
+629,2026-10-01T16:43:54,user_024,my cost of living is insane this year,0
+630,2026-10-01T16:43:59,user_016,no worries,0
+631,2026-10-01T16:44:52,user_003,check this out https://example.com/video,0
+632,2026-10-01T16:45:37,user_052,"We're ready to purchase a espresso machine, who can send an invoice?",1
+633,2026-10-01T16:48:06,user_045,that's hilarious,0
+634,2026-10-01T16:48:11,user_040,see you all tomorrow,0
+635,2026-10-01T16:48:21,user_044,makes sense,0
+636,2026-10-01T16:49:19,user_039,congrats!!,0
+637,2026-10-01T16:51:29,user_059,no worries,0
+638,2026-10-01T16:51:32,user_050,I disagree but fair enough,0
+639,2026-10-01T16:51:38,user_003,good point,0
+640,2026-10-01T16:54:07,user_017,brb,0
+641,2026-10-01T16:55:43,user_014,I'll check and let you know,0
+642,2026-10-01T16:56:49,user_011,"rent prices here are ridiculous, don't even ask",0
+643,2026-10-01T16:59:16,user_036,is the group chat available for new members to join?,0
+644,2026-10-01T16:59:28,user_021,Who sells office chairs and do they deliver? Need them asap,1
+645,2026-10-01T16:59:35,user_043,wow,0
+646,2026-10-01T17:01:58,user_005,congrats!!,0
+647,2026-10-01T17:04:57,user_022,happy birthday!,0
+648,2026-10-01T17:05:08,user_004,where can I get a decent pizza around here?,0
+649,2026-10-01T17:05:08,user_030,"just got my 3D printer, works great, thanks for the tips yesterday",0
+650,2026-10-01T17:06:10,user_029,what time is the meetup?,0
+651,2026-10-01T17:06:16,user_008,same here,0
+652,2026-10-01T17:06:28,user_050,The price of projectors is crazy lol,0
+653,2026-10-01T17:06:57,user_026,see you all tomorrow,0
+654,2026-10-01T17:07:49,user_004,same here,0
+655,2026-10-01T17:08:44,user_043,"just finished work, finally",0
+656,2026-10-01T17:11:08,user_058,that's hilarious,0
+657,2026-10-01T17:11:59,user_004,agreed,0
+658,2026-10-01T17:12:54,user_049,same here,0
+659,2026-10-01T17:13:57,user_046,see you all tomorrow,0
+660,2026-10-01T17:14:54,user_008,how much did you pay for dinner last night?,0
+661,2026-10-01T17:16:15,user_025,can you resend the photo?,0
+662,2026-10-01T17:16:26,user_004,thanks!,0
+663,2026-10-01T17:16:29,user_030,sent you a DM,0
+664,2026-10-01T17:16:38,user_054,nice one,0
+665,2026-10-01T17:17:09,user_037,"might need a office chair next month, any idea on pricing?",1
+666,2026-10-01T17:19:11,user_018,who's coming on saturday?,0
+667,2026-10-01T17:19:52,user_013,makes sense,0
+668,2026-10-01T17:20:55,user_054,the new update broke my app again,0
+669,2026-10-01T17:22:57,user_057,can you resend the photo?,0
+670,2026-10-01T17:23:14,user_032,the new update broke my app again,0
+671,2026-10-01T17:27:01,user_010,https://example.com/article/12345,0
+672,2026-10-01T17:31:06,user_057,good point,0
+673,2026-10-01T17:32:11,user_060,can you resend the photo?,0
+674,2026-10-01T17:32:36,user_015,that's hilarious,0
+675,2026-10-01T17:33:24,user_052,traffic was terrible this morning,0
+676,2026-10-01T17:34:02,user_023,I bought a e-bike last year and it broke after a month,0
+677,2026-10-01T17:34:44,user_041,no,0
+678,2026-10-01T17:36:43,user_020,this weather is something else,0
+679,2026-10-01T17:37:26,user_020,👍,0
+680,2026-10-01T17:38:36,user_028,see you all tomorrow,0
+681,2026-10-01T17:40:29,user_049,anyone have a espresso machine they'd part with?,1
+682,2026-10-01T17:40:46,user_059,Where can I buy 3D printers in bulk?,1
+683,2026-10-01T17:40:50,user_037,"Looking to buy 50 licenses this week, any recommendations?",1
+684,2026-10-01T17:40:56,user_003,Where can I buy solar panels in bulk?,1
+685,2026-10-01T17:40:56,user_005,congrats!!,0
+686,2026-10-01T17:41:21,user_032,"just finished work, finally",0
+687,2026-10-01T17:41:36,user_022,maybe later,0
+688,2026-10-01T17:43:42,user_013,the new update broke my app again,0
+689,2026-10-01T17:44:12,user_038,I'm looking for a free ride to the airport on friday,0
+690,2026-10-01T17:49:35,user_042,makes sense,0
+691,2026-10-01T17:49:40,user_010,ok,0
+692,2026-10-01T17:49:47,user_055,check this out https://example.com/video,0
+693,2026-10-01T17:50:56,user_058,that's hilarious,0
+694,2026-10-01T17:52:55,user_038,see you all tomorrow,0
+695,2026-10-01T17:53:00,user_026,traffic was terrible this morning,0
+696,2026-10-01T17:53:55,user_030,anyone watching the game tonight?,0
+697,2026-10-01T17:54:01,user_016,"might need a security camera next month, any idea on pricing?",1
+698,2026-10-01T17:54:02,user_007,yes,0
+699,2026-10-01T17:54:43,user_047,lol,0
+700,2026-10-01T17:54:50,user_030,"interesting, never thought of it that way",0
+701,2026-10-01T17:56:04,user_006,I'm looking for a free ride to the airport on friday,0
+702,2026-10-01T17:58:08,user_017,👍,0
+703,2026-10-01T18:00:33,user_020,👍,0
+704,2026-10-01T18:02:03,user_033,the new update broke my app again,0
+705,2026-10-01T18:04:17,user_055,The price of solar panels is crazy lol,0
+706,2026-10-01T18:04:42,user_001,we used to sell standing desks but stopped last year,0
+707,2026-10-01T18:05:08,user_005,happy birthday!,0
+708,2026-10-01T18:07:04,user_030,yes,0
+709,2026-10-01T18:09:01,user_049,can you resend the photo?,0
+710,2026-10-01T18:09:48,user_052,can you resend the photo?,0
+711,2026-10-01T18:11:39,user_049,wow,0
+712,2026-10-01T18:12:41,user_033,we used to sell espresso machines but stopped last year,0
+713,2026-10-01T18:14:52,user_050,happy birthday!,0
+714,2026-10-01T18:15:44,user_056,thanks!,0
+715,2026-10-01T18:19:03,user_009,who's coming on saturday?,0
+716,2026-10-01T18:21:50,user_034,my cost of living is insane this year,0
+717,2026-10-01T18:23:27,user_056,I disagree but fair enough,0
+718,2026-10-01T18:24:00,user_035,gm,0
+719,2026-10-01T18:24:16,user_017,what time is the meetup?,0
+720,2026-10-01T18:24:24,user_047,same here,0
+721,2026-10-01T18:24:44,user_001,anyone watching the game tonight?,0
+722,2026-10-01T18:25:12,user_028,the new update broke my app again,0
+723,2026-10-01T18:25:39,user_040,happy birthday!,0
+724,2026-10-01T18:25:52,user_021,agreed,0
+725,2026-10-01T18:27:48,user_052,I'm looking for a free ride to the airport on friday,0
+726,2026-10-01T18:29:19,user_011,👍,0
+727,2026-10-01T18:29:56,user_027,gm,0
+728,2026-10-01T18:31:30,user_037,"Interested in buying 5 solar panels, please send prices",1
+729,2026-10-01T18:31:34,user_038,makes sense,0
+730,2026-10-01T18:31:38,user_003,true,0
+731,2026-10-01T18:32:56,user_017,Need a quote for 20 e-bikes for our office,1
+732,2026-10-01T18:35:09,user_009,lol,0
+733,2026-10-01T18:36:16,user_039,is the group chat available for new members to join?,0
+734,2026-10-01T18:36:23,user_004,we used to sell solar panels but stopped last year,0
+735,2026-10-01T18:36:58,user_034,nice one,0
+736,2026-10-01T18:37:05,user_010,thanks!,0
+737,2026-10-01T18:38:13,user_056,see you all tomorrow,0
+738,2026-10-01T18:38:55,user_021,need coffee asap,0
+739,2026-10-01T18:39:24,user_051,"might need a security camera next month, any idea on pricing?",1
+740,2026-10-01T18:41:27,user_036,I'm looking for a free ride to the airport on friday,0
+741,2026-10-01T18:42:33,user_011,congrats!!,0
+742,2026-10-01T18:45:03,user_046,lol,0
+743,2026-10-01T18:45:55,user_003,no,0
+744,2026-10-01T18:46:29,user_045,👍,0
+745,2026-10-01T18:47:01,user_053,nice one,0
+746,2026-10-01T18:48:48,user_032,gm,0
+747,2026-10-01T18:48:54,user_027,see you all tomorrow,0
+748,2026-10-01T18:49:34,user_052,anyone have a CRM license they'd part with?,1
+749,2026-10-01T18:49:37,user_007,"rent prices here are ridiculous, don't even ask",0
+750,2026-10-01T18:52:58,user_051,"interesting, never thought of it that way",0
+751,2026-10-01T18:53:19,user_016,that's hilarious,0
+752,2026-10-01T18:54:46,user_020,The price of 3D printers is crazy lol,0
+753,2026-10-01T18:54:52,user_021,nice one,0
+754,2026-10-01T18:55:23,user_044,maybe later,0
+755,2026-10-01T18:55:39,user_041,I disagree but fair enough,0
+756,2026-10-01T18:55:49,user_052,agreed,0
+757,2026-10-01T18:56:26,user_058,same here,0
+758,2026-10-01T18:57:05,user_032,😂😂,0
+759,2026-10-01T18:57:40,user_041,"interesting, never thought of it that way",0
+760,2026-10-01T18:58:09,user_060,same here,0
+761,2026-10-01T18:58:36,user_007,congrats!!,0
+762,2026-10-01T18:59:52,user_046,"Looking for a vendor for office chairs, our company needs 20 units",1
+763,2026-10-01T19:01:25,user_038,"rent prices here are ridiculous, don't even ask",0
+764,2026-10-01T19:01:59,user_035,my cost of living is insane this year,0
+765,2026-10-01T19:03:11,user_036,wow,0
+766,2026-10-01T19:03:35,user_038,true,0
+767,2026-10-01T19:04:28,user_039,I'll check and let you know,0
+768,2026-10-01T19:05:08,user_004,https://example.com/article/12345,0
+769,2026-10-01T19:05:44,user_047,we used to sell espresso machines but stopped last year,0
+770,2026-10-01T19:09:25,user_020,happy birthday!,0
+771,2026-10-01T19:09:31,user_054,"rent prices here are ridiculous, don't even ask",0
+772,2026-10-01T19:09:31,user_047,can you resend the photo?,0
+773,2026-10-01T19:10:08,user_058,where can I get a decent pizza around here?,0
+774,2026-10-01T19:10:20,user_023,"interesting, never thought of it that way",0
+775,2026-10-01T19:11:19,user_060,"just got my projector, works great, thanks for the tips yesterday",0
+776,2026-10-01T19:11:57,user_044,😂😂,0
+777,2026-10-01T19:12:14,user_015,anyone have a espresso machine they'd part with?,1
+778,2026-10-01T19:16:25,user_056,"Looking for a vendor for standing desks, our company needs 2 units",1
+779,2026-10-01T19:17:32,user_043,can someone explain how the voting works?,0
+780,2026-10-01T19:17:39,user_013,what time is the meetup?,0
+781,2026-10-01T19:18:37,user_023,no,0
+782,2026-10-01T19:18:53,user_005,good morning everyone,0
+783,2026-10-01T19:20:23,user_033,same here,0
+784,2026-10-01T19:20:54,user_024,👍,0
+785,2026-10-01T19:21:02,user_040,who's coming on saturday?,0
+786,2026-10-01T19:21:54,user_028,https://example.com/article/12345,0
+787,2026-10-01T19:23:10,user_035,traffic was terrible this morning,0
+788,2026-10-01T19:23:54,user_004,👍,0
+789,2026-10-01T19:24:05,user_053,check this out https://example.com/video,0
+790,2026-10-01T19:25:42,user_057,makes sense,0
+791,2026-10-01T19:26:50,user_043,good morning everyone,0
+792,2026-10-01T19:28:22,user_002,see you all tomorrow,0
+793,2026-10-01T19:29:11,user_028,wow,0
+794,2026-10-01T19:29:26,user_051,congrats!!,0
+795,2026-10-01T19:29:32,user_046,what time is the meetup?,0
+796,2026-10-01T19:33:58,user_027,What's the price of a projector and is it in stock? Want to order tomorrow,1
+797,2026-10-01T19:35:19,user_029,the new update broke my app again,0
+798,2026-10-01T19:35:33,user_027,lol,0
+799,2026-10-01T19:36:51,user_055,congrats!!,0
+800,2026-10-01T19:37:40,user_040,"just got my standing desk, works great, thanks for the tips yesterday",0
+801,2026-10-01T19:37:53,user_027,"interesting, never thought of it that way",0
+802,2026-10-01T19:38:45,user_012,haha yes,0
+803,2026-10-01T19:40:13,user_004,no,0
+804,2026-10-01T19:40:25,user_055,haha yes,0
+805,2026-10-01T19:41:19,user_005,lol,0
+806,2026-10-01T19:43:02,user_049,😂😂,0
+807,2026-10-01T19:45:02,user_032,anyone watching the game tonight?,0
+808,2026-10-01T19:45:37,user_054,true,0
+809,2026-10-01T19:46:21,user_020,anyone have a 3D printer they'd part with?,1
+810,2026-10-01T19:49:23,user_002,brb,0
+811,2026-10-01T19:49:40,user_004,"Interested in buying 10 solar panels, please send prices",1
+812,2026-10-01T19:51:32,user_030,https://example.com/article/12345,0
+813,2026-10-01T19:51:33,user_006,same here,0
+814,2026-10-01T19:52:44,user_010,brb,0
+815,2026-10-01T19:53:00,user_010,"just got my office chair, works great, thanks for the tips yesterday",0
+816,2026-10-01T19:53:58,user_005,I'll check and let you know,0
+817,2026-10-01T19:55:54,user_024,https://example.com/article/12345,0
+818,2026-10-01T19:56:07,user_014,Need a quote for 10 espresso machines for our office,1
+819,2026-10-01T19:56:22,user_053,the new update broke my app again,0
+820,2026-10-01T19:57:20,user_004,that's hilarious,0
+821,2026-10-01T19:58:16,user_049,lol,0
+822,2026-10-01T20:00:18,user_056,sent you a DM,0
+823,2026-10-01T20:00:32,user_054,the new update broke my app again,0
+824,2026-10-01T20:01:28,user_016,"thinking about getting a e-bike soon, what do they go for?",1
+825,2026-10-01T20:02:17,user_051,congrats!!,0
+826,2026-10-01T20:02:45,user_034,traffic was terrible this morning,0
+827,2026-10-01T20:03:23,user_003,ok,0
+828,2026-10-01T20:03:28,user_031,is the group chat available for new members to join?,0
+829,2026-10-01T20:03:35,user_029,lol,0
+830,2026-10-01T20:05:43,user_010,https://example.com/article/12345,0
+831,2026-10-01T20:08:22,user_032,can anyone recommend a good movie for tonight?,0
+832,2026-10-01T20:09:46,user_023,happy birthday!,0
+833,2026-10-01T20:10:27,user_036,thanks!,0
+834,2026-10-01T20:11:40,user_011,haha yes,0
+835,2026-10-01T20:14:02,user_043,What's the price of a e-bike and is it in stock? Want to order tomorrow,1
+836,2026-10-01T20:14:16,user_010,"haha that espresso machine meme is great, the price tag in the picture made me laugh",0
+837,2026-10-01T20:14:45,user_043,is the group chat available for new members to join?,0
+838,2026-10-01T20:17:03,user_049,anyone watching the game tonight?,0
+839,2026-10-01T20:18:11,user_011,traffic was terrible this morning,0
+840,2026-10-01T20:18:16,user_032,no,0
+841,2026-10-01T20:18:52,user_005,can you resend the photo?,0
+842,2026-10-01T20:20:19,user_008,did anyone see the news today?,0
+843,2026-10-01T20:20:40,user_001,did anyone see the news today?,0
+844,2026-10-01T20:25:16,user_033,"thinking about getting a security camera soon, what do they go for?",1
+845,2026-10-01T20:26:00,user_052,good point,0
+846,2026-10-01T20:26:26,user_003,need coffee asap,0
+847,2026-10-01T20:28:05,user_042,my cost of living is insane this year,0
+848,2026-10-01T20:30:48,user_040,see you all tomorrow,0
+849,2026-10-01T20:36:14,user_005,How much does a standing desk cost? Need to order today,1
+850,2026-10-01T20:37:18,user_060,thanks!,0
+851,2026-10-01T20:38:13,user_042,yes,0
+852,2026-10-01T20:38:40,user_059,makes sense,0
+853,2026-10-01T20:39:14,user_011,haha yes,0
+854,2026-10-01T20:39:41,user_032,I bought a standing desk last year and it broke after a month,0
+855,2026-10-01T20:40:38,user_058,check this out https://example.com/video,0
+856,2026-10-01T20:40:52,user_009,who's coming on saturday?,0
+857,2026-10-01T20:48:05,user_034,gm,0
+858,2026-10-01T20:48:26,user_020,the new update broke my app again,0
+859,2026-10-01T20:48:28,user_011,gm,0
+860,2026-10-01T20:48:48,user_034,nice one,0
+861,2026-10-01T20:49:12,user_028,did anyone see the news today?,0
+862,2026-10-01T20:52:30,user_049,The price of projectors is crazy lol,0
+863,2026-10-01T20:59:09,user_034,same here,0
+864,2026-10-01T21:01:40,user_059,https://example.com/article/12345,0
+865,2026-10-01T21:02:37,user_058,no,0
+866,2026-10-01T21:05:10,user_052,same here,0
+867,2026-10-01T21:05:53,user_045,makes sense,0
+868,2026-10-01T21:06:30,user_041,true,0
+869,2026-10-01T21:07:35,user_042,lol,0
+870,2026-10-01T21:07:59,user_025,true,0
+871,2026-10-01T21:08:35,user_024,ok,0
+872,2026-10-01T21:09:53,user_051,"interesting, never thought of it that way",0
+873,2026-10-01T21:10:07,user_029,what time is the meetup?,0
+874,2026-10-01T21:11:00,user_046,did anyone see the news today?,0
+875,2026-10-01T21:11:34,user_034,good point,0
+876,2026-10-01T21:11:41,user_054,"haha that e-bike meme is great, the price tag in the picture made me laugh",0
+877,2026-10-01T21:11:48,user_054,what time is the meetup?,0
+878,2026-10-01T21:14:28,user_009,good morning everyone,0
+879,2026-10-01T21:14:46,user_031,did anyone see the news today?,0
+880,2026-10-01T21:16:22,user_009,did anyone see the news today?,0
+881,2026-10-01T21:16:34,user_003,haha yes,0
+882,2026-10-01T21:16:36,user_006,this weather is something else,0
+883,2026-10-01T21:17:01,user_049,who's coming on saturday?,0
+884,2026-10-01T21:18:55,user_033,"might need a standing desk next month, any idea on pricing?",1
+885,2026-10-01T21:19:10,user_027,👍,0
+886,2026-10-01T21:19:11,user_027,no worries,0
+887,2026-10-01T21:19:59,user_006,true,0
+888,2026-10-01T21:20:22,user_049,we used to sell espresso machines but stopped last year,0
+889,2026-10-01T21:20:36,user_045,traffic was terrible this morning,0
+890,2026-10-01T21:21:49,user_033,Need a quote for 50 espresso machines for our office,1
+891,2026-10-01T21:21:51,user_027,gm,0
+892,2026-10-01T21:22:41,user_058,did anyone see the news today?,0
+893,2026-10-01T21:23:42,user_039,the new update broke my app again,0
+894,2026-10-01T21:24:58,user_019,no worries,0
+895,2026-10-01T21:26:06,user_020,😂😂,0
+896,2026-10-01T21:28:39,user_032,my cost of living is insane this year,0
+897,2026-10-01T21:33:07,user_043,anyone watching the game tonight?,0
+898,2026-10-01T21:33:25,user_042,makes sense,0
+899,2026-10-01T21:34:23,user_025,makes sense,0
+900,2026-10-01T21:35:55,user_014,happy birthday!,0
+901,2026-10-01T21:37:27,user_032,"rent prices here are ridiculous, don't even ask",0
+902,2026-10-01T21:38:18,user_049,I'll check and let you know,0
+903,2026-10-01T21:38:35,user_059,check this out https://example.com/video,0
+904,2026-10-01T21:39:08,user_010,I'll check and let you know,0
+905,2026-10-01T21:40:27,user_016,this weather is something else,0
+906,2026-10-01T21:40:43,user_060,I disagree but fair enough,0
+907,2026-10-01T21:40:54,user_042,how much did you pay for dinner last night?,0
+908,2026-10-01T21:41:01,user_052,we used to sell espresso machines but stopped last year,0
+909,2026-10-01T21:43:52,user_016,brb,0
+910,2026-10-01T21:45:59,user_052,where can I get a decent pizza around here?,0
+911,2026-10-01T21:48:30,user_046,that's hilarious,0
+912,2026-10-01T21:49:55,user_001,sent you a DM,0
+913,2026-10-01T21:49:58,user_032,😂😂,0
+914,2026-10-01T21:50:52,user_030,who's coming on saturday?,0
+915,2026-10-01T21:52:59,user_053,this weather is something else,0
+916,2026-10-01T21:55:27,user_019,check this out https://example.com/video,0
+917,2026-10-01T21:56:15,user_060,I'll check and let you know,0
+918,2026-10-01T21:56:57,user_054,who's coming on saturday?,0
+919,2026-10-01T21:58:40,user_045,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+920,2026-10-01T21:58:51,user_058,"interesting, never thought of it that way",0
+921,2026-10-01T21:59:21,user_021,check this out https://example.com/video,0
+922,2026-10-01T22:01:11,user_049,I bought a standing desk last year and it broke after a month,0
+923,2026-10-01T22:01:33,user_047,how much did you pay for dinner last night?,0
+924,2026-10-01T22:01:43,user_013,brb,0
+925,2026-10-01T22:01:48,user_017,good morning everyone,0
+926,2026-10-01T22:01:51,user_034,can someone explain how the voting works?,0
+927,2026-10-01T22:01:57,user_025,I'll check and let you know,0
+928,2026-10-01T22:02:13,user_002,is the group chat available for new members to join?,0
+929,2026-10-01T22:02:14,user_020,thanks!,0
+930,2026-10-01T22:02:39,user_044,gm,0
+931,2026-10-01T22:03:21,user_009,can you resend the photo?,0
+932,2026-10-01T22:05:19,user_045,"rent prices here are ridiculous, don't even ask",0
+933,2026-10-01T22:06:48,user_044,true,0
+934,2026-10-01T22:07:46,user_038,need coffee asap,0
+935,2026-10-01T22:07:51,user_014,good point,0
+936,2026-10-01T22:07:59,user_010,good morning everyone,0
+937,2026-10-01T22:08:35,user_033,"rent prices here are ridiculous, don't even ask",0
+938,2026-10-01T22:08:37,user_032,"interesting, never thought of it that way",0
+939,2026-10-01T22:10:12,user_034,that's hilarious,0
+940,2026-10-01T22:11:41,user_043,ok,0
+941,2026-10-01T22:12:21,user_019,we used to sell standing desks but stopped last year,0
+942,2026-10-01T22:12:56,user_029,"Looking for a vendor for office chairs, our company needs 2 units",1
+943,2026-10-01T22:13:16,user_029,The price of laptops is crazy lol,0
+944,2026-10-01T22:13:21,user_010,"interesting, never thought of it that way",0
+945,2026-10-01T22:13:43,user_012,true,0
+946,2026-10-01T22:15:07,user_054,no worries,0
+947,2026-10-01T22:15:56,user_022,brb,0
+948,2026-10-01T22:15:57,user_032,thanks!,0
+949,2026-10-01T22:17:02,user_010,"rent prices here are ridiculous, don't even ask",0
+950,2026-10-01T22:17:58,user_001,maybe later,0
+951,2026-10-01T22:18:24,user_040,lol,0
+952,2026-10-01T22:19:35,user_041,happy birthday!,0
+953,2026-10-01T22:19:57,user_002,"interesting, never thought of it that way",0
+954,2026-10-01T22:20:50,user_040,haha yes,0
+955,2026-10-01T22:21:12,user_039,did anyone see the news today?,0
+956,2026-10-01T22:21:27,user_038,👍,0
+957,2026-10-01T22:23:32,user_025,traffic was terrible this morning,0
+958,2026-10-01T22:24:50,user_026,brb,0
+959,2026-10-01T22:25:50,user_036,good point,0
+960,2026-10-01T22:26:21,user_013,gm,0
+961,2026-10-01T22:26:59,user_053,see you all tomorrow,0
+962,2026-10-01T22:27:58,user_059,Can anyone recommend a supplier for 3D printers? Budget is around $20000,1
+963,2026-10-01T22:30:06,user_027,is the group chat available for new members to join?,0
+964,2026-10-01T22:30:16,user_029,"interesting, never thought of it that way",0
+965,2026-10-01T22:30:31,user_041,"interesting, never thought of it that way",0
+966,2026-10-01T22:31:05,user_015,yes,0
+967,2026-10-01T22:31:35,user_028,is the group chat available for new members to join?,0
+968,2026-10-01T22:33:04,user_004,who's coming on saturday?,0
+969,2026-10-01T22:35:31,user_038,thanks!,0
+970,2026-10-01T22:36:38,user_002,good morning everyone,0
+971,2026-10-01T22:36:50,user_047,"just finished work, finally",0
+972,2026-10-01T22:37:35,user_029,can you resend the photo?,0
+973,2026-10-01T22:39:32,user_005,I'll check and let you know,0
+974,2026-10-01T22:40:24,user_054,congrats!!,0
+975,2026-10-01T22:40:32,user_015,how much did you pay for dinner last night?,0
+976,2026-10-01T22:41:23,user_016,congrats!!,0
+977,2026-10-01T22:42:35,user_039,thanks!,0
+978,2026-10-01T22:42:37,user_004,"might need a CRM license next month, any idea on pricing?",1
+979,2026-10-01T22:43:47,user_033,where can I get a decent pizza around here?,0
+980,2026-10-01T22:45:05,user_022,see you all tomorrow,0
+981,2026-10-01T22:46:18,user_007,no worries,0
+982,2026-10-01T22:46:44,user_025,brb,0
+983,2026-10-01T22:46:58,user_053,is the group chat available for new members to join?,0
+984,2026-10-01T22:47:51,user_049,thanks!,0
+985,2026-10-01T22:50:48,user_028,"might need a used laptop next month, any idea on pricing?",1
+986,2026-10-01T22:51:11,user_048,is the group chat available for new members to join?,0
+987,2026-10-01T22:51:20,user_050,true,0
+988,2026-10-01T22:51:30,user_042,Can anyone recommend a supplier for espresso machines? Budget is around $5000,1
+989,2026-10-01T22:53:17,user_040,who's coming on saturday?,0
+990,2026-10-01T22:53:20,user_051,brb,0
+991,2026-10-01T22:53:23,user_036,makes sense,0
+992,2026-10-01T22:53:34,user_040,can you resend the photo?,0
+993,2026-10-01T22:53:36,user_003,Can anyone recommend a supplier for espresso machines? Budget is around $20000,1
+994,2026-10-01T22:53:53,user_001,true,0
+995,2026-10-01T22:55:25,user_038,can you resend the photo?,0
+996,2026-10-01T22:55:53,user_022,traffic was terrible this morning,0
+997,2026-10-01T22:56:31,user_036,good point,0
+998,2026-10-01T22:58:31,user_032,brb,0
+999,2026-10-01T22:59:13,user_052,What's the price of a e-bike and is it in stock? Want to order tomorrow,1
+1000,2026-10-01T22:59:38,user_008,The price of standing desks is crazy lol,0
+1001,2026-10-02T07:03:57,user_010,can you resend the photo?,0
+1002,2026-10-02T07:04:17,user_012,The price of laptops is crazy lol,0
+1003,2026-10-02T07:05:21,user_026,can you resend the photo?,0
+1004,2026-10-02T07:06:00,user_052,https://example.com/article/12345,0
+1005,2026-10-02T07:06:07,user_055,the new update broke my app again,0
+1006,2026-10-02T07:07:00,user_003,https://example.com/article/12345,0
+1007,2026-10-02T07:07:35,user_006,is the group chat available for new members to join?,0
+1008,2026-10-02T07:08:00,user_016,sent you a DM,0
+1009,2026-10-02T07:09:43,user_001,😂😂,0
+1010,2026-10-02T07:13:06,user_018,I disagree but fair enough,0
+1011,2026-10-02T07:13:12,user_028,good point,0
+1012,2026-10-02T07:13:45,user_059,can you resend the photo?,0
+1013,2026-10-02T07:14:04,user_001,can anyone recommend a good movie for tonight?,0
+1014,2026-10-02T07:15:04,user_029,check this out https://example.com/video,0
+1015,2026-10-02T07:16:23,user_039,anyone have a e-bike they'd part with?,1
+1016,2026-10-02T07:16:35,user_034,ok,0
+1017,2026-10-02T07:17:05,user_039,can you resend the photo?,0
+1018,2026-10-02T07:18:15,user_060,agreed,0
+1019,2026-10-02T07:18:18,user_024,my cost of living is insane this year,0
+1020,2026-10-02T07:23:33,user_054,haha yes,0
+1021,2026-10-02T07:25:28,user_045,"just got my e-bike, works great, thanks for the tips yesterday",0
+1022,2026-10-02T07:25:33,user_026,I'll check and let you know,0
+1023,2026-10-02T07:26:05,user_047,I'll check and let you know,0
+1024,2026-10-02T07:26:09,user_008,gm,0
+1025,2026-10-02T07:26:31,user_038,need coffee asap,0
+1026,2026-10-02T07:28:11,user_027,I disagree but fair enough,0
+1027,2026-10-02T07:28:26,user_009,no,0
+1028,2026-10-02T07:29:18,user_007,good morning everyone,0
+1029,2026-10-02T07:29:45,user_004,gm,0
+1030,2026-10-02T07:30:09,user_001,Need a quote for 50 e-bikes for our office,1
+1031,2026-10-02T07:30:09,user_055,the new update broke my app again,0
+1032,2026-10-02T07:34:41,user_027,did anyone see the news today?,0
+1033,2026-10-02T07:38:20,user_021,true,0
+1034,2026-10-02T07:38:21,user_020,maybe later,0
+1035,2026-10-02T07:38:38,user_053,agreed,0
+1036,2026-10-02T07:38:57,user_033,need coffee asap,0
+1037,2026-10-02T07:40:18,user_016,no worries,0
+1038,2026-10-02T07:40:44,user_039,did anyone see the news today?,0
+1039,2026-10-02T07:40:49,user_055,"haha that solar panel meme is great, the price tag in the picture made me laugh",0
+1040,2026-10-02T07:41:50,user_057,wow,0
+1041,2026-10-02T07:42:49,user_003,my cost of living is insane this year,0
+1042,2026-10-02T07:43:47,user_007,good point,0
+1043,2026-10-02T07:45:08,user_010,"Interested in buying 20 e-bikes, please send prices",1
+1044,2026-10-02T07:47:53,user_006,can anyone recommend a good movie for tonight?,0
+1045,2026-10-02T07:48:00,user_010,did anyone see the news today?,0
+1046,2026-10-02T07:49:28,user_059,traffic was terrible this morning,0
+1047,2026-10-02T07:49:48,user_015,good point,0
+1048,2026-10-02T07:49:59,user_039,see you all tomorrow,0
+1049,2026-10-02T07:50:36,user_048,same here,0
+1050,2026-10-02T07:53:36,user_021,happy birthday!,0
+1051,2026-10-02T07:55:14,user_007,good morning everyone,0
+1052,2026-10-02T07:55:15,user_011,same here,0
+1053,2026-10-02T07:57:15,user_060,traffic was terrible this morning,0
+1054,2026-10-02T07:57:24,user_032,the new update broke my app again,0
+1055,2026-10-02T07:58:20,user_060,"just got my projector, works great, thanks for the tips yesterday",0
+1056,2026-10-02T07:58:27,user_039,happy birthday!,0
+1057,2026-10-02T08:01:08,user_016,can someone explain how the voting works?,0
+1058,2026-10-02T08:02:14,user_057,gm,0
+1059,2026-10-02T08:02:34,user_005,https://example.com/article/12345,0
+1060,2026-10-02T08:03:47,user_056,no,0
+1061,2026-10-02T08:05:26,user_054,agreed,0
+1062,2026-10-02T08:09:19,user_060,"haha that e-bike meme is great, the price tag in the picture made me laugh",0
+1063,2026-10-02T08:09:50,user_047,I bought a security camera last year and it broke after a month,0
+1064,2026-10-02T08:11:31,user_032,maybe later,0
+1065,2026-10-02T08:12:57,user_033,👍,0
+1066,2026-10-02T08:13:07,user_028,👍,0
+1067,2026-10-02T08:13:28,user_029,The price of laptops is crazy lol,0
+1068,2026-10-02T08:13:29,user_039,gm,0
+1069,2026-10-02T08:14:26,user_008,no worries,0
+1070,2026-10-02T08:14:45,user_031,can someone explain how the voting works?,0
+1071,2026-10-02T08:14:55,user_047,sent you a DM,0
+1072,2026-10-02T08:15:28,user_010,😂😂,0
+1073,2026-10-02T08:16:02,user_026,"interesting, never thought of it that way",0
+1074,2026-10-02T08:17:02,user_019,where can I get a decent pizza around here?,0
+1075,2026-10-02T08:18:47,user_055,good morning everyone,0
+1076,2026-10-02T08:18:48,user_002,thanks!,0
+1077,2026-10-02T08:20:11,user_060,where can I get a decent pizza around here?,0
+1078,2026-10-02T08:23:51,user_003,I disagree but fair enough,0
+1079,2026-10-02T08:26:51,user_017,we used to sell laptops but stopped last year,0
+1080,2026-10-02T08:28:14,user_040,agreed,0
+1081,2026-10-02T08:28:51,user_047,that's hilarious,0
+1082,2026-10-02T08:30:37,user_056,"interesting, never thought of it that way",0
+1083,2026-10-02T08:31:51,user_004,lol,0
+1084,2026-10-02T08:33:26,user_007,the new update broke my app again,0
+1085,2026-10-02T08:34:19,user_035,maybe later,0
+1086,2026-10-02T08:35:19,user_038,good morning everyone,0
+1087,2026-10-02T08:35:56,user_047,agreed,0
+1088,2026-10-02T08:36:45,user_010,congrats!!,0
+1089,2026-10-02T08:36:54,user_002,"We're ready to purchase a office chair, who can send an invoice?",1
+1090,2026-10-02T08:37:09,user_014,😂😂,0
+1091,2026-10-02T08:38:04,user_024,agreed,0
+1092,2026-10-02T08:38:40,user_029,no,0
+1093,2026-10-02T08:40:13,user_045,gm,0
+1094,2026-10-02T08:40:47,user_022,we used to sell licenses but stopped last year,0
+1095,2026-10-02T08:41:07,user_059,lol,0
+1096,2026-10-02T08:44:46,user_019,my cost of living is insane this year,0
+1097,2026-10-02T08:46:25,user_010,maybe later,0
+1098,2026-10-02T08:46:34,user_003,no worries,0
+1099,2026-10-02T08:49:27,user_033,congrats!!,0
+1100,2026-10-02T08:49:39,user_008,thanks!,0
+1101,2026-10-02T08:50:17,user_013,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+1102,2026-10-02T08:50:37,user_048,the new update broke my app again,0
+1103,2026-10-02T08:51:02,user_014,is the group chat available for new members to join?,0
+1104,2026-10-02T08:51:19,user_035,check this out https://example.com/video,0
+1105,2026-10-02T08:53:02,user_019,"interesting, never thought of it that way",0
+1106,2026-10-02T08:53:14,user_032,"interesting, never thought of it that way",0
+1107,2026-10-02T08:54:00,user_032,the new update broke my app again,0
+1108,2026-10-02T08:54:58,user_003,see you all tomorrow,0
+1109,2026-10-02T08:56:32,user_055,How much for 2 espresso machines? Ready to buy now,1
+1110,2026-10-02T08:56:52,user_056,traffic was terrible this morning,0
+1111,2026-10-02T08:59:55,user_045,did anyone see the news today?,0
+1112,2026-10-02T09:00:12,user_004,"interesting, never thought of it that way",0
+1113,2026-10-02T09:00:41,user_054,😂😂,0
+1114,2026-10-02T09:01:38,user_058,I'm looking for a free ride to the airport on friday,0
+1115,2026-10-02T09:02:12,user_026,this weather is something else,0
+1116,2026-10-02T09:02:42,user_030,The price of standing desks is crazy lol,0
+1117,2026-10-02T09:04:36,user_049,👍,0
+1118,2026-10-02T09:05:50,user_052,same here,0
+1119,2026-10-02T09:06:04,user_009,happy birthday!,0
+1120,2026-10-02T09:07:46,user_006,https://example.com/article/12345,0
+1121,2026-10-02T09:09:13,user_047,can anyone recommend a good movie for tonight?,0
+1122,2026-10-02T09:09:37,user_029,haha yes,0
+1123,2026-10-02T09:09:52,user_050,who's coming on saturday?,0
+1124,2026-10-02T09:12:28,user_003,need coffee asap,0
+1125,2026-10-02T09:13:06,user_030,I disagree but fair enough,0
+1126,2026-10-02T09:13:25,user_046,how much did you pay for dinner last night?,0
+1127,2026-10-02T09:13:38,user_008,👍,0
+1128,2026-10-02T09:14:07,user_036,brb,0
+1129,2026-10-02T09:14:38,user_058,I'm looking for a free ride to the airport on friday,0
+1130,2026-10-02T09:15:24,user_004,can you resend the photo?,0
+1131,2026-10-02T09:18:36,user_020,how much did you pay for dinner last night?,0
+1132,2026-10-02T09:18:37,user_010,"just finished work, finally",0
+1133,2026-10-02T09:20:51,user_005,https://example.com/article/12345,0
+1134,2026-10-02T09:20:52,user_022,ok,0
+1135,2026-10-02T09:22:23,user_007,maybe later,0
+1136,2026-10-02T09:23:16,user_032,how much did you pay for dinner last night?,0
+1137,2026-10-02T09:24:12,user_006,good morning everyone,0
+1138,2026-10-02T09:25:38,user_059,haha yes,0
+1139,2026-10-02T09:26:10,user_009,😂😂,0
+1140,2026-10-02T09:26:17,user_058,good point,0
+1141,2026-10-02T09:26:28,user_016,I'll check and let you know,0
+1142,2026-10-02T09:27:29,user_060,"interesting, never thought of it that way",0
+1143,2026-10-02T09:27:49,user_040,nice one,0
+1144,2026-10-02T09:28:21,user_036,Anyone selling a projector? I'll take it if the price is right,1
+1145,2026-10-02T09:29:35,user_019,thanks!,0
+1146,2026-10-02T09:30:00,user_014,who's coming on saturday?,0
+1147,2026-10-02T09:30:03,user_012,can anyone recommend a good movie for tonight?,0
+1148,2026-10-02T09:30:23,user_017,"interesting, never thought of it that way",0
+1149,2026-10-02T09:30:42,user_057,who's coming on saturday?,0
+1150,2026-10-02T09:31:07,user_024,nice one,0
+1151,2026-10-02T09:32:47,user_013,makes sense,0
+1152,2026-10-02T09:33:51,user_033,"interesting, never thought of it that way",0
+1153,2026-10-02T09:34:54,user_052,yes,0
+1154,2026-10-02T09:35:07,user_042,yes,0
+1155,2026-10-02T09:35:17,user_012,see you all tomorrow,0
+1156,2026-10-02T09:35:21,user_036,"thinking about getting a solar panel soon, what do they go for?",1
+1157,2026-10-02T09:35:53,user_042,sent you a DM,0
+1158,2026-10-02T09:36:27,user_036,sent you a DM,0
+1159,2026-10-02T09:37:11,user_036,agreed,0
+1160,2026-10-02T09:38:30,user_004,true,0
+1161,2026-10-02T09:38:52,user_048,ok,0
+1162,2026-10-02T09:39:45,user_040,yes,0
+1163,2026-10-02T09:39:59,user_053,https://example.com/article/12345,0
+1164,2026-10-02T09:42:34,user_058,maybe later,0
+1165,2026-10-02T09:45:06,user_015,what time is the meetup?,0
+1166,2026-10-02T09:46:20,user_047,the new update broke my app again,0
+1167,2026-10-02T09:46:54,user_059,"interesting, never thought of it that way",0
+1168,2026-10-02T09:49:05,user_039,good morning everyone,0
+1169,2026-10-02T09:50:43,user_034,good point,0
+1170,2026-10-02T09:51:04,user_045,"interesting, never thought of it that way",0
+1171,2026-10-02T09:51:51,user_004,what time is the meetup?,0
+1172,2026-10-02T09:52:17,user_025,😂😂,0
+1173,2026-10-02T09:52:45,user_010,congrats!!,0
+1174,2026-10-02T09:54:42,user_023,How much for 20 office chairs? Ready to buy now,1
+1175,2026-10-02T09:55:48,user_052,"interesting, never thought of it that way",0
+1176,2026-10-02T09:56:17,user_027,I'll check and let you know,0
+1177,2026-10-02T09:56:43,user_029,who's coming on saturday?,0
+1178,2026-10-02T09:56:55,user_043,Anyone selling a CRM license? I'll take it if the price is right,1
+1179,2026-10-02T09:57:06,user_020,ok,0
+1180,2026-10-02T09:57:26,user_017,that's hilarious,0
+1181,2026-10-02T09:57:58,user_042,"We're ready to purchase a solar panel, who can send an invoice?",1
+1182,2026-10-02T09:58:29,user_053,that's hilarious,0
+1183,2026-10-02T09:59:06,user_053,did anyone see the news today?,0
+1184,2026-10-02T10:00:40,user_038,no,0
+1185,2026-10-02T10:00:50,user_012,nice one,0
+1186,2026-10-02T10:01:13,user_042,see you all tomorrow,0
+1187,2026-10-02T10:03:13,user_059,good point,0
+1188,2026-10-02T10:04:42,user_016,👍,0
+1189,2026-10-02T10:06:55,user_056,sent you a DM,0
+1190,2026-10-02T10:07:49,user_042,check this out https://example.com/video,0
+1191,2026-10-02T10:07:57,user_020,anyone watching the game tonight?,0
+1192,2026-10-02T10:09:15,user_059,what time is the meetup?,0
+1193,2026-10-02T10:09:35,user_048,is the group chat available for new members to join?,0
+1194,2026-10-02T10:11:27,user_060,anyone watching the game tonight?,0
+1195,2026-10-02T10:14:18,user_058,"haha that projector meme is great, the price tag in the picture made me laugh",0
+1196,2026-10-02T10:16:11,user_037,"just got my projector, works great, thanks for the tips yesterday",0
+1197,2026-10-02T10:18:16,user_056,I bought a e-bike last year and it broke after a month,0
+1198,2026-10-02T10:21:27,user_031,"just got my solar panel, works great, thanks for the tips yesterday",0
+1199,2026-10-02T10:21:35,user_031,😂😂,0
+1200,2026-10-02T10:22:24,user_009,no,0
+1201,2026-10-02T10:22:32,user_003,no,0
+1202,2026-10-02T10:23:05,user_030,who's coming on saturday?,0
+1203,2026-10-02T10:23:39,user_005,😂😂,0
+1204,2026-10-02T10:24:11,user_010,agreed,0
+1205,2026-10-02T10:24:55,user_056,happy birthday!,0
+1206,2026-10-02T10:25:42,user_039,no worries,0
+1207,2026-10-02T10:26:32,user_055,😂😂,0
+1208,2026-10-02T10:28:23,user_005,same here,0
+1209,2026-10-02T10:28:25,user_001,we used to sell laptops but stopped last year,0
+1210,2026-10-02T10:28:56,user_006,congrats!!,0
+1211,2026-10-02T10:30:04,user_043,ok,0
+1212,2026-10-02T10:30:09,user_054,sent you a DM,0
+1213,2026-10-02T10:30:28,user_016,😂😂,0
+1214,2026-10-02T10:30:56,user_038,anyone watching the game tonight?,0
+1215,2026-10-02T10:30:58,user_014,"rent prices here are ridiculous, don't even ask",0
+1216,2026-10-02T10:33:44,user_024,Need a quote for 20 security cameras for our office,1
+1217,2026-10-02T10:34:00,user_060,can someone explain how the voting works?,0
+1218,2026-10-02T10:35:33,user_040,"just finished work, finally",0
+1219,2026-10-02T10:35:38,user_016,ok,0
+1220,2026-10-02T10:36:30,user_005,"Interested in buying 2 licenses, please send prices",1
+1221,2026-10-02T10:40:18,user_050,same here,0
+1222,2026-10-02T10:41:15,user_015,😂😂,0
+1223,2026-10-02T10:44:16,user_018,agreed,0
+1224,2026-10-02T10:47:26,user_028,traffic was terrible this morning,0
+1225,2026-10-02T10:48:50,user_009,what time is the meetup?,0
+1226,2026-10-02T10:50:25,user_051,who's coming on saturday?,0
+1227,2026-10-02T10:50:34,user_043,👍,0
+1228,2026-10-02T10:50:58,user_041,How much for 5 standing desks? Ready to buy now,1
+1229,2026-10-02T10:51:08,user_007,haha yes,0
+1230,2026-10-02T10:51:34,user_031,can someone explain how the voting works?,0
+1231,2026-10-02T10:51:49,user_007,wow,0
+1232,2026-10-02T10:52:42,user_022,what time is the meetup?,0
+1233,2026-10-02T10:53:04,user_010,https://example.com/article/12345,0
+1234,2026-10-02T10:53:54,user_028,anyone have a 3D printer they'd part with?,1
+1235,2026-10-02T10:54:17,user_005,see you all tomorrow,0
+1236,2026-10-02T10:56:46,user_057,same here,0
+1237,2026-10-02T10:59:12,user_024,ok,0
+1238,2026-10-02T10:59:30,user_004,"thinking about getting a used laptop soon, what do they go for?",1
+1239,2026-10-02T11:00:00,user_060,did anyone see the news today?,0
+1240,2026-10-02T11:00:47,user_018,this weather is something else,0
+1241,2026-10-02T11:00:49,user_057,sent you a DM,0
+1242,2026-10-02T11:02:21,user_029,the new update broke my app again,0
+1243,2026-10-02T11:02:45,user_022,good morning everyone,0
+1244,2026-10-02T11:02:50,user_051,my cost of living is insane this year,0
+1245,2026-10-02T11:03:07,user_003,I'll check and let you know,0
+1246,2026-10-02T11:03:33,user_050,gm,0
+1247,2026-10-02T11:04:31,user_020,sent you a DM,0
+1248,2026-10-02T11:04:38,user_042,gm,0
+1249,2026-10-02T11:05:10,user_019,"just finished work, finally",0
+1250,2026-10-02T11:06:16,user_014,gm,0
+1251,2026-10-02T11:06:37,user_005,agreed,0
+1252,2026-10-02T11:07:09,user_043,👍,0
+1253,2026-10-02T11:08:41,user_011,this weather is something else,0
+1254,2026-10-02T11:08:57,user_055,did anyone see the news today?,0
+1255,2026-10-02T11:09:05,user_025,😂😂,0
+1256,2026-10-02T11:09:18,user_008,good morning everyone,0
+1257,2026-10-02T11:10:15,user_058,see you all tomorrow,0
+1258,2026-10-02T11:12:02,user_028,nice one,0
+1259,2026-10-02T11:13:26,user_042,"interesting, never thought of it that way",0
+1260,2026-10-02T11:13:29,user_034,that's hilarious,0
+1261,2026-10-02T11:14:06,user_031,wow,0
+1262,2026-10-02T11:14:24,user_005,is the group chat available for new members to join?,0
+1263,2026-10-02T11:15:21,user_027,who's coming on saturday?,0
+1264,2026-10-02T11:16:28,user_019,no worries,0
+1265,2026-10-02T11:16:31,user_060,I disagree but fair enough,0
+1266,2026-10-02T11:16:53,user_054,ok,0
+1267,2026-10-02T11:18:35,user_060,what time is the meetup?,0
+1268,2026-10-02T11:20:09,user_004,good morning everyone,0
+1269,2026-10-02T11:20:35,user_015,sent you a DM,0
+1270,2026-10-02T11:21:59,user_041,congrats!!,0
+1271,2026-10-02T11:22:10,user_004,How much for 2 solar panels? Ready to buy now,1
+1272,2026-10-02T11:22:33,user_042,good point,0
+1273,2026-10-02T11:24:38,user_045,anyone watching the game tonight?,0
+1274,2026-10-02T11:25:00,user_007,lol,0
+1275,2026-10-02T11:25:49,user_057,that's hilarious,0
+1276,2026-10-02T11:28:53,user_029,"rent prices here are ridiculous, don't even ask",0
+1277,2026-10-02T11:29:40,user_003,brb,0
+1278,2026-10-02T11:30:00,user_029,agreed,0
+1279,2026-10-02T11:30:20,user_023,"just finished work, finally",0
+1280,2026-10-02T11:30:36,user_041,who's coming on saturday?,0
+1281,2026-10-02T11:30:38,user_009,the new update broke my app again,0
+1282,2026-10-02T11:31:03,user_018,I'll check and let you know,0
+1283,2026-10-02T11:31:07,user_048,same here,0
+1284,2026-10-02T11:31:25,user_022,good point,0
+1285,2026-10-02T11:33:09,user_006,😂😂,0
+1286,2026-10-02T11:35:45,user_036,"might need a used laptop next month, any idea on pricing?",1
+1287,2026-10-02T11:36:20,user_013,traffic was terrible this morning,0
+1288,2026-10-02T11:36:34,user_033,see you all tomorrow,0
+1289,2026-10-02T11:38:09,user_059,who's coming on saturday?,0
+1290,2026-10-02T11:38:20,user_053,wow,0
+1291,2026-10-02T11:41:11,user_044,can someone explain how the voting works?,0
+1292,2026-10-02T11:42:12,user_015,we used to sell espresso machines but stopped last year,0
+1293,2026-10-02T11:42:29,user_026,anyone have a security camera they'd part with?,1
+1294,2026-10-02T11:43:30,user_059,need coffee asap,0
+1295,2026-10-02T11:43:40,user_053,brb,0
+1296,2026-10-02T11:43:58,user_049,agreed,0
+1297,2026-10-02T11:45:20,user_024,😂😂,0
+1298,2026-10-02T11:46:10,user_045,happy birthday!,0
+1299,2026-10-02T11:46:46,user_056,wow,0
+1300,2026-10-02T11:48:00,user_018,agreed,0
+1301,2026-10-02T11:49:39,user_001,I disagree but fair enough,0
+1302,2026-10-02T11:50:41,user_006,who's coming on saturday?,0
+1303,2026-10-02T11:51:09,user_004,good morning everyone,0
+1304,2026-10-02T11:51:28,user_008,"just finished work, finally",0
+1305,2026-10-02T11:54:01,user_031,see you all tomorrow,0
+1306,2026-10-02T11:54:57,user_042,I bought a 3D printer last year and it broke after a month,0
+1307,2026-10-02T11:55:50,user_009,Who sells 3D printers and do they deliver? Need them asap,1
+1308,2026-10-02T11:56:30,user_010,good morning everyone,0
+1309,2026-10-02T11:56:36,user_053,"interesting, never thought of it that way",0
+1310,2026-10-02T11:57:34,user_002,https://example.com/article/12345,0
+1311,2026-10-02T11:59:04,user_039,the new update broke my app again,0
+1312,2026-10-02T11:59:09,user_027,same here,0
+1313,2026-10-02T11:59:24,user_018,need coffee asap,0
+1314,2026-10-02T11:59:26,user_023,"rent prices here are ridiculous, don't even ask",0
+1315,2026-10-02T11:59:29,user_052,did anyone see the news today?,0
+1316,2026-10-02T11:59:58,user_055,gm,0
+1317,2026-10-02T12:00:36,user_059,What's the price of a espresso machine and is it in stock? Want to order tomorrow,1
+1318,2026-10-02T12:02:04,user_043,no,0
+1319,2026-10-02T12:03:16,user_040,I'll check and let you know,0
+1320,2026-10-02T12:06:22,user_021,haha yes,0
+1321,2026-10-02T12:06:51,user_004,how much did you pay for dinner last night?,0
+1322,2026-10-02T12:07:56,user_001,see you all tomorrow,0
+1323,2026-10-02T12:09:00,user_036,can someone explain how the voting works?,0
+1324,2026-10-02T12:10:11,user_049,who's coming on saturday?,0
+1325,2026-10-02T12:11:21,user_035,sent you a DM,0
+1326,2026-10-02T12:11:36,user_049,"just got my solar panel, works great, thanks for the tips yesterday",0
+1327,2026-10-02T12:14:36,user_059,where can I get a decent pizza around here?,0
+1328,2026-10-02T12:15:11,user_027,wow,0
+1329,2026-10-02T12:17:12,user_036,did anyone see the news today?,0
+1330,2026-10-02T12:17:48,user_030,maybe later,0
+1331,2026-10-02T12:18:41,user_027,did anyone see the news today?,0
+1332,2026-10-02T12:20:54,user_007,The price of e-bikes is crazy lol,0
+1333,2026-10-02T12:21:13,user_038,"We're ready to purchase a solar panel, who can send an invoice?",1
+1334,2026-10-02T12:21:30,user_053,"Looking to buy 5 laptops this week, any recommendations?",1
+1335,2026-10-02T12:23:07,user_024,is the group chat available for new members to join?,0
+1336,2026-10-02T12:23:27,user_012,the new update broke my app again,0
+1337,2026-10-02T12:24:29,user_046,https://example.com/article/12345,0
+1338,2026-10-02T12:25:05,user_025,yes,0
+1339,2026-10-02T12:25:31,user_051,The price of laptops is crazy lol,0
+1340,2026-10-02T12:26:12,user_014,can you resend the photo?,0
+1341,2026-10-02T12:28:27,user_059,who's coming on saturday?,0
+1342,2026-10-02T12:30:32,user_006,we used to sell licenses but stopped last year,0
+1343,2026-10-02T12:31:24,user_014,is the group chat available for new members to join?,0
+1344,2026-10-02T12:31:42,user_025,"just finished work, finally",0
+1345,2026-10-02T12:32:15,user_036,did anyone see the news today?,0
+1346,2026-10-02T12:34:36,user_021,good morning everyone,0
+1347,2026-10-02T12:36:06,user_027,"just got my solar panel, works great, thanks for the tips yesterday",0
+1348,2026-10-02T12:39:50,user_043,sent you a DM,0
+1349,2026-10-02T12:40:03,user_027,wow,0
+1350,2026-10-02T12:42:21,user_012,"Interested in buying 5 espresso machines, please send prices",1
+1351,2026-10-02T12:43:00,user_058,this weather is something else,0
+1352,2026-10-02T12:43:30,user_012,😂😂,0
+1353,2026-10-02T12:44:33,user_034,I'm looking for a free ride to the airport on friday,0
+1354,2026-10-02T12:45:32,user_058,congrats!!,0
+1355,2026-10-02T12:47:04,user_015,where can I get a decent pizza around here?,0
+1356,2026-10-02T12:47:38,user_042,did anyone see the news today?,0
+1357,2026-10-02T12:48:39,user_012,where can I get a decent pizza around here?,0
+1358,2026-10-02T12:51:35,user_015,I bought a solar panel last year and it broke after a month,0
+1359,2026-10-02T12:52:28,user_012,maybe later,0
+1360,2026-10-02T12:53:57,user_036,https://example.com/article/12345,0
+1361,2026-10-02T12:54:06,user_011,who's coming on saturday?,0
+1362,2026-10-02T12:54:11,user_051,What's the price of a office chair and is it in stock? Want to order tomorrow,1
+1363,2026-10-02T12:54:25,user_029,happy birthday!,0
+1364,2026-10-02T12:55:18,user_026,😂😂,0
+1365,2026-10-02T12:55:21,user_020,yes,0
+1366,2026-10-02T12:56:31,user_022,The price of security cameras is crazy lol,0
+1367,2026-10-02T12:58:44,user_044,what time is the meetup?,0
+1368,2026-10-02T12:59:04,user_001,same here,0
+1369,2026-10-02T13:00:44,user_059,I'll check and let you know,0
+1370,2026-10-02T13:01:09,user_047,can someone explain how the voting works?,0
+1371,2026-10-02T13:01:34,user_034,I'll check and let you know,0
+1372,2026-10-02T13:02:05,user_003,brb,0
+1373,2026-10-02T13:03:44,user_004,that's hilarious,0
+1374,2026-10-02T13:04:17,user_038,brb,0
+1375,2026-10-02T13:06:17,user_005,I bought a CRM license last year and it broke after a month,0
+1376,2026-10-02T13:06:28,user_031,😂😂,0
+1377,2026-10-02T13:07:22,user_011,that's hilarious,0
+1378,2026-10-02T13:07:47,user_005,What's the price of a office chair and is it in stock? Want to order tomorrow,1
+1379,2026-10-02T13:08:47,user_051,I'm looking for a free ride to the airport on friday,0
+1380,2026-10-02T13:08:48,user_031,good morning everyone,0
+1381,2026-10-02T13:09:40,user_040,Who sells projectors and do they deliver? Need them asap,1
+1382,2026-10-02T13:10:37,user_031,"rent prices here are ridiculous, don't even ask",0
+1383,2026-10-02T13:11:04,user_020,lol,0
+1384,2026-10-02T13:11:26,user_052,can you resend the photo?,0
+1385,2026-10-02T13:11:49,user_015,traffic was terrible this morning,0
+1386,2026-10-02T13:13:17,user_024,ok,0
+1387,2026-10-02T13:13:51,user_008,no worries,0
+1388,2026-10-02T13:13:55,user_021,true,0
+1389,2026-10-02T13:14:26,user_057,"haha that e-bike meme is great, the price tag in the picture made me laugh",0
+1390,2026-10-02T13:15:18,user_017,https://example.com/article/12345,0
+1391,2026-10-02T13:15:31,user_001,check this out https://example.com/video,0
+1392,2026-10-02T13:17:08,user_058,ok,0
+1393,2026-10-02T13:18:00,user_010,"interesting, never thought of it that way",0
+1394,2026-10-02T13:18:47,user_032,I disagree but fair enough,0
+1395,2026-10-02T13:21:59,user_056,I'll check and let you know,0
+1396,2026-10-02T13:22:07,user_036,gm,0
+1397,2026-10-02T13:22:53,user_056,we used to sell licenses but stopped last year,0
+1398,2026-10-02T13:25:50,user_046,ok,0
+1399,2026-10-02T13:25:53,user_037,brb,0
+1400,2026-10-02T13:26:17,user_039,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+1401,2026-10-02T13:27:10,user_033,"just finished work, finally",0
+1402,2026-10-02T13:27:27,user_033,no worries,0
+1403,2026-10-02T13:28:09,user_024,anyone have a standing desk they'd part with?,1
+1404,2026-10-02T13:29:42,user_059,I disagree but fair enough,0
+1405,2026-10-02T13:33:07,user_031,good morning everyone,0
+1406,2026-10-02T13:33:36,user_017,nice one,0
+1407,2026-10-02T13:34:44,user_010,who's coming on saturday?,0
+1408,2026-10-02T13:34:49,user_005,see you all tomorrow,0
+1409,2026-10-02T13:35:05,user_044,how much did you pay for dinner last night?,0
+1410,2026-10-02T13:35:05,user_034,can someone explain how the voting works?,0
+1411,2026-10-02T13:36:20,user_052,thanks!,0
+1412,2026-10-02T13:39:35,user_020,who's coming on saturday?,0
+1413,2026-10-02T13:43:16,user_050,this weather is something else,0
+1414,2026-10-02T13:43:49,user_008,good point,0
+1415,2026-10-02T13:44:12,user_017,makes sense,0
+1416,2026-10-02T13:44:39,user_024,that's hilarious,0
+1417,2026-10-02T13:44:53,user_002,happy birthday!,0
+1418,2026-10-02T13:45:20,user_033,the new update broke my app again,0
+1419,2026-10-02T13:45:36,user_029,who's coming on saturday?,0
+1420,2026-10-02T13:45:50,user_023,same here,0
+1421,2026-10-02T13:46:07,user_019,same here,0
+1422,2026-10-02T13:46:34,user_037,ok,0
+1423,2026-10-02T13:47:18,user_037,good point,0
+1424,2026-10-02T13:48:05,user_054,traffic was terrible this morning,0
+1425,2026-10-02T13:48:11,user_033,"just finished work, finally",0
+1426,2026-10-02T13:48:21,user_016,see you all tomorrow,0
+1427,2026-10-02T13:48:44,user_057,traffic was terrible this morning,0
+1428,2026-10-02T13:48:57,user_005,I'm looking for a free ride to the airport on friday,0
+1429,2026-10-02T13:49:47,user_035,I disagree but fair enough,0
+1430,2026-10-02T13:50:48,user_042,I'll check and let you know,0
+1431,2026-10-02T13:51:10,user_018,agreed,0
+1432,2026-10-02T13:51:37,user_055,can someone explain how the voting works?,0
+1433,2026-10-02T13:52:59,user_020,"haha that security camera meme is great, the price tag in the picture made me laugh",0
+1434,2026-10-02T13:58:21,user_017,how much did you pay for dinner last night?,0
+1435,2026-10-02T13:58:54,user_041,where can I get a decent pizza around here?,0
+1436,2026-10-02T14:02:57,user_011,https://example.com/article/12345,0
+1437,2026-10-02T14:03:06,user_039,makes sense,0
+1438,2026-10-02T14:03:46,user_054,gm,0
+1439,2026-10-02T14:03:47,user_018,😂😂,0
+1440,2026-10-02T14:05:34,user_039,https://example.com/article/12345,0
+1441,2026-10-02T14:06:19,user_033,good point,0
+1442,2026-10-02T14:08:07,user_025,gm,0
+1443,2026-10-02T14:08:40,user_015,I disagree but fair enough,0
+1444,2026-10-02T14:09:27,user_034,"interesting, never thought of it that way",0
+1445,2026-10-02T14:10:19,user_021,no worries,0
+1446,2026-10-02T14:10:48,user_025,makes sense,0
+1447,2026-10-02T14:11:33,user_053,how much did you pay for dinner last night?,0
+1448,2026-10-02T14:14:09,user_039,the new update broke my app again,0
+1449,2026-10-02T14:14:19,user_042,same here,0
+1450,2026-10-02T14:14:41,user_031,check this out https://example.com/video,0
+1451,2026-10-02T14:16:02,user_030,this weather is something else,0
+1452,2026-10-02T14:16:42,user_033,check this out https://example.com/video,0
+1453,2026-10-02T14:16:52,user_026,I'll check and let you know,0
+1454,2026-10-02T14:19:04,user_002,thanks!,0
+1455,2026-10-02T14:20:16,user_007,wow,0
+1456,2026-10-02T14:20:55,user_014,Who sells licenses and do they deliver? Need them asap,1
+1457,2026-10-02T14:22:01,user_008,haha yes,0
+1458,2026-10-02T14:22:35,user_045,lol,0
+1459,2026-10-02T14:25:06,user_060,we used to sell standing desks but stopped last year,0
+1460,2026-10-02T14:25:55,user_050,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+1461,2026-10-02T14:28:06,user_059,nice one,0
+1462,2026-10-02T14:31:48,user_015,What's the price of a security camera and is it in stock? Want to order tomorrow,1
+1463,2026-10-02T14:32:56,user_024,this weather is something else,0
+1464,2026-10-02T14:35:16,user_013,thanks!,0
+1465,2026-10-02T14:39:17,user_001,my cost of living is insane this year,0
+1466,2026-10-02T14:39:33,user_059,I'll check and let you know,0
+1467,2026-10-02T14:39:46,user_027,good morning everyone,0
+1468,2026-10-02T14:39:51,user_058,makes sense,0
+1469,2026-10-02T14:41:10,user_006,need coffee asap,0
+1470,2026-10-02T14:42:40,user_049,haha yes,0
+1471,2026-10-02T14:44:37,user_010,congrats!!,0
+1472,2026-10-02T14:45:07,user_022,I disagree but fair enough,0
+1473,2026-10-02T14:46:27,user_049,sent you a DM,0
+1474,2026-10-02T14:46:38,user_028,ok,0
+1475,2026-10-02T14:48:55,user_006,what time is the meetup?,0
+1476,2026-10-02T14:49:44,user_050,can anyone recommend a good movie for tonight?,0
+1477,2026-10-02T14:50:10,user_030,gm,0
+1478,2026-10-02T14:52:28,user_040,good point,0
+1479,2026-10-02T14:52:30,user_027,"thinking about getting a used laptop soon, what do they go for?",1
+1480,2026-10-02T14:54:16,user_030,brb,0
+1481,2026-10-02T14:54:51,user_027,good morning everyone,0
+1482,2026-10-02T14:56:58,user_054,"just got my solar panel, works great, thanks for the tips yesterday",0
+1483,2026-10-02T14:57:18,user_054,"interesting, never thought of it that way",0
+1484,2026-10-02T14:57:25,user_002,check this out https://example.com/video,0
+1485,2026-10-02T14:57:42,user_034,I'll check and let you know,0
+1486,2026-10-02T14:59:05,user_050,I'm looking for a free ride to the airport on friday,0
+1487,2026-10-02T14:59:31,user_009,happy birthday!,0
+1488,2026-10-02T15:00:25,user_046,yes,0
+1489,2026-10-02T15:00:37,user_006,we used to sell standing desks but stopped last year,0
+1490,2026-10-02T15:01:07,user_025,anyone watching the game tonight?,0
+1491,2026-10-02T15:01:47,user_017,👍,0
+1492,2026-10-02T15:02:22,user_058,need coffee asap,0
+1493,2026-10-02T15:03:34,user_007,my cost of living is insane this year,0
+1494,2026-10-02T15:05:19,user_025,"just finished work, finally",0
+1495,2026-10-02T15:05:58,user_047,my cost of living is insane this year,0
+1496,2026-10-02T15:07:52,user_051,who's coming on saturday?,0
+1497,2026-10-02T15:09:15,user_008,lol,0
+1498,2026-10-02T15:10:19,user_012,How much for 20 solar panels? Ready to buy now,1
+1499,2026-10-02T15:10:50,user_014,haha yes,0
+1500,2026-10-02T15:13:58,user_045,The price of solar panels is crazy lol,0
+1501,2026-10-02T15:15:51,user_044,"haha that e-bike meme is great, the price tag in the picture made me laugh",0
+1502,2026-10-02T15:16:03,user_031,no,0
+1503,2026-10-02T15:16:14,user_030,"just finished work, finally",0
+1504,2026-10-02T15:16:36,user_013,maybe later,0
+1505,2026-10-02T15:16:59,user_024,see you all tomorrow,0
+1506,2026-10-02T15:17:39,user_027,I bought a e-bike last year and it broke after a month,0
+1507,2026-10-02T15:18:18,user_042,who's coming on saturday?,0
+1508,2026-10-02T15:20:35,user_008,I'm looking for a free ride to the airport on friday,0
+1509,2026-10-02T15:22:23,user_036,What's the price of a espresso machine and is it in stock? Want to order tomorrow,1
+1510,2026-10-02T15:22:40,user_008,the new update broke my app again,0
+1511,2026-10-02T15:23:27,user_051,I bought a espresso machine last year and it broke after a month,0
+1512,2026-10-02T15:24:05,user_015,see you all tomorrow,0
+1513,2026-10-02T15:24:19,user_035,thanks!,0
+1514,2026-10-02T15:24:21,user_002,brb,0
+1515,2026-10-02T15:24:23,user_030,wow,0
+1516,2026-10-02T15:25:32,user_018,I disagree but fair enough,0
+1517,2026-10-02T15:26:29,user_050,haha yes,0
+1518,2026-10-02T15:28:13,user_056,anyone watching the game tonight?,0
+1519,2026-10-02T15:28:32,user_003,https://example.com/article/12345,0
+1520,2026-10-02T15:30:57,user_001,"just finished work, finally",0
+1521,2026-10-02T15:32:27,user_016,wow,0
+1522,2026-10-02T15:32:53,user_038,where can I get a decent pizza around here?,0
+1523,2026-10-02T15:33:36,user_043,I disagree but fair enough,0
+1524,2026-10-02T15:33:37,user_006,I'll check and let you know,0
+1525,2026-10-02T15:33:52,user_021,check this out https://example.com/video,0
+1526,2026-10-02T15:34:55,user_034,who's coming on saturday?,0
+1527,2026-10-02T15:35:05,user_018,true,0
+1528,2026-10-02T15:35:21,user_050,The price of espresso machines is crazy lol,0
+1529,2026-10-02T15:35:48,user_007,I'll check and let you know,0
+1530,2026-10-02T15:36:23,user_015,"interesting, never thought of it that way",0
+1531,2026-10-02T15:37:10,user_051,yes,0
+1532,2026-10-02T15:38:52,user_038,how much did you pay for dinner last night?,0
+1533,2026-10-02T15:42:00,user_002,wow,0
+1534,2026-10-02T15:42:07,user_040,yes,0
+1535,2026-10-02T15:44:13,user_052,agreed,0
+1536,2026-10-02T15:44:32,user_042,did anyone see the news today?,0
+1537,2026-10-02T15:45:03,user_060,no worries,0
+1538,2026-10-02T15:46:00,user_017,"just finished work, finally",0
+1539,2026-10-02T15:46:54,user_019,same here,0
+1540,2026-10-02T15:47:31,user_047,sent you a DM,0
+1541,2026-10-02T15:48:08,user_005,I bought a e-bike last year and it broke after a month,0
+1542,2026-10-02T15:49:14,user_050,true,0
+1543,2026-10-02T15:52:03,user_029,see you all tomorrow,0
+1544,2026-10-02T15:52:09,user_003,who's coming on saturday?,0
+1545,2026-10-02T15:52:09,user_053,I'm looking for a free ride to the airport on friday,0
+1546,2026-10-02T15:52:39,user_007,nice one,0
+1547,2026-10-02T15:53:23,user_013,I'm looking for a free ride to the airport on friday,0
+1548,2026-10-02T15:54:24,user_012,this weather is something else,0
+1549,2026-10-02T15:54:30,user_012,my cost of living is insane this year,0
+1550,2026-10-02T15:58:28,user_046,"interesting, never thought of it that way",0
+1551,2026-10-02T15:58:51,user_024,traffic was terrible this morning,0
+1552,2026-10-02T15:59:07,user_029,no worries,0
+1553,2026-10-02T15:59:07,user_047,did anyone see the news today?,0
+1554,2026-10-02T16:01:26,user_018,wow,0
+1555,2026-10-02T16:02:23,user_027,https://example.com/article/12345,0
+1556,2026-10-02T16:04:50,user_020,wow,0
+1557,2026-10-02T16:05:12,user_015,see you all tomorrow,0
+1558,2026-10-02T16:05:26,user_021,https://example.com/article/12345,0
+1559,2026-10-02T16:06:45,user_008,brb,0
+1560,2026-10-02T16:07:31,user_032,"haha that office chair meme is great, the price tag in the picture made me laugh",0
+1561,2026-10-02T16:07:33,user_028,that's hilarious,0
+1562,2026-10-02T16:08:03,user_032,I'll check and let you know,0
+1563,2026-10-02T16:09:11,user_037,is the group chat available for new members to join?,0
+1564,2026-10-02T16:09:48,user_004,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+1565,2026-10-02T16:10:02,user_057,what time is the meetup?,0
+1566,2026-10-02T16:10:22,user_002,what time is the meetup?,0
+1567,2026-10-02T16:13:13,user_044,agreed,0
+1568,2026-10-02T16:13:39,user_003,happy birthday!,0
+1569,2026-10-02T16:14:48,user_025,that's hilarious,0
+1570,2026-10-02T16:15:43,user_054,did anyone see the news today?,0
+1571,2026-10-02T16:17:45,user_026,this weather is something else,0
+1572,2026-10-02T16:17:55,user_030,"might need a standing desk next month, any idea on pricing?",1
+1573,2026-10-02T16:18:32,user_010,good point,0
+1574,2026-10-02T16:21:51,user_010,who's coming on saturday?,0
+1575,2026-10-02T16:22:42,user_027,good morning everyone,0
+1576,2026-10-02T16:23:06,user_047,I'll check and let you know,0
+1577,2026-10-02T16:24:11,user_010,https://example.com/article/12345,0
+1578,2026-10-02T16:25:27,user_031,😂😂,0
+1579,2026-10-02T16:27:38,user_051,lol,0
+1580,2026-10-02T16:28:58,user_048,agreed,0
+1581,2026-10-02T16:30:03,user_036,no worries,0
+1582,2026-10-02T16:30:21,user_052,"interesting, never thought of it that way",0
+1583,2026-10-02T16:33:01,user_010,agreed,0
+1584,2026-10-02T16:33:49,user_022,nice one,0
+1585,2026-10-02T16:37:17,user_046,haha yes,0
+1586,2026-10-02T16:38:55,user_007,what time is the meetup?,0
+1587,2026-10-02T16:39:08,user_040,wow,0
+1588,2026-10-02T16:40:16,user_057,"rent prices here are ridiculous, don't even ask",0
+1589,2026-10-02T16:40:22,user_042,maybe later,0
+1590,2026-10-02T16:41:53,user_016,true,0
+1591,2026-10-02T16:41:55,user_053,yes,0
+1592,2026-10-02T16:42:22,user_013,check this out https://example.com/video,0
+1593,2026-10-02T16:44:13,user_033,the new update broke my app again,0
+1594,2026-10-02T16:44:20,user_029,no worries,0
+1595,2026-10-02T16:47:27,user_002,👍,0
+1596,2026-10-02T16:47:29,user_053,lol,0
+1597,2026-10-02T16:48:51,user_046,brb,0
+1598,2026-10-02T16:52:17,user_028,I bought a projector last year and it broke after a month,0
+1599,2026-10-02T16:53:14,user_043,agreed,0
+1600,2026-10-02T16:56:34,user_040,my cost of living is insane this year,0
+1601,2026-10-02T16:57:19,user_049,traffic was terrible this morning,0
+1602,2026-10-02T17:02:49,user_026,https://example.com/article/12345,0
+1603,2026-10-02T17:02:49,user_055,traffic was terrible this morning,0
+1604,2026-10-02T17:03:05,user_036,what time is the meetup?,0
+1605,2026-10-02T17:03:45,user_013,"Interested in buying 2 licenses, please send prices",1
+1606,2026-10-02T17:03:48,user_012,same here,0
+1607,2026-10-02T17:06:06,user_039,yes,0
+1608,2026-10-02T17:06:30,user_038,https://example.com/article/12345,0
+1609,2026-10-02T17:07:57,user_051,sent you a DM,0
+1610,2026-10-02T17:08:50,user_025,same here,0
+1611,2026-10-02T17:08:50,user_033,Need a quote for 50 espresso machines for our office,1
+1612,2026-10-02T17:09:12,user_023,"thinking about getting a security camera soon, what do they go for?",1
+1613,2026-10-02T17:11:33,user_048,good morning everyone,0
+1614,2026-10-02T17:11:57,user_049,"rent prices here are ridiculous, don't even ask",0
+1615,2026-10-02T17:12:49,user_049,makes sense,0
+1616,2026-10-02T17:13:35,user_012,that's hilarious,0
+1617,2026-10-02T17:15:01,user_033,traffic was terrible this morning,0
+1618,2026-10-02T17:15:11,user_024,"haha that espresso machine meme is great, the price tag in the picture made me laugh",0
+1619,2026-10-02T17:17:09,user_028,"just finished work, finally",0
+1620,2026-10-02T17:18:15,user_052,good point,0
+1621,2026-10-02T17:18:58,user_009,did anyone see the news today?,0
+1622,2026-10-02T17:19:02,user_044,happy birthday!,0
+1623,2026-10-02T17:25:29,user_003,same here,0
+1624,2026-10-02T17:25:47,user_058,sent you a DM,0
+1625,2026-10-02T17:30:11,user_035,I'll check and let you know,0
+1626,2026-10-02T17:30:49,user_049,Where can I buy e-bikes in bulk?,1
+1627,2026-10-02T17:30:53,user_010,this weather is something else,0
+1628,2026-10-02T17:31:03,user_036,"interesting, never thought of it that way",0
+1629,2026-10-02T17:31:29,user_047,anyone have a used laptop they'd part with?,1
+1630,2026-10-02T17:33:34,user_020,wow,0
+1631,2026-10-02T17:33:35,user_060,where can I get a decent pizza around here?,0
+1632,2026-10-02T17:33:45,user_030,👍,0
+1633,2026-10-02T17:33:57,user_057,where can I get a decent pizza around here?,0
+1634,2026-10-02T17:36:00,user_019,where can I get a decent pizza around here?,0
+1635,2026-10-02T17:36:52,user_008,the new update broke my app again,0
+1636,2026-10-02T17:37:02,user_048,same here,0
+1637,2026-10-02T17:37:31,user_015,check this out https://example.com/video,0
+1638,2026-10-02T17:39:29,user_057,who's coming on saturday?,0
+1639,2026-10-02T17:39:32,user_047,this weather is something else,0
+1640,2026-10-02T17:40:22,user_027,ok,0
+1641,2026-10-02T17:41:13,user_003,congrats!!,0
+1642,2026-10-02T17:41:44,user_015,same here,0
+1643,2026-10-02T17:41:49,user_054,where can I get a decent pizza around here?,0
+1644,2026-10-02T17:41:56,user_051,where can I get a decent pizza around here?,0
+1645,2026-10-02T17:43:50,user_055,gm,0
+1646,2026-10-02T17:45:23,user_037,true,0
+1647,2026-10-02T17:45:46,user_057,can anyone recommend a good movie for tonight?,0
+1648,2026-10-02T17:48:31,user_053,how much did you pay for dinner last night?,0
+1649,2026-10-02T17:50:48,user_046,I'm looking for a free ride to the airport on friday,0
+1650,2026-10-02T17:52:04,user_009,nice one,0
+1651,2026-10-02T17:53:14,user_049,https://example.com/article/12345,0
+1652,2026-10-02T17:54:28,user_028,I'll check and let you know,0
+1653,2026-10-02T17:54:50,user_052,check this out https://example.com/video,0
+1654,2026-10-02T17:55:13,user_038,agreed,0
+1655,2026-10-02T17:56:09,user_031,I'm looking for a free ride to the airport on friday,0
+1656,2026-10-02T17:56:12,user_049,we used to sell solar panels but stopped last year,0
+1657,2026-10-02T17:56:27,user_041,gm,0
+1658,2026-10-02T17:56:51,user_024,see you all tomorrow,0
+1659,2026-10-02T17:57:30,user_040,I'll check and let you know,0
+1660,2026-10-02T17:57:40,user_045,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+1661,2026-10-02T17:58:32,user_051,wow,0
+1662,2026-10-02T17:58:33,user_012,can you resend the photo?,0
+1663,2026-10-02T18:00:40,user_025,anyone watching the game tonight?,0
+1664,2026-10-02T18:01:29,user_050,can someone explain how the voting works?,0
+1665,2026-10-02T18:01:47,user_010,"just got my CRM license, works great, thanks for the tips yesterday",0
+1666,2026-10-02T18:01:50,user_009,lol,0
+1667,2026-10-02T18:02:29,user_003,that's hilarious,0
+1668,2026-10-02T18:04:28,user_034,😂😂,0
+1669,2026-10-02T18:06:56,user_029,nice one,0
+1670,2026-10-02T18:08:24,user_053,wow,0
+1671,2026-10-02T18:11:26,user_013,true,0
+1672,2026-10-02T18:12:43,user_033,congrats!!,0
+1673,2026-10-02T18:13:01,user_026,nice one,0
+1674,2026-10-02T18:13:15,user_021,gm,0
+1675,2026-10-02T18:13:24,user_004,no,0
+1676,2026-10-02T18:15:15,user_028,makes sense,0
+1677,2026-10-02T18:15:19,user_042,that's hilarious,0
+1678,2026-10-02T18:15:48,user_052,thanks!,0
+1679,2026-10-02T18:15:50,user_004,did anyone see the news today?,0
+1680,2026-10-02T18:16:41,user_018,can you resend the photo?,0
+1681,2026-10-02T18:19:52,user_006,can you resend the photo?,0
+1682,2026-10-02T18:21:50,user_044,ok,0
+1683,2026-10-02T18:22:11,user_046,lol,0
+1684,2026-10-02T18:23:03,user_025,I bought a projector last year and it broke after a month,0
+1685,2026-10-02T18:23:37,user_029,need coffee asap,0
+1686,2026-10-02T18:23:47,user_048,makes sense,0
+1687,2026-10-02T18:24:49,user_022,😂😂,0
+1688,2026-10-02T18:25:10,user_049,who's coming on saturday?,0
+1689,2026-10-02T18:26:25,user_007,The price of projectors is crazy lol,0
+1690,2026-10-02T18:27:33,user_024,true,0
+1691,2026-10-02T18:28:32,user_050,"Looking to buy 50 e-bikes this week, any recommendations?",1
+1692,2026-10-02T18:28:33,user_032,see you all tomorrow,0
+1693,2026-10-02T18:28:35,user_047,see you all tomorrow,0
+1694,2026-10-02T18:29:01,user_025,"thinking about getting a e-bike soon, what do they go for?",1
+1695,2026-10-02T18:30:00,user_054,lol,0
+1696,2026-10-02T18:30:21,user_011,traffic was terrible this morning,0
+1697,2026-10-02T18:30:33,user_021,check this out https://example.com/video,0
+1698,2026-10-02T18:31:38,user_028,true,0
+1699,2026-10-02T18:32:12,user_034,Where can I buy solar panels in bulk?,1
+1700,2026-10-02T18:32:23,user_048,can you resend the photo?,0
+1701,2026-10-02T18:32:46,user_058,see you all tomorrow,0
+1702,2026-10-02T18:33:35,user_014,congrats!!,0
+1703,2026-10-02T18:35:37,user_055,makes sense,0
+1704,2026-10-02T18:35:42,user_015,"We're ready to purchase a CRM license, who can send an invoice?",1
+1705,2026-10-02T18:35:53,user_011,is the group chat available for new members to join?,0
+1706,2026-10-02T18:37:02,user_033,Where can I buy security cameras in bulk?,1
+1707,2026-10-02T18:37:39,user_052,anyone have a office chair they'd part with?,1
+1708,2026-10-02T18:38:08,user_031,did anyone see the news today?,0
+1709,2026-10-02T18:40:36,user_058,need coffee asap,0
+1710,2026-10-02T18:42:50,user_016,that's hilarious,0
+1711,2026-10-02T18:43:51,user_055,can someone explain how the voting works?,0
+1712,2026-10-02T18:44:35,user_012,same here,0
+1713,2026-10-02T18:44:46,user_012,thanks!,0
+1714,2026-10-02T18:45:09,user_057,ok,0
+1715,2026-10-02T18:45:22,user_033,wow,0
+1716,2026-10-02T18:47:13,user_024,true,0
+1717,2026-10-02T18:47:19,user_006,wow,0
+1718,2026-10-02T18:47:33,user_014,haha yes,0
+1719,2026-10-02T18:47:59,user_011,"rent prices here are ridiculous, don't even ask",0
+1720,2026-10-02T18:48:25,user_014,check this out https://example.com/video,0
+1721,2026-10-02T18:48:39,user_006,👍,0
+1722,2026-10-02T18:51:11,user_001,I'll check and let you know,0
+1723,2026-10-02T18:51:12,user_024,"Looking for a vendor for licenses, our company needs 20 units",1
+1724,2026-10-02T18:52:35,user_043,https://example.com/article/12345,0
+1725,2026-10-02T18:54:38,user_028,where can I get a decent pizza around here?,0
+1726,2026-10-02T18:54:59,user_048,can anyone recommend a good movie for tonight?,0
+1727,2026-10-02T18:55:12,user_059,can anyone recommend a good movie for tonight?,0
+1728,2026-10-02T18:57:01,user_058,I'm looking for a free ride to the airport on friday,0
+1729,2026-10-02T18:57:04,user_035,"rent prices here are ridiculous, don't even ask",0
+1730,2026-10-02T18:58:29,user_019,good morning everyone,0
+1731,2026-10-02T18:58:31,user_017,I'll check and let you know,0
+1732,2026-10-02T18:58:50,user_034,traffic was terrible this morning,0
+1733,2026-10-02T18:59:50,user_056,anyone watching the game tonight?,0
+1734,2026-10-02T19:02:09,user_023,👍,0
+1735,2026-10-02T19:02:13,user_017,see you all tomorrow,0
+1736,2026-10-02T19:02:14,user_030,"just got my CRM license, works great, thanks for the tips yesterday",0
+1737,2026-10-02T19:02:15,user_036,anyone have a CRM license they'd part with?,1
+1738,2026-10-02T19:02:45,user_015,check this out https://example.com/video,0
+1739,2026-10-02T19:04:40,user_059,How much does a standing desk cost? Need to order today,1
+1740,2026-10-02T19:06:56,user_015,good morning everyone,0
+1741,2026-10-02T19:07:42,user_001,happy birthday!,0
+1742,2026-10-02T19:07:47,user_027,that's hilarious,0
+1743,2026-10-02T19:09:08,user_014,nice one,0
+1744,2026-10-02T19:09:23,user_026,haha yes,0
+1745,2026-10-02T19:11:10,user_060,how much did you pay for dinner last night?,0
+1746,2026-10-02T19:11:49,user_054,can you resend the photo?,0
+1747,2026-10-02T19:13:42,user_028,sent you a DM,0
+1748,2026-10-02T19:14:32,user_013,how much did you pay for dinner last night?,0
+1749,2026-10-02T19:14:33,user_029,what time is the meetup?,0
+1750,2026-10-02T19:14:38,user_014,traffic was terrible this morning,0
+1751,2026-10-02T19:17:05,user_025,did anyone see the news today?,0
+1752,2026-10-02T19:18:02,user_003,anyone have a CRM license they'd part with?,1
+1753,2026-10-02T19:18:51,user_044,gm,0
+1754,2026-10-02T19:19:13,user_028,wow,0
+1755,2026-10-02T19:20:09,user_027,https://example.com/article/12345,0
+1756,2026-10-02T19:20:09,user_032,who's coming on saturday?,0
+1757,2026-10-02T19:20:47,user_038,this weather is something else,0
+1758,2026-10-02T19:24:16,user_020,congrats!!,0
+1759,2026-10-02T19:25:36,user_013,I'll check and let you know,0
+1760,2026-10-02T19:26:02,user_048,brb,0
+1761,2026-10-02T19:26:29,user_045,good point,0
+1762,2026-10-02T19:26:49,user_056,good point,0
+1763,2026-10-02T19:26:58,user_008,can someone explain how the voting works?,0
+1764,2026-10-02T19:27:09,user_042,I bought a solar panel last year and it broke after a month,0
+1765,2026-10-02T19:27:22,user_019,same here,0
+1766,2026-10-02T19:27:49,user_040,what time is the meetup?,0
+1767,2026-10-02T19:28:11,user_024,haha yes,0
+1768,2026-10-02T19:29:02,user_046,I bought a projector last year and it broke after a month,0
+1769,2026-10-02T19:29:50,user_010,good morning everyone,0
+1770,2026-10-02T19:30:17,user_048,The price of projectors is crazy lol,0
+1771,2026-10-02T19:30:44,user_027,can someone explain how the voting works?,0
+1772,2026-10-02T19:30:51,user_019,I disagree but fair enough,0
+1773,2026-10-02T19:31:57,user_052,I disagree but fair enough,0
+1774,2026-10-02T19:32:27,user_033,yes,0
+1775,2026-10-02T19:32:46,user_041,check this out https://example.com/video,0
+1776,2026-10-02T19:33:23,user_007,no,0
+1777,2026-10-02T19:34:21,user_048,congrats!!,0
+1778,2026-10-02T19:37:06,user_001,sent you a DM,0
+1779,2026-10-02T19:37:29,user_002,no worries,0
+1780,2026-10-02T19:37:30,user_012,no worries,0
+1781,2026-10-02T19:39:38,user_054,"rent prices here are ridiculous, don't even ask",0
+1782,2026-10-02T19:42:31,user_048,ok,0
+1783,2026-10-02T19:44:17,user_016,"haha that e-bike meme is great, the price tag in the picture made me laugh",0
+1784,2026-10-02T19:45:20,user_050,what time is the meetup?,0
+1785,2026-10-02T19:46:44,user_023,happy birthday!,0
+1786,2026-10-02T19:49:21,user_060,brb,0
+1787,2026-10-02T19:49:55,user_038,brb,0
+1788,2026-10-02T19:50:00,user_045,"rent prices here are ridiculous, don't even ask",0
+1789,2026-10-02T19:50:40,user_043,👍,0
+1790,2026-10-02T19:51:03,user_004,"Looking for a vendor for solar panels, our company needs 50 units",1
+1791,2026-10-02T19:51:20,user_044,did anyone see the news today?,0
+1792,2026-10-02T19:51:21,user_033,agreed,0
+1793,2026-10-02T19:51:40,user_009,"might need a 3D printer next month, any idea on pricing?",1
+1794,2026-10-02T19:56:42,user_051,that's hilarious,0
+1795,2026-10-02T19:57:43,user_005,"rent prices here are ridiculous, don't even ask",0
+1796,2026-10-02T19:57:45,user_027,who's coming on saturday?,0
+1797,2026-10-02T19:57:47,user_039,true,0
+1798,2026-10-02T19:58:03,user_027,"just finished work, finally",0
+1799,2026-10-02T19:58:27,user_041,😂😂,0
+1800,2026-10-02T20:01:51,user_008,I'm looking for a free ride to the airport on friday,0
+1801,2026-10-02T20:01:54,user_053,the new update broke my app again,0
+1802,2026-10-02T20:02:06,user_013,good point,0
+1803,2026-10-02T20:03:10,user_002,happy birthday!,0
+1804,2026-10-02T20:03:29,user_059,no worries,0
+1805,2026-10-02T20:05:53,user_002,maybe later,0
+1806,2026-10-02T20:11:16,user_004,I'll check and let you know,0
+1807,2026-10-02T20:11:22,user_006,who's coming on saturday?,0
+1808,2026-10-02T20:13:03,user_024,no worries,0
+1809,2026-10-02T20:14:14,user_005,can anyone recommend a good movie for tonight?,0
+1810,2026-10-02T20:14:34,user_004,good morning everyone,0
+1811,2026-10-02T20:14:47,user_029,"just got my office chair, works great, thanks for the tips yesterday",0
+1812,2026-10-02T20:15:14,user_011,ok,0
+1813,2026-10-02T20:16:01,user_059,nice one,0
+1814,2026-10-02T20:16:24,user_019,haha yes,0
+1815,2026-10-02T20:16:33,user_029,Where can I buy espresso machines in bulk?,1
+1816,2026-10-02T20:16:44,user_022,sent you a DM,0
+1817,2026-10-02T20:19:15,user_039,same here,0
+1818,2026-10-02T20:20:19,user_040,"just finished work, finally",0
+1819,2026-10-02T20:20:21,user_025,brb,0
+1820,2026-10-02T20:21:05,user_047,same here,0
+1821,2026-10-02T20:22:20,user_056,https://example.com/article/12345,0
+1822,2026-10-02T20:23:06,user_046,no worries,0
+1823,2026-10-02T20:24:32,user_023,need coffee asap,0
+1824,2026-10-02T20:24:56,user_048,I disagree but fair enough,0
+1825,2026-10-02T20:25:40,user_040,no worries,0
+1826,2026-10-02T20:27:15,user_056,see you all tomorrow,0
+1827,2026-10-02T20:28:01,user_056,sent you a DM,0
+1828,2026-10-02T20:28:45,user_042,https://example.com/article/12345,0
+1829,2026-10-02T20:29:29,user_004,I bought a e-bike last year and it broke after a month,0
+1830,2026-10-02T20:31:33,user_053,lol,0
+1831,2026-10-02T20:32:53,user_014,"just finished work, finally",0
+1832,2026-10-02T20:36:38,user_051,happy birthday!,0
+1833,2026-10-02T20:37:24,user_051,congrats!!,0
+1834,2026-10-02T20:38:01,user_021,see you all tomorrow,0
+1835,2026-10-02T20:38:06,user_013,what time is the meetup?,0
+1836,2026-10-02T20:40:31,user_038,"rent prices here are ridiculous, don't even ask",0
+1837,2026-10-02T20:42:04,user_005,👍,0
+1838,2026-10-02T20:42:42,user_054,I bought a CRM license last year and it broke after a month,0
+1839,2026-10-02T20:42:47,user_004,how much did you pay for dinner last night?,0
+1840,2026-10-02T20:42:51,user_052,I disagree but fair enough,0
+1841,2026-10-02T20:44:06,user_006,I'll check and let you know,0
+1842,2026-10-02T20:45:18,user_059,check this out https://example.com/video,0
+1843,2026-10-02T20:46:45,user_025,did anyone see the news today?,0
+1844,2026-10-02T20:46:58,user_007,"just finished work, finally",0
+1845,2026-10-02T20:48:32,user_027,sent you a DM,0
+1846,2026-10-02T20:51:29,user_021,I'm looking for a free ride to the airport on friday,0
+1847,2026-10-02T20:51:58,user_005,need coffee asap,0
+1848,2026-10-02T20:52:40,user_040,"just finished work, finally",0
+1849,2026-10-02T20:52:45,user_019,see you all tomorrow,0
+1850,2026-10-02T20:52:53,user_036,good point,0
+1851,2026-10-02T20:55:09,user_055,same here,0
+1852,2026-10-02T20:55:26,user_048,happy birthday!,0
+1853,2026-10-02T20:55:52,user_049,can anyone recommend a good movie for tonight?,0
+1854,2026-10-02T20:57:38,user_024,traffic was terrible this morning,0
+1855,2026-10-02T20:59:37,user_038,wow,0
+1856,2026-10-02T20:59:49,user_037,we used to sell projectors but stopped last year,0
+1857,2026-10-02T21:01:04,user_011,where can I get a decent pizza around here?,0
+1858,2026-10-02T21:01:29,user_011,maybe later,0
+1859,2026-10-02T21:01:30,user_050,good morning everyone,0
+1860,2026-10-02T21:04:12,user_060,haha yes,0
+1861,2026-10-02T21:05:12,user_001,"just got my espresso machine, works great, thanks for the tips yesterday",0
+1862,2026-10-02T21:05:33,user_053,can someone explain how the voting works?,0
+1863,2026-10-02T21:05:39,user_024,anyone watching the game tonight?,0
+1864,2026-10-02T21:06:06,user_039,ok,0
+1865,2026-10-02T21:06:52,user_044,"Looking to buy 5 security cameras this week, any recommendations?",1
+1866,2026-10-02T21:06:58,user_005,see you all tomorrow,0
+1867,2026-10-02T21:07:07,user_031,true,0
+1868,2026-10-02T21:09:16,user_033,I'm looking for a free ride to the airport on friday,0
+1869,2026-10-02T21:09:42,user_039,anyone have a espresso machine they'd part with?,1
+1870,2026-10-02T21:10:41,user_003,can you resend the photo?,0
+1871,2026-10-02T21:10:51,user_060,the new update broke my app again,0
+1872,2026-10-02T21:11:08,user_047,I bought a solar panel last year and it broke after a month,0
+1873,2026-10-02T21:13:05,user_024,wow,0
+1874,2026-10-02T21:14:13,user_024,who's coming on saturday?,0
+1875,2026-10-02T21:14:37,user_043,Need a quote for 2 solar panels for our office,1
+1876,2026-10-02T21:14:47,user_041,😂😂,0
+1877,2026-10-02T21:15:26,user_029,lol,0
+1878,2026-10-02T21:16:42,user_030,see you all tomorrow,0
+1879,2026-10-02T21:16:45,user_030,makes sense,0
+1880,2026-10-02T21:17:39,user_055,who's coming on saturday?,0
+1881,2026-10-02T21:17:43,user_026,I'll check and let you know,0
+1882,2026-10-02T21:18:30,user_050,check this out https://example.com/video,0
+1883,2026-10-02T21:18:35,user_052,"rent prices here are ridiculous, don't even ask",0
+1884,2026-10-02T21:18:54,user_001,"haha that standing desk meme is great, the price tag in the picture made me laugh",0
+1885,2026-10-02T21:19:33,user_057,the new update broke my app again,0
+1886,2026-10-02T21:19:35,user_013,sent you a DM,0
+1887,2026-10-02T21:20:05,user_030,we used to sell laptops but stopped last year,0
+1888,2026-10-02T21:22:54,user_027,where can I get a decent pizza around here?,0
+1889,2026-10-02T21:23:36,user_019,"just got my solar panel, works great, thanks for the tips yesterday",0
+1890,2026-10-02T21:24:00,user_021,good point,0
+1891,2026-10-02T21:24:47,user_056,is the group chat available for new members to join?,0
+1892,2026-10-02T21:27:54,user_006,I'll check and let you know,0
+1893,2026-10-02T21:28:06,user_041,how much did you pay for dinner last night?,0
+1894,2026-10-02T21:28:35,user_011,https://example.com/article/12345,0
+1895,2026-10-02T21:29:34,user_057,How much does a solar panel cost? Need to order today,1
+1896,2026-10-02T21:30:02,user_002,gm,0
+1897,2026-10-02T21:31:06,user_028,this weather is something else,0
+1898,2026-10-02T21:31:52,user_003,traffic was terrible this morning,0
+1899,2026-10-02T21:33:22,user_059,did anyone see the news today?,0
+1900,2026-10-02T21:33:59,user_051,no worries,0
+1901,2026-10-02T21:34:04,user_007,agreed,0
+1902,2026-10-02T21:34:12,user_033,"just got my solar panel, works great, thanks for the tips yesterday",0
+1903,2026-10-02T21:34:44,user_013,"just finished work, finally",0
+1904,2026-10-02T21:34:58,user_040,that's hilarious,0
+1905,2026-10-02T21:35:02,user_057,"might need a standing desk next month, any idea on pricing?",1
+1906,2026-10-02T21:35:33,user_014,maybe later,0
+1907,2026-10-02T21:35:37,user_047,Where can I buy 3D printers in bulk?,1
+1908,2026-10-02T21:35:59,user_031,thanks!,0
+1909,2026-10-02T21:36:03,user_060,the new update broke my app again,0
+1910,2026-10-02T21:36:10,user_016,I'll check and let you know,0
+1911,2026-10-02T21:36:47,user_001,this weather is something else,0
+1912,2026-10-02T21:38:11,user_030,is the group chat available for new members to join?,0
+1913,2026-10-02T21:38:22,user_024,ok,0
+1914,2026-10-02T21:38:37,user_051,see you all tomorrow,0
+1915,2026-10-02T21:39:55,user_021,"just finished work, finally",0
+1916,2026-10-02T21:40:09,user_017,who's coming on saturday?,0
+1917,2026-10-02T21:40:48,user_055,who's coming on saturday?,0
+1918,2026-10-02T21:41:10,user_029,thanks!,0
+1919,2026-10-02T21:44:17,user_057,yes,0
+1920,2026-10-02T21:45:41,user_019,no,0
+1921,2026-10-02T21:46:06,user_042,that's hilarious,0
+1922,2026-10-02T21:50:09,user_034,my cost of living is insane this year,0
+1923,2026-10-02T21:50:12,user_035,see you all tomorrow,0
+1924,2026-10-02T21:50:16,user_047,"rent prices here are ridiculous, don't even ask",0
+1925,2026-10-02T21:50:40,user_045,makes sense,0
+1926,2026-10-02T21:53:18,user_009,"just finished work, finally",0
+1927,2026-10-02T21:54:17,user_041,congrats!!,0
+1928,2026-10-02T21:57:00,user_001,maybe later,0
+1929,2026-10-02T21:57:14,user_032,happy birthday!,0
+1930,2026-10-02T21:57:29,user_001,ok,0
+1931,2026-10-02T21:57:53,user_041,Who sells 3D printers and do they deliver? Need them asap,1
+1932,2026-10-02T21:58:00,user_004,congrats!!,0
+1933,2026-10-02T21:59:59,user_023,brb,0
+1934,2026-10-02T22:00:17,user_033,no,0
+1935,2026-10-02T22:00:51,user_018,happy birthday!,0
+1936,2026-10-02T22:02:04,user_004,traffic was terrible this morning,0
+1937,2026-10-02T22:02:11,user_028,sent you a DM,0
+1938,2026-10-02T22:02:34,user_059,😂😂,0
+1939,2026-10-02T22:04:21,user_027,nice one,0
+1940,2026-10-02T22:05:05,user_049,traffic was terrible this morning,0
+1941,2026-10-02T22:06:36,user_046,good point,0
+1942,2026-10-02T22:07:28,user_049,can someone explain how the voting works?,0
+1943,2026-10-02T22:08:38,user_030,anyone watching the game tonight?,0
+1944,2026-10-02T22:10:22,user_015,check this out https://example.com/video,0
+1945,2026-10-02T22:10:52,user_009,did anyone see the news today?,0
+1946,2026-10-02T22:11:02,user_008,who's coming on saturday?,0
+1947,2026-10-02T22:11:23,user_052,we used to sell solar panels but stopped last year,0
+1948,2026-10-02T22:11:51,user_031,haha yes,0
+1949,2026-10-02T22:12:37,user_036,happy birthday!,0
+1950,2026-10-02T22:12:56,user_054,"interesting, never thought of it that way",0
+1951,2026-10-02T22:13:10,user_054,who's coming on saturday?,0
+1952,2026-10-02T22:13:47,user_051,good morning everyone,0
+1953,2026-10-02T22:13:52,user_010,can anyone recommend a good movie for tonight?,0
+1954,2026-10-02T22:15:34,user_055,I disagree but fair enough,0
+1955,2026-10-02T22:15:58,user_021,same here,0
+1956,2026-10-02T22:16:20,user_045,is the group chat available for new members to join?,0
+1957,2026-10-02T22:16:51,user_052,happy birthday!,0
+1958,2026-10-02T22:17:03,user_004,did anyone see the news today?,0
+1959,2026-10-02T22:17:26,user_041,need coffee asap,0
+1960,2026-10-02T22:19:16,user_051,"rent prices here are ridiculous, don't even ask",0
+1961,2026-10-02T22:19:23,user_014,yes,0
+1962,2026-10-02T22:22:05,user_036,nice one,0
+1963,2026-10-02T22:22:34,user_035,nice one,0
+1964,2026-10-02T22:24:22,user_023,see you all tomorrow,0
+1965,2026-10-02T22:24:51,user_059,Anyone selling a solar panel? I'll take it if the price is right,1
+1966,2026-10-02T22:26:52,user_020,lol,0
+1967,2026-10-02T22:27:09,user_027,I'll check and let you know,0
+1968,2026-10-02T22:27:09,user_044,anyone watching the game tonight?,0
+1969,2026-10-02T22:28:23,user_007,what time is the meetup?,0
+1970,2026-10-02T22:29:58,user_041,happy birthday!,0
+1971,2026-10-02T22:30:33,user_034,congrats!!,0
+1972,2026-10-02T22:31:33,user_031,good point,0
+1973,2026-10-02T22:33:54,user_014,agreed,0
+1974,2026-10-02T22:36:48,user_035,check this out https://example.com/video,0
+1975,2026-10-02T22:37:39,user_060,who's coming on saturday?,0
+1976,2026-10-02T22:37:55,user_054,😂😂,0
+1977,2026-10-02T22:40:41,user_048,lol,0
+1978,2026-10-02T22:41:12,user_031,ok,0
+1979,2026-10-02T22:41:30,user_057,no,0
+1980,2026-10-02T22:42:09,user_043,I disagree but fair enough,0
+1981,2026-10-02T22:43:46,user_027,did anyone see the news today?,0
+1982,2026-10-02T22:44:26,user_021,the new update broke my app again,0
+1983,2026-10-02T22:44:30,user_016,😂😂,0
+1984,2026-10-02T22:44:55,user_060,https://example.com/article/12345,0
+1985,2026-10-02T22:47:48,user_008,check this out https://example.com/video,0
+1986,2026-10-02T22:47:52,user_012,traffic was terrible this morning,0
+1987,2026-10-02T22:49:27,user_006,wow,0
+1988,2026-10-02T22:50:20,user_014,haha yes,0
+1989,2026-10-02T22:50:28,user_030,happy birthday!,0
+1990,2026-10-02T22:50:45,user_009,nice one,0
+1991,2026-10-02T22:51:25,user_058,happy birthday!,0
+1992,2026-10-02T22:51:39,user_028,no,0
+1993,2026-10-02T22:52:31,user_039,did anyone see the news today?,0
+1994,2026-10-02T22:52:48,user_052,good morning everyone,0
+1995,2026-10-02T22:52:59,user_002,the new update broke my app again,0
+1996,2026-10-02T22:54:25,user_004,anyone watching the game tonight?,0
+1997,2026-10-02T22:57:32,user_025,what time is the meetup?,0
+1998,2026-10-02T22:58:58,user_006,wow,0
+1999,2026-10-02T22:59:44,user_019,"interesting, never thought of it that way",0
+2000,2026-10-02T22:59:55,user_050,did anyone see the news today?,0
+2001,2026-10-03T07:01:38,user_026,true,0
+2002,2026-10-03T07:02:41,user_053,"just finished work, finally",0
+2003,2026-10-03T07:07:39,user_022,nice one,0
+2004,2026-10-03T07:07:40,user_045,"Looking to buy 5 laptops this week, any recommendations?",1
+2005,2026-10-03T07:08:00,user_059,can someone explain how the voting works?,0
+2006,2026-10-03T07:10:29,user_053,nice one,0
+2007,2026-10-03T07:10:41,user_005,is the group chat available for new members to join?,0
+2008,2026-10-03T07:12:08,user_045,I'll check and let you know,0
+2009,2026-10-03T07:12:15,user_021,congrats!!,0
+2010,2026-10-03T07:13:21,user_056,the new update broke my app again,0
+2011,2026-10-03T07:13:42,user_046,"just finished work, finally",0
+2012,2026-10-03T07:13:56,user_028,haha yes,0
+2013,2026-10-03T07:14:22,user_027,we used to sell security cameras but stopped last year,0
+2014,2026-10-03T07:14:52,user_036,what time is the meetup?,0
+2015,2026-10-03T07:15:25,user_013,"rent prices here are ridiculous, don't even ask",0
+2016,2026-10-03T07:17:10,user_046,The price of 3D printers is crazy lol,0
+2017,2026-10-03T07:17:47,user_024,"We're ready to purchase a standing desk, who can send an invoice?",1
+2018,2026-10-03T07:19:41,user_005,makes sense,0
+2019,2026-10-03T07:21:36,user_019,true,0
+2020,2026-10-03T07:22:43,user_012,where can I get a decent pizza around here?,0
+2021,2026-10-03T07:22:45,user_014,anyone have a 3D printer they'd part with?,1
+2022,2026-10-03T07:23:07,user_005,good point,0
+2023,2026-10-03T07:24:33,user_054,lol,0
+2024,2026-10-03T07:26:48,user_055,😂😂,0
+2025,2026-10-03T07:28:29,user_055,gm,0
+2026,2026-10-03T07:29:05,user_044,need coffee asap,0
+2027,2026-10-03T07:29:31,user_034,The price of projectors is crazy lol,0
+2028,2026-10-03T07:31:01,user_047,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+2029,2026-10-03T07:31:47,user_035,the new update broke my app again,0
+2030,2026-10-03T07:32:43,user_060,What's the price of a espresso machine and is it in stock? Want to order tomorrow,1
+2031,2026-10-03T07:33:16,user_034,brb,0
+2032,2026-10-03T07:33:36,user_056,anyone watching the game tonight?,0
+2033,2026-10-03T07:34:35,user_030,happy birthday!,0
+2034,2026-10-03T07:34:44,user_001,sent you a DM,0
+2035,2026-10-03T07:35:02,user_033,The price of licenses is crazy lol,0
+2036,2026-10-03T07:35:46,user_020,anyone watching the game tonight?,0
+2037,2026-10-03T07:35:53,user_013,traffic was terrible this morning,0
+2038,2026-10-03T07:38:02,user_013,gm,0
+2039,2026-10-03T07:39:13,user_024,https://example.com/article/12345,0
+2040,2026-10-03T07:39:53,user_043,Need a quote for 50 office chairs for our office,1
+2041,2026-10-03T07:40:08,user_047,sent you a DM,0
+2042,2026-10-03T07:40:16,user_057,haha yes,0
+2043,2026-10-03T07:44:12,user_053,agreed,0
+2044,2026-10-03T07:44:18,user_035,I bought a solar panel last year and it broke after a month,0
+2045,2026-10-03T07:46:38,user_039,no,0
+2046,2026-10-03T07:48:59,user_019,makes sense,0
+2047,2026-10-03T07:49:37,user_024,check this out https://example.com/video,0
+2048,2026-10-03T07:52:30,user_046,did anyone see the news today?,0
+2049,2026-10-03T07:54:28,user_057,good morning everyone,0
+2050,2026-10-03T07:55:08,user_017,"interesting, never thought of it that way",0
+2051,2026-10-03T07:55:35,user_055,"interesting, never thought of it that way",0
+2052,2026-10-03T07:56:20,user_006,"just got my standing desk, works great, thanks for the tips yesterday",0
+2053,2026-10-03T07:57:12,user_028,traffic was terrible this morning,0
+2054,2026-10-03T07:57:25,user_004,ok,0
+2055,2026-10-03T07:58:47,user_019,no,0
+2056,2026-10-03T07:58:51,user_003,"We're ready to purchase a e-bike, who can send an invoice?",1
+2057,2026-10-03T07:59:11,user_020,true,0
+2058,2026-10-03T07:59:28,user_019,I'll check and let you know,0
+2059,2026-10-03T07:59:36,user_009,"Interested in buying 20 e-bikes, please send prices",1
+2060,2026-10-03T08:01:03,user_005,yes,0
+2061,2026-10-03T08:01:31,user_013,good morning everyone,0
+2062,2026-10-03T08:01:42,user_027,we used to sell projectors but stopped last year,0
+2063,2026-10-03T08:01:57,user_006,"just got my used laptop, works great, thanks for the tips yesterday",0
+2064,2026-10-03T08:03:55,user_046,"interesting, never thought of it that way",0
+2065,2026-10-03T08:05:29,user_054,"just got my CRM license, works great, thanks for the tips yesterday",0
+2066,2026-10-03T08:05:32,user_053,no worries,0
+2067,2026-10-03T08:05:49,user_028,gm,0
+2068,2026-10-03T08:06:52,user_033,who's coming on saturday?,0
+2069,2026-10-03T08:07:12,user_021,sent you a DM,0
+2070,2026-10-03T08:07:21,user_032,I disagree but fair enough,0
+2071,2026-10-03T08:08:18,user_047,my cost of living is insane this year,0
+2072,2026-10-03T08:08:19,user_034,anyone watching the game tonight?,0
+2073,2026-10-03T08:09:28,user_060,is the group chat available for new members to join?,0
+2074,2026-10-03T08:09:34,user_035,I'll check and let you know,0
+2075,2026-10-03T08:11:16,user_005,I'll check and let you know,0
+2076,2026-10-03T08:13:12,user_011,I'm looking for a free ride to the airport on friday,0
+2077,2026-10-03T08:14:45,user_040,who's coming on saturday?,0
+2078,2026-10-03T08:16:39,user_012,👍,0
+2079,2026-10-03T08:17:11,user_027,what time is the meetup?,0
+2080,2026-10-03T08:17:46,user_038,my cost of living is insane this year,0
+2081,2026-10-03T08:18:42,user_042,the new update broke my app again,0
+2082,2026-10-03T08:19:23,user_011,wow,0
+2083,2026-10-03T08:21:31,user_037,can you resend the photo?,0
+2084,2026-10-03T08:21:57,user_035,gm,0
+2085,2026-10-03T08:21:57,user_041,sent you a DM,0
+2086,2026-10-03T08:21:59,user_044,happy birthday!,0
+2087,2026-10-03T08:22:55,user_047,can someone explain how the voting works?,0
+2088,2026-10-03T08:23:01,user_057,see you all tomorrow,0
+2089,2026-10-03T08:24:01,user_023,👍,0
+2090,2026-10-03T08:24:05,user_011,can anyone recommend a good movie for tonight?,0
+2091,2026-10-03T08:26:11,user_037,no,0
+2092,2026-10-03T08:27:50,user_015,good point,0
+2093,2026-10-03T08:28:55,user_031,good point,0
+2094,2026-10-03T08:29:39,user_012,good morning everyone,0
+2095,2026-10-03T08:31:52,user_009,"rent prices here are ridiculous, don't even ask",0
+2096,2026-10-03T08:32:44,user_055,this weather is something else,0
+2097,2026-10-03T08:33:43,user_007,agreed,0
+2098,2026-10-03T08:34:08,user_048,yes,0
+2099,2026-10-03T08:34:57,user_002,check this out https://example.com/video,0
+2100,2026-10-03T08:35:20,user_026,congrats!!,0
+2101,2026-10-03T08:36:54,user_052,no,0
+2102,2026-10-03T08:37:30,user_020,good point,0
+2103,2026-10-03T08:39:10,user_012,ok,0
+2104,2026-10-03T08:39:14,user_058,true,0
+2105,2026-10-03T08:39:43,user_050,traffic was terrible this morning,0
+2106,2026-10-03T08:40:44,user_038,"just got my CRM license, works great, thanks for the tips yesterday",0
+2107,2026-10-03T08:42:23,user_054,did anyone see the news today?,0
+2108,2026-10-03T08:42:49,user_047,the new update broke my app again,0
+2109,2026-10-03T08:43:45,user_005,my cost of living is insane this year,0
+2110,2026-10-03T08:43:49,user_039,"Looking to buy 50 licenses this week, any recommendations?",1
+2111,2026-10-03T08:46:18,user_034,no,0
+2112,2026-10-03T08:46:54,user_046,How much does a solar panel cost? Need to order today,1
+2113,2026-10-03T08:48:04,user_036,Where can I buy office chairs in bulk?,1
+2114,2026-10-03T08:49:31,user_009,gm,0
+2115,2026-10-03T08:50:28,user_007,makes sense,0
+2116,2026-10-03T08:51:37,user_013,did anyone see the news today?,0
+2117,2026-10-03T08:53:30,user_045,"rent prices here are ridiculous, don't even ask",0
+2118,2026-10-03T08:53:34,user_014,https://example.com/article/12345,0
+2119,2026-10-03T08:53:57,user_038,anyone watching the game tonight?,0
+2120,2026-10-03T08:54:31,user_032,yes,0
+2121,2026-10-03T08:54:41,user_045,thanks!,0
+2122,2026-10-03T08:55:28,user_005,How much does a standing desk cost? Need to order today,1
+2123,2026-10-03T08:56:11,user_040,good morning everyone,0
+2124,2026-10-03T08:56:57,user_053,anyone have a e-bike they'd part with?,1
+2125,2026-10-03T08:57:13,user_046,true,0
+2126,2026-10-03T08:57:46,user_026,good morning everyone,0
+2127,2026-10-03T09:03:06,user_033,"rent prices here are ridiculous, don't even ask",0
+2128,2026-10-03T09:03:10,user_043,same here,0
+2129,2026-10-03T09:05:13,user_016,check this out https://example.com/video,0
+2130,2026-10-03T09:05:33,user_009,good morning everyone,0
+2131,2026-10-03T09:06:05,user_008,👍,0
+2132,2026-10-03T09:06:12,user_040,I bought a e-bike last year and it broke after a month,0
+2133,2026-10-03T09:06:54,user_030,traffic was terrible this morning,0
+2134,2026-10-03T09:07:10,user_018,yes,0
+2135,2026-10-03T09:07:50,user_014,agreed,0
+2136,2026-10-03T09:09:00,user_021,😂😂,0
+2137,2026-10-03T09:09:38,user_025,"Looking for a vendor for e-bikes, our company needs 2 units",1
+2138,2026-10-03T09:10:06,user_049,wow,0
+2139,2026-10-03T09:11:27,user_026,haha yes,0
+2140,2026-10-03T09:11:31,user_018,I disagree but fair enough,0
+2141,2026-10-03T09:13:10,user_029,anyone have a security camera they'd part with?,1
+2142,2026-10-03T09:16:12,user_001,"just finished work, finally",0
+2143,2026-10-03T09:16:34,user_035,can someone explain how the voting works?,0
+2144,2026-10-03T09:18:02,user_004,traffic was terrible this morning,0
+2145,2026-10-03T09:19:49,user_017,"just got my solar panel, works great, thanks for the tips yesterday",0
+2146,2026-10-03T09:21:51,user_023,can anyone recommend a good movie for tonight?,0
+2147,2026-10-03T09:22:21,user_026,traffic was terrible this morning,0
+2148,2026-10-03T09:23:10,user_054,true,0
+2149,2026-10-03T09:26:01,user_031,need coffee asap,0
+2150,2026-10-03T09:26:16,user_052,no,0
+2151,2026-10-03T09:26:22,user_024,haha yes,0
+2152,2026-10-03T09:26:40,user_015,thanks!,0
+2153,2026-10-03T09:28:17,user_008,"haha that espresso machine meme is great, the price tag in the picture made me laugh",0
+2154,2026-10-03T09:28:33,user_056,congrats!!,0
+2155,2026-10-03T09:29:56,user_008,haha yes,0
+2156,2026-10-03T09:31:22,user_016,same here,0
+2157,2026-10-03T09:31:41,user_048,Where can I buy e-bikes in bulk?,1
+2158,2026-10-03T09:32:47,user_051,lol,0
+2159,2026-10-03T09:33:50,user_009,gm,0
+2160,2026-10-03T09:34:36,user_038,wow,0
+2161,2026-10-03T09:35:03,user_028,"We're ready to purchase a 3D printer, who can send an invoice?",1
+2162,2026-10-03T09:35:08,user_005,where can I get a decent pizza around here?,0
+2163,2026-10-03T09:35:46,user_002,sent you a DM,0
+2164,2026-10-03T09:36:49,user_005,agreed,0
+2165,2026-10-03T09:37:43,user_045,true,0
+2166,2026-10-03T09:38:39,user_023,nice one,0
+2167,2026-10-03T09:39:10,user_037,my cost of living is insane this year,0
+2168,2026-10-03T09:39:48,user_034,sent you a DM,0
+2169,2026-10-03T09:39:51,user_022,same here,0
+2170,2026-10-03T09:40:14,user_023,"just finished work, finally",0
+2171,2026-10-03T09:40:29,user_002,my cost of living is insane this year,0
+2172,2026-10-03T09:40:53,user_039,"just finished work, finally",0
+2173,2026-10-03T09:41:20,user_056,I disagree but fair enough,0
+2174,2026-10-03T09:44:26,user_042,same here,0
+2175,2026-10-03T09:44:29,user_001,ok,0
+2176,2026-10-03T09:44:51,user_055,good morning everyone,0
+2177,2026-10-03T09:45:35,user_058,The price of 3D printers is crazy lol,0
+2178,2026-10-03T09:46:01,user_029,how much did you pay for dinner last night?,0
+2179,2026-10-03T09:48:08,user_053,same here,0
+2180,2026-10-03T09:48:42,user_022,"just finished work, finally",0
+2181,2026-10-03T09:51:57,user_009,can someone explain how the voting works?,0
+2182,2026-10-03T09:53:38,user_048,check this out https://example.com/video,0
+2183,2026-10-03T09:54:20,user_050,did anyone see the news today?,0
+2184,2026-10-03T09:54:58,user_025,see you all tomorrow,0
+2185,2026-10-03T09:55:03,user_015,😂😂,0
+2186,2026-10-03T09:55:04,user_011,can you resend the photo?,0
+2187,2026-10-03T09:58:31,user_034,no worries,0
+2188,2026-10-03T09:58:36,user_053,true,0
+2189,2026-10-03T09:58:52,user_054,"Looking for a vendor for office chairs, our company needs 20 units",1
+2190,2026-10-03T10:00:31,user_009,same here,0
+2191,2026-10-03T10:01:18,user_014,can anyone recommend a good movie for tonight?,0
+2192,2026-10-03T10:03:55,user_031,anyone watching the game tonight?,0
+2193,2026-10-03T10:04:56,user_020,my cost of living is insane this year,0
+2194,2026-10-03T10:06:35,user_012,anyone watching the game tonight?,0
+2195,2026-10-03T10:06:45,user_033,"interesting, never thought of it that way",0
+2196,2026-10-03T10:06:56,user_032,thanks!,0
+2197,2026-10-03T10:07:56,user_029,true,0
+2198,2026-10-03T10:08:13,user_004,maybe later,0
+2199,2026-10-03T10:08:42,user_027,good point,0
+2200,2026-10-03T10:08:42,user_004,that's hilarious,0
+2201,2026-10-03T10:09:47,user_032,traffic was terrible this morning,0
+2202,2026-10-03T10:10:18,user_021,can you resend the photo?,0
+2203,2026-10-03T10:10:25,user_043,did anyone see the news today?,0
+2204,2026-10-03T10:11:19,user_058,that's hilarious,0
+2205,2026-10-03T10:12:00,user_058,no worries,0
+2206,2026-10-03T10:12:25,user_026,good morning everyone,0
+2207,2026-10-03T10:12:49,user_009,no worries,0
+2208,2026-10-03T10:13:54,user_023,ok,0
+2209,2026-10-03T10:14:51,user_056,https://example.com/article/12345,0
+2210,2026-10-03T10:16:18,user_016,is the group chat available for new members to join?,0
+2211,2026-10-03T10:16:52,user_048,"just finished work, finally",0
+2212,2026-10-03T10:18:48,user_044,same here,0
+2213,2026-10-03T10:19:33,user_006,ok,0
+2214,2026-10-03T10:19:41,user_036,gm,0
+2215,2026-10-03T10:20:16,user_024,no,0
+2216,2026-10-03T10:20:17,user_048,https://example.com/article/12345,0
+2217,2026-10-03T10:21:20,user_043,congrats!!,0
+2218,2026-10-03T10:21:40,user_004,who's coming on saturday?,0
+2219,2026-10-03T10:22:08,user_027,I'll check and let you know,0
+2220,2026-10-03T10:22:09,user_035,anyone have a security camera they'd part with?,1
+2221,2026-10-03T10:22:19,user_045,agreed,0
+2222,2026-10-03T10:22:37,user_006,👍,0
+2223,2026-10-03T10:23:10,user_060,we used to sell espresso machines but stopped last year,0
+2224,2026-10-03T10:23:41,user_053,that's hilarious,0
+2225,2026-10-03T10:25:43,user_055,sent you a DM,0
+2226,2026-10-03T10:28:29,user_056,I disagree but fair enough,0
+2227,2026-10-03T10:30:16,user_046,How much does a solar panel cost? Need to order today,1
+2228,2026-10-03T10:30:28,user_035,maybe later,0
+2229,2026-10-03T10:30:31,user_004,can you resend the photo?,0
+2230,2026-10-03T10:31:12,user_010,see you all tomorrow,0
+2231,2026-10-03T10:32:15,user_027,I disagree but fair enough,0
+2232,2026-10-03T10:32:41,user_055,same here,0
+2233,2026-10-03T10:34:24,user_003,"interesting, never thought of it that way",0
+2234,2026-10-03T10:34:29,user_049,no worries,0
+2235,2026-10-03T10:35:29,user_017,What's the price of a 3D printer and is it in stock? Want to order tomorrow,1
+2236,2026-10-03T10:37:15,user_049,"rent prices here are ridiculous, don't even ask",0
+2237,2026-10-03T10:37:31,user_046,"just finished work, finally",0
+2238,2026-10-03T10:38:17,user_005,did anyone see the news today?,0
+2239,2026-10-03T10:39:31,user_005,what time is the meetup?,0
+2240,2026-10-03T10:39:36,user_036,I'll check and let you know,0
+2241,2026-10-03T10:39:56,user_001,sent you a DM,0
+2242,2026-10-03T10:40:34,user_018,no worries,0
+2243,2026-10-03T10:40:56,user_049,what time is the meetup?,0
+2244,2026-10-03T10:42:07,user_015,anyone watching the game tonight?,0
+2245,2026-10-03T10:44:21,user_023,haha yes,0
+2246,2026-10-03T10:44:40,user_023,😂😂,0
+2247,2026-10-03T10:45:14,user_054,no worries,0
+2248,2026-10-03T10:45:57,user_022,nice one,0
+2249,2026-10-03T10:46:47,user_022,👍,0
+2250,2026-10-03T10:47:12,user_019,sent you a DM,0
+2251,2026-10-03T10:48:27,user_034,anyone watching the game tonight?,0
+2252,2026-10-03T10:49:25,user_006,good point,0
+2253,2026-10-03T10:50:15,user_027,same here,0
+2254,2026-10-03T10:51:41,user_009,https://example.com/article/12345,0
+2255,2026-10-03T10:53:52,user_024,check this out https://example.com/video,0
+2256,2026-10-03T10:55:39,user_017,I disagree but fair enough,0
+2257,2026-10-03T10:55:49,user_045,sent you a DM,0
+2258,2026-10-03T10:56:44,user_028,nice one,0
+2259,2026-10-03T10:56:56,user_033,brb,0
+2260,2026-10-03T10:56:59,user_021,congrats!!,0
+2261,2026-10-03T10:59:16,user_003,I bought a security camera last year and it broke after a month,0
+2262,2026-10-03T10:59:49,user_056,nice one,0
+2263,2026-10-03T11:00:57,user_003,lol,0
+2264,2026-10-03T11:01:34,user_055,gm,0
+2265,2026-10-03T11:02:47,user_048,"Interested in buying 2 laptops, please send prices",1
+2266,2026-10-03T11:03:11,user_032,can you resend the photo?,0
+2267,2026-10-03T11:04:20,user_030,happy birthday!,0
+2268,2026-10-03T11:05:12,user_031,anyone watching the game tonight?,0
+2269,2026-10-03T11:06:20,user_016,👍,0
+2270,2026-10-03T11:07:31,user_046,where can I get a decent pizza around here?,0
+2271,2026-10-03T11:07:47,user_002,gm,0
+2272,2026-10-03T11:08:33,user_016,agreed,0
+2273,2026-10-03T11:08:48,user_032,"rent prices here are ridiculous, don't even ask",0
+2274,2026-10-03T11:08:56,user_009,I'll check and let you know,0
+2275,2026-10-03T11:10:21,user_016,makes sense,0
+2276,2026-10-03T11:11:04,user_023,😂😂,0
+2277,2026-10-03T11:11:06,user_001,who's coming on saturday?,0
+2278,2026-10-03T11:11:13,user_030,same here,0
+2279,2026-10-03T11:11:16,user_034,I'm looking for a free ride to the airport on friday,0
+2280,2026-10-03T11:11:27,user_015,agreed,0
+2281,2026-10-03T11:12:34,user_028,how much did you pay for dinner last night?,0
+2282,2026-10-03T11:12:48,user_026,traffic was terrible this morning,0
+2283,2026-10-03T11:12:58,user_030,congrats!!,0
+2284,2026-10-03T11:13:04,user_055,ok,0
+2285,2026-10-03T11:15:13,user_017,👍,0
+2286,2026-10-03T11:15:48,user_007,"rent prices here are ridiculous, don't even ask",0
+2287,2026-10-03T11:18:16,user_050,where can I get a decent pizza around here?,0
+2288,2026-10-03T11:18:44,user_058,makes sense,0
+2289,2026-10-03T11:19:53,user_006,gm,0
+2290,2026-10-03T11:19:59,user_048,no,0
+2291,2026-10-03T11:20:16,user_050,nice one,0
+2292,2026-10-03T11:20:16,user_059,check this out https://example.com/video,0
+2293,2026-10-03T11:21:31,user_042,this weather is something else,0
+2294,2026-10-03T11:22:51,user_013,wow,0
+2295,2026-10-03T11:24:05,user_012,sent you a DM,0
+2296,2026-10-03T11:25:47,user_039,"just finished work, finally",0
+2297,2026-10-03T11:26:42,user_020,no,0
+2298,2026-10-03T11:27:02,user_047,ok,0
+2299,2026-10-03T11:28:12,user_044,can someone explain how the voting works?,0
+2300,2026-10-03T11:30:39,user_029,brb,0
+2301,2026-10-03T11:31:13,user_003,that's hilarious,0
+2302,2026-10-03T11:33:05,user_028,happy birthday!,0
+2303,2026-10-03T11:36:00,user_058,agreed,0
+2304,2026-10-03T11:37:01,user_054,no,0
+2305,2026-10-03T11:38:01,user_001,can you resend the photo?,0
+2306,2026-10-03T11:38:09,user_043,can you resend the photo?,0
+2307,2026-10-03T11:39:07,user_031,traffic was terrible this morning,0
+2308,2026-10-03T11:40:18,user_050,where can I get a decent pizza around here?,0
+2309,2026-10-03T11:41:46,user_022,I disagree but fair enough,0
+2310,2026-10-03T11:42:38,user_026,good point,0
+2311,2026-10-03T11:43:11,user_030,no worries,0
+2312,2026-10-03T11:43:37,user_019,no,0
+2313,2026-10-03T11:44:04,user_026,is the group chat available for new members to join?,0
+2314,2026-10-03T11:45:39,user_032,Anyone selling a projector? I'll take it if the price is right,1
+2315,2026-10-03T11:46:06,user_009,yes,0
+2316,2026-10-03T11:46:31,user_003,did anyone see the news today?,0
+2317,2026-10-03T11:47:35,user_046,agreed,0
+2318,2026-10-03T11:49:42,user_008,anyone watching the game tonight?,0
+2319,2026-10-03T11:53:26,user_030,haha yes,0
+2320,2026-10-03T11:53:41,user_001,"rent prices here are ridiculous, don't even ask",0
+2321,2026-10-03T11:59:28,user_060,The price of office chairs is crazy lol,0
+2322,2026-10-03T11:59:43,user_038,no worries,0
+2323,2026-10-03T12:00:07,user_013,traffic was terrible this morning,0
+2324,2026-10-03T12:03:20,user_014,is the group chat available for new members to join?,0
+2325,2026-10-03T12:05:03,user_045,"interesting, never thought of it that way",0
+2326,2026-10-03T12:05:35,user_039,happy birthday!,0
+2327,2026-10-03T12:07:14,user_010,The price of projectors is crazy lol,0
+2328,2026-10-03T12:07:59,user_027,thanks!,0
+2329,2026-10-03T12:08:42,user_018,I'm looking for a free ride to the airport on friday,0
+2330,2026-10-03T12:08:58,user_031,maybe later,0
+2331,2026-10-03T12:09:48,user_025,traffic was terrible this morning,0
+2332,2026-10-03T12:10:28,user_039,that's hilarious,0
+2333,2026-10-03T12:11:13,user_042,nice one,0
+2334,2026-10-03T12:11:35,user_038,makes sense,0
+2335,2026-10-03T12:11:38,user_054,Need a quote for 10 projectors for our office,1
+2336,2026-10-03T12:11:47,user_017,thanks!,0
+2337,2026-10-03T12:14:22,user_036,where can I get a decent pizza around here?,0
+2338,2026-10-03T12:14:29,user_020,did anyone see the news today?,0
+2339,2026-10-03T12:14:57,user_002,wow,0
+2340,2026-10-03T12:15:21,user_008,haha yes,0
+2341,2026-10-03T12:17:16,user_040,wow,0
+2342,2026-10-03T12:17:29,user_031,this weather is something else,0
+2343,2026-10-03T12:17:36,user_037,brb,0
+2344,2026-10-03T12:17:46,user_049,happy birthday!,0
+2345,2026-10-03T12:17:52,user_014,The price of 3D printers is crazy lol,0
+2346,2026-10-03T12:18:07,user_003,"thinking about getting a office chair soon, what do they go for?",1
+2347,2026-10-03T12:18:17,user_039,agreed,0
+2348,2026-10-03T12:20:11,user_011,no worries,0
+2349,2026-10-03T12:22:04,user_054,who's coming on saturday?,0
+2350,2026-10-03T12:23:11,user_048,haha yes,0
+2351,2026-10-03T12:23:12,user_028,yes,0
+2352,2026-10-03T12:26:44,user_049,lol,0
+2353,2026-10-03T12:28:29,user_039,Who sells e-bikes and do they deliver? Need them asap,1
+2354,2026-10-03T12:30:29,user_041,lol,0
+2355,2026-10-03T12:31:33,user_008,no,0
+2356,2026-10-03T12:32:26,user_017,what time is the meetup?,0
+2357,2026-10-03T12:32:50,user_028,https://example.com/article/12345,0
+2358,2026-10-03T12:34:17,user_058,haha yes,0
+2359,2026-10-03T12:36:59,user_047,can you resend the photo?,0
+2360,2026-10-03T12:37:48,user_003,can you resend the photo?,0
+2361,2026-10-03T12:38:17,user_057,true,0
+2362,2026-10-03T12:39:00,user_039,"rent prices here are ridiculous, don't even ask",0
+2363,2026-10-03T12:43:32,user_011,agreed,0
+2364,2026-10-03T12:44:41,user_024,anyone watching the game tonight?,0
+2365,2026-10-03T12:44:42,user_030,I disagree but fair enough,0
+2366,2026-10-03T12:45:00,user_031,is the group chat available for new members to join?,0
+2367,2026-10-03T12:45:46,user_055,😂😂,0
+2368,2026-10-03T12:46:09,user_001,did anyone see the news today?,0
+2369,2026-10-03T12:46:31,user_002,true,0
+2370,2026-10-03T12:46:40,user_030,ok,0
+2371,2026-10-03T12:46:46,user_044,😂😂,0
+2372,2026-10-03T12:50:19,user_048,did anyone see the news today?,0
+2373,2026-10-03T12:50:39,user_035,ok,0
+2374,2026-10-03T12:51:26,user_045,The price of espresso machines is crazy lol,0
+2375,2026-10-03T12:51:58,user_053,brb,0
+2376,2026-10-03T12:52:19,user_039,happy birthday!,0
+2377,2026-10-03T12:53:43,user_037,true,0
+2378,2026-10-03T12:54:23,user_005,"rent prices here are ridiculous, don't even ask",0
+2379,2026-10-03T12:54:31,user_003,no,0
+2380,2026-10-03T12:55:21,user_014,👍,0
+2381,2026-10-03T12:56:15,user_030,anyone have a 3D printer they'd part with?,1
+2382,2026-10-03T12:56:59,user_026,👍,0
+2383,2026-10-03T12:58:19,user_018,good morning everyone,0
+2384,2026-10-03T12:58:47,user_001,"interesting, never thought of it that way",0
+2385,2026-10-03T12:59:19,user_015,yes,0
+2386,2026-10-03T12:59:52,user_017,makes sense,0
+2387,2026-10-03T13:00:07,user_002,"just finished work, finally",0
+2388,2026-10-03T13:01:12,user_055,same here,0
+2389,2026-10-03T13:02:50,user_046,no worries,0
+2390,2026-10-03T13:03:14,user_056,The price of licenses is crazy lol,0
+2391,2026-10-03T13:03:15,user_007,😂😂,0
+2392,2026-10-03T13:05:15,user_045,brb,0
+2393,2026-10-03T13:05:25,user_049,traffic was terrible this morning,0
+2394,2026-10-03T13:05:38,user_011,wow,0
+2395,2026-10-03T13:05:41,user_038,"just finished work, finally",0
+2396,2026-10-03T13:07:13,user_039,did anyone see the news today?,0
+2397,2026-10-03T13:08:00,user_040,see you all tomorrow,0
+2398,2026-10-03T13:11:30,user_053,can someone explain how the voting works?,0
+2399,2026-10-03T13:12:08,user_029,😂😂,0
+2400,2026-10-03T13:12:55,user_044,👍,0
+2401,2026-10-03T13:13:39,user_010,no worries,0
+2402,2026-10-03T13:14:52,user_043,good point,0
+2403,2026-10-03T13:15:28,user_048,"just got my used laptop, works great, thanks for the tips yesterday",0
+2404,2026-10-03T13:15:55,user_016,no worries,0
+2405,2026-10-03T13:16:23,user_022,makes sense,0
+2406,2026-10-03T13:16:26,user_059,"might need a projector next month, any idea on pricing?",1
+2407,2026-10-03T13:17:27,user_007,I'll check and let you know,0
+2408,2026-10-03T13:17:42,user_044,I disagree but fair enough,0
+2409,2026-10-03T13:23:43,user_055,"interesting, never thought of it that way",0
+2410,2026-10-03T13:26:18,user_013,anyone have a security camera they'd part with?,1
+2411,2026-10-03T13:26:49,user_014,happy birthday!,0
+2412,2026-10-03T13:30:35,user_060,The price of projectors is crazy lol,0
+2413,2026-10-03T13:30:52,user_005,ok,0
+2414,2026-10-03T13:32:38,user_019,check this out https://example.com/video,0
+2415,2026-10-03T13:34:38,user_057,check this out https://example.com/video,0
+2416,2026-10-03T13:35:06,user_055,"just finished work, finally",0
+2417,2026-10-03T13:36:14,user_052,brb,0
+2418,2026-10-03T13:38:01,user_050,where can I get a decent pizza around here?,0
+2419,2026-10-03T13:38:05,user_048,need coffee asap,0
+2420,2026-10-03T13:38:10,user_003,can you resend the photo?,0
+2421,2026-10-03T13:38:43,user_051,good point,0
+2422,2026-10-03T13:38:47,user_041,good morning everyone,0
+2423,2026-10-03T13:39:04,user_055,"interesting, never thought of it that way",0
+2424,2026-10-03T13:39:05,user_006,that's hilarious,0
+2425,2026-10-03T13:39:21,user_025,how much did you pay for dinner last night?,0
+2426,2026-10-03T13:40:11,user_042,https://example.com/article/12345,0
+2427,2026-10-03T13:41:40,user_045,gm,0
+2428,2026-10-03T13:42:28,user_017,"just finished work, finally",0
+2429,2026-10-03T13:43:06,user_033,did anyone see the news today?,0
+2430,2026-10-03T13:44:15,user_026,can anyone recommend a good movie for tonight?,0
+2431,2026-10-03T13:45:00,user_002,true,0
+2432,2026-10-03T13:45:02,user_015,makes sense,0
+2433,2026-10-03T13:46:02,user_034,😂😂,0
+2434,2026-10-03T13:46:12,user_035,my cost of living is insane this year,0
+2435,2026-10-03T13:46:20,user_045,makes sense,0
+2436,2026-10-03T13:46:49,user_015,is the group chat available for new members to join?,0
+2437,2026-10-03T13:47:40,user_014,good morning everyone,0
+2438,2026-10-03T13:47:54,user_008,"just finished work, finally",0
+2439,2026-10-03T13:48:37,user_023,can someone explain how the voting works?,0
+2440,2026-10-03T13:50:54,user_036,agreed,0
+2441,2026-10-03T13:52:16,user_044,"just got my security camera, works great, thanks for the tips yesterday",0
+2442,2026-10-03T13:53:33,user_004,https://example.com/article/12345,0
+2443,2026-10-03T13:56:26,user_040,haha yes,0
+2444,2026-10-03T13:56:28,user_047,https://example.com/article/12345,0
+2445,2026-10-03T13:57:00,user_048,can someone explain how the voting works?,0
+2446,2026-10-03T13:57:57,user_003,makes sense,0
+2447,2026-10-03T13:58:20,user_029,lol,0
+2448,2026-10-03T13:59:27,user_036,what time is the meetup?,0
+2449,2026-10-03T14:00:12,user_005,this weather is something else,0
+2450,2026-10-03T14:00:24,user_005,check this out https://example.com/video,0
+2451,2026-10-03T14:01:57,user_057,How much for 50 projectors? Ready to buy now,1
+2452,2026-10-03T14:02:08,user_056,sent you a DM,0
+2453,2026-10-03T14:03:10,user_020,ok,0
+2454,2026-10-03T14:03:10,user_001,congrats!!,0
+2455,2026-10-03T14:03:41,user_051,good morning everyone,0
+2456,2026-10-03T14:04:20,user_040,I'll check and let you know,0
+2457,2026-10-03T14:04:39,user_002,how much did you pay for dinner last night?,0
+2458,2026-10-03T14:06:20,user_045,nice one,0
+2459,2026-10-03T14:06:42,user_040,https://example.com/article/12345,0
+2460,2026-10-03T14:07:03,user_059,👍,0
+2461,2026-10-03T14:08:04,user_001,traffic was terrible this morning,0
+2462,2026-10-03T14:10:15,user_060,who's coming on saturday?,0
+2463,2026-10-03T14:10:47,user_026,happy birthday!,0
+2464,2026-10-03T14:11:09,user_016,is the group chat available for new members to join?,0
+2465,2026-10-03T14:11:37,user_009,congrats!!,0
+2466,2026-10-03T14:12:13,user_042,traffic was terrible this morning,0
+2467,2026-10-03T14:12:14,user_055,brb,0
+2468,2026-10-03T14:13:06,user_057,haha yes,0
+2469,2026-10-03T14:14:22,user_060,traffic was terrible this morning,0
+2470,2026-10-03T14:16:17,user_022,Can anyone recommend a supplier for licenses? Budget is around $1200,1
+2471,2026-10-03T14:16:28,user_050,haha yes,0
+2472,2026-10-03T14:16:53,user_042,"Looking to buy 50 espresso machines this week, any recommendations?",1
+2473,2026-10-03T14:18:42,user_016,I disagree but fair enough,0
+2474,2026-10-03T14:20:14,user_006,makes sense,0
+2475,2026-10-03T14:22:01,user_055,I bought a standing desk last year and it broke after a month,0
+2476,2026-10-03T14:23:12,user_037,see you all tomorrow,0
+2477,2026-10-03T14:24:12,user_012,who's coming on saturday?,0
+2478,2026-10-03T14:25:30,user_032,who's coming on saturday?,0
+2479,2026-10-03T14:26:38,user_040,that's hilarious,0
+2480,2026-10-03T14:26:51,user_023,the new update broke my app again,0
+2481,2026-10-03T14:29:36,user_041,traffic was terrible this morning,0
+2482,2026-10-03T14:31:34,user_014,I'll check and let you know,0
+2483,2026-10-03T14:31:58,user_049,What's the price of a office chair and is it in stock? Want to order tomorrow,1
+2484,2026-10-03T14:35:53,user_043,haha yes,0
+2485,2026-10-03T14:36:01,user_055,can someone explain how the voting works?,0
+2486,2026-10-03T14:36:53,user_030,wow,0
+2487,2026-10-03T14:37:11,user_015,same here,0
+2488,2026-10-03T14:37:16,user_004,haha yes,0
+2489,2026-10-03T14:38:08,user_034,makes sense,0
+2490,2026-10-03T14:38:17,user_040,can someone explain how the voting works?,0
+2491,2026-10-03T14:38:54,user_051,I'll check and let you know,0
+2492,2026-10-03T14:39:10,user_020,who's coming on saturday?,0
+2493,2026-10-03T14:39:19,user_045,thanks!,0
+2494,2026-10-03T14:39:55,user_034,yes,0
+2495,2026-10-03T14:40:19,user_022,makes sense,0
+2496,2026-10-03T14:40:46,user_006,😂😂,0
+2497,2026-10-03T14:42:43,user_052,true,0
+2498,2026-10-03T14:43:54,user_051,agreed,0
+2499,2026-10-03T14:46:58,user_027,"just finished work, finally",0
+2500,2026-10-03T14:48:08,user_014,can you resend the photo?,0
+2501,2026-10-03T14:48:08,user_022,I disagree but fair enough,0
+2502,2026-10-03T14:48:49,user_035,nice one,0
+2503,2026-10-03T14:51:26,user_047,gm,0
+2504,2026-10-03T14:51:57,user_003,good point,0
+2505,2026-10-03T14:52:53,user_014,"Looking for a vendor for office chairs, our company needs 5 units",1
+2506,2026-10-03T14:56:13,user_013,lol,0
+2507,2026-10-03T14:56:59,user_017,https://example.com/article/12345,0
+2508,2026-10-03T14:57:14,user_060,I disagree but fair enough,0
+2509,2026-10-03T14:59:03,user_023,can anyone recommend a good movie for tonight?,0
+2510,2026-10-03T14:59:44,user_038,check this out https://example.com/video,0
+2511,2026-10-03T15:00:55,user_011,happy birthday!,0
+2512,2026-10-03T15:01:05,user_057,maybe later,0
+2513,2026-10-03T15:02:34,user_053,thanks!,0
+2514,2026-10-03T15:03:10,user_045,this weather is something else,0
+2515,2026-10-03T15:03:35,user_007,wow,0
+2516,2026-10-03T15:05:19,user_023,congrats!!,0
+2517,2026-10-03T15:05:56,user_025,thanks!,0
+2518,2026-10-03T15:07:50,user_033,thanks!,0
+2519,2026-10-03T15:09:23,user_053,this weather is something else,0
+2520,2026-10-03T15:10:13,user_027,brb,0
+2521,2026-10-03T15:10:48,user_051,true,0
+2522,2026-10-03T15:12:09,user_017,that's hilarious,0
+2523,2026-10-03T15:12:57,user_055,check this out https://example.com/video,0
+2524,2026-10-03T15:14:04,user_019,nice one,0
+2525,2026-10-03T15:14:12,user_011,"interesting, never thought of it that way",0
+2526,2026-10-03T15:16:27,user_060,yes,0
+2527,2026-10-03T15:19:59,user_001,sent you a DM,0
+2528,2026-10-03T15:21:11,user_050,good morning everyone,0
+2529,2026-10-03T15:23:38,user_016,who's coming on saturday?,0
+2530,2026-10-03T15:24:01,user_051,nice one,0
+2531,2026-10-03T15:24:39,user_012,Anyone selling a projector? I'll take it if the price is right,1
+2532,2026-10-03T15:26:17,user_052,congrats!!,0
+2533,2026-10-03T15:26:36,user_016,happy birthday!,0
+2534,2026-10-03T15:28:05,user_038,can you resend the photo?,0
+2535,2026-10-03T15:28:37,user_026,this weather is something else,0
+2536,2026-10-03T15:29:25,user_004,the new update broke my app again,0
+2537,2026-10-03T15:30:31,user_049,happy birthday!,0
+2538,2026-10-03T15:31:56,user_044,happy birthday!,0
+2539,2026-10-03T15:32:08,user_002,👍,0
+2540,2026-10-03T15:32:38,user_021,this weather is something else,0
+2541,2026-10-03T15:33:54,user_020,"rent prices here are ridiculous, don't even ask",0
+2542,2026-10-03T15:34:26,user_045,good point,0
+2543,2026-10-03T15:35:11,user_006,I bought a office chair last year and it broke after a month,0
+2544,2026-10-03T15:35:25,user_040,what time is the meetup?,0
+2545,2026-10-03T15:36:06,user_014,I disagree but fair enough,0
+2546,2026-10-03T15:36:48,user_044,happy birthday!,0
+2547,2026-10-03T15:38:00,user_005,that's hilarious,0
+2548,2026-10-03T15:38:57,user_045,I'll check and let you know,0
+2549,2026-10-03T15:40:48,user_026,maybe later,0
+2550,2026-10-03T15:41:54,user_024,nice one,0
+2551,2026-10-03T15:42:08,user_033,how much did you pay for dinner last night?,0
+2552,2026-10-03T15:44:03,user_018,agreed,0
+2553,2026-10-03T15:44:13,user_010,this weather is something else,0
+2554,2026-10-03T15:44:32,user_055,what time is the meetup?,0
+2555,2026-10-03T15:44:53,user_008,no,0
+2556,2026-10-03T15:45:47,user_055,did anyone see the news today?,0
+2557,2026-10-03T15:46:49,user_052,😂😂,0
+2558,2026-10-03T15:47:58,user_015,can you resend the photo?,0
+2559,2026-10-03T15:49:34,user_036,traffic was terrible this morning,0
+2560,2026-10-03T15:51:10,user_004,I bought a 3D printer last year and it broke after a month,0
+2561,2026-10-03T15:51:24,user_041,😂😂,0
+2562,2026-10-03T15:51:45,user_050,I bought a 3D printer last year and it broke after a month,0
+2563,2026-10-03T15:52:19,user_038,can someone explain how the voting works?,0
+2564,2026-10-03T15:52:31,user_025,"interesting, never thought of it that way",0
+2565,2026-10-03T15:54:08,user_029,wow,0
+2566,2026-10-03T15:54:35,user_031,agreed,0
+2567,2026-10-03T15:54:39,user_022,can someone explain how the voting works?,0
+2568,2026-10-03T15:54:46,user_059,what time is the meetup?,0
+2569,2026-10-03T15:57:18,user_024,can anyone recommend a good movie for tonight?,0
+2570,2026-10-03T15:57:24,user_006,is the group chat available for new members to join?,0
+2571,2026-10-03T15:57:36,user_005,I'm looking for a free ride to the airport on friday,0
+2572,2026-10-03T15:58:00,user_035,anyone watching the game tonight?,0
+2573,2026-10-03T15:58:03,user_016,wow,0
+2574,2026-10-03T15:58:22,user_050,same here,0
+2575,2026-10-03T15:59:00,user_056,brb,0
+2576,2026-10-03T15:59:09,user_035,sent you a DM,0
+2577,2026-10-03T16:00:48,user_031,can someone explain how the voting works?,0
+2578,2026-10-03T16:03:35,user_042,no,0
+2579,2026-10-03T16:06:23,user_002,I'm looking for a free ride to the airport on friday,0
+2580,2026-10-03T16:06:32,user_053,what time is the meetup?,0
+2581,2026-10-03T16:06:41,user_002,makes sense,0
+2582,2026-10-03T16:09:50,user_018,👍,0
+2583,2026-10-03T16:10:01,user_032,good point,0
+2584,2026-10-03T16:10:29,user_003,same here,0
+2585,2026-10-03T16:11:25,user_004,"rent prices here are ridiculous, don't even ask",0
+2586,2026-10-03T16:11:46,user_036,I disagree but fair enough,0
+2587,2026-10-03T16:12:10,user_051,need coffee asap,0
+2588,2026-10-03T16:12:57,user_055,yes,0
+2589,2026-10-03T16:14:11,user_051,true,0
+2590,2026-10-03T16:15:02,user_059,happy birthday!,0
+2591,2026-10-03T16:15:08,user_042,https://example.com/article/12345,0
+2592,2026-10-03T16:15:51,user_011,no worries,0
+2593,2026-10-03T16:15:55,user_055,brb,0
+2594,2026-10-03T16:17:07,user_041,thanks!,0
+2595,2026-10-03T16:17:17,user_010,thanks!,0
+2596,2026-10-03T16:17:38,user_057,I disagree but fair enough,0
+2597,2026-10-03T16:18:01,user_033,"Looking for a vendor for espresso machines, our company needs 50 units",1
+2598,2026-10-03T16:18:58,user_032,lol,0
+2599,2026-10-03T16:19:46,user_020,we used to sell licenses but stopped last year,0
+2600,2026-10-03T16:20:39,user_058,can someone explain how the voting works?,0
+2601,2026-10-03T16:20:56,user_023,"just got my projector, works great, thanks for the tips yesterday",0
+2602,2026-10-03T16:21:53,user_031,"just finished work, finally",0
+2603,2026-10-03T16:23:36,user_015,check this out https://example.com/video,0
+2604,2026-10-03T16:24:56,user_003,the new update broke my app again,0
+2605,2026-10-03T16:25:43,user_005,happy birthday!,0
+2606,2026-10-03T16:25:49,user_007,"just got my CRM license, works great, thanks for the tips yesterday",0
+2607,2026-10-03T16:28:07,user_001,see you all tomorrow,0
+2608,2026-10-03T16:28:58,user_024,wow,0
+2609,2026-10-03T16:29:06,user_049,makes sense,0
+2610,2026-10-03T16:30:35,user_057,"interesting, never thought of it that way",0
+2611,2026-10-03T16:31:04,user_056,no worries,0
+2612,2026-10-03T16:31:52,user_035,I'll check and let you know,0
+2613,2026-10-03T16:32:01,user_048,wow,0
+2614,2026-10-03T16:32:05,user_015,my cost of living is insane this year,0
+2615,2026-10-03T16:32:46,user_019,"rent prices here are ridiculous, don't even ask",0
+2616,2026-10-03T16:33:05,user_050,anyone watching the game tonight?,0
+2617,2026-10-03T16:33:18,user_005,gm,0
+2618,2026-10-03T16:33:26,user_047,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+2619,2026-10-03T16:34:00,user_031,can you resend the photo?,0
+2620,2026-10-03T16:34:55,user_036,traffic was terrible this morning,0
+2621,2026-10-03T16:35:28,user_014,we used to sell e-bikes but stopped last year,0
+2622,2026-10-03T16:35:52,user_034,my cost of living is insane this year,0
+2623,2026-10-03T16:37:23,user_045,what time is the meetup?,0
+2624,2026-10-03T16:37:43,user_059,same here,0
+2625,2026-10-03T16:37:47,user_056,did anyone see the news today?,0
+2626,2026-10-03T16:38:28,user_004,this weather is something else,0
+2627,2026-10-03T16:39:24,user_005,"interesting, never thought of it that way",0
+2628,2026-10-03T16:40:20,user_016,this weather is something else,0
+2629,2026-10-03T16:41:30,user_045,thanks!,0
+2630,2026-10-03T16:41:35,user_054,congrats!!,0
+2631,2026-10-03T16:44:33,user_045,no worries,0
+2632,2026-10-03T16:46:36,user_055,I disagree but fair enough,0
+2633,2026-10-03T16:46:56,user_051,makes sense,0
+2634,2026-10-03T16:48:05,user_015,I'll check and let you know,0
+2635,2026-10-03T16:48:25,user_008,good morning everyone,0
+2636,2026-10-03T16:49:05,user_055,same here,0
+2637,2026-10-03T16:49:54,user_015,sent you a DM,0
+2638,2026-10-03T16:50:02,user_003,this weather is something else,0
+2639,2026-10-03T16:50:04,user_054,https://example.com/article/12345,0
+2640,2026-10-03T16:50:15,user_033,I bought a office chair last year and it broke after a month,0
+2641,2026-10-03T16:53:05,user_031,haha yes,0
+2642,2026-10-03T16:54:21,user_054,see you all tomorrow,0
+2643,2026-10-03T16:55:35,user_021,no worries,0
+2644,2026-10-03T16:55:42,user_028,see you all tomorrow,0
+2645,2026-10-03T16:56:54,user_026,"interesting, never thought of it that way",0
+2646,2026-10-03T16:57:37,user_028,Who sells solar panels and do they deliver? Need them asap,1
+2647,2026-10-03T16:58:08,user_031,good morning everyone,0
+2648,2026-10-03T17:00:00,user_031,anyone watching the game tonight?,0
+2649,2026-10-03T17:00:46,user_048,see you all tomorrow,0
+2650,2026-10-03T17:02:24,user_045,thanks!,0
+2651,2026-10-03T17:04:23,user_003,thanks!,0
+2652,2026-10-03T17:05:34,user_057,thanks!,0
+2653,2026-10-03T17:05:37,user_018,brb,0
+2654,2026-10-03T17:06:12,user_005,no worries,0
+2655,2026-10-03T17:07:35,user_056,no,0
+2656,2026-10-03T17:08:15,user_003,need coffee asap,0
+2657,2026-10-03T17:10:01,user_012,makes sense,0
+2658,2026-10-03T17:10:15,user_015,wow,0
+2659,2026-10-03T17:10:59,user_042,brb,0
+2660,2026-10-03T17:11:55,user_003,no worries,0
+2661,2026-10-03T17:13:02,user_008,true,0
+2662,2026-10-03T17:14:08,user_039,I bought a solar panel last year and it broke after a month,0
+2663,2026-10-03T17:15:01,user_046,"just finished work, finally",0
+2664,2026-10-03T17:15:02,user_012,wow,0
+2665,2026-10-03T17:17:06,user_043,brb,0
+2666,2026-10-03T17:17:52,user_013,haha yes,0
+2667,2026-10-03T17:18:14,user_048,anyone have a CRM license they'd part with?,1
+2668,2026-10-03T17:18:16,user_021,nice one,0
+2669,2026-10-03T17:20:15,user_023,nice one,0
+2670,2026-10-03T17:21:36,user_059,"just finished work, finally",0
+2671,2026-10-03T17:22:17,user_032,"just finished work, finally",0
+2672,2026-10-03T17:22:54,user_028,thanks!,0
+2673,2026-10-03T17:23:10,user_003,no,0
+2674,2026-10-03T17:24:39,user_039,yes,0
+2675,2026-10-03T17:26:08,user_015,"interesting, never thought of it that way",0
+2676,2026-10-03T17:26:08,user_011,did anyone see the news today?,0
+2677,2026-10-03T17:26:44,user_017,that's hilarious,0
+2678,2026-10-03T17:26:45,user_032,this weather is something else,0
+2679,2026-10-03T17:26:48,user_051,👍,0
+2680,2026-10-03T17:27:14,user_034,Can anyone recommend a supplier for laptops? Budget is around $5000,1
+2681,2026-10-03T17:29:06,user_021,no,0
+2682,2026-10-03T17:31:50,user_012,thanks!,0
+2683,2026-10-03T17:33:06,user_060,The price of standing desks is crazy lol,0
+2684,2026-10-03T17:33:21,user_048,"just finished work, finally",0
+2685,2026-10-03T17:34:27,user_015,traffic was terrible this morning,0
+2686,2026-10-03T17:34:28,user_016,haha yes,0
+2687,2026-10-03T17:34:36,user_011,check this out https://example.com/video,0
+2688,2026-10-03T17:34:36,user_059,lol,0
+2689,2026-10-03T17:34:42,user_010,😂😂,0
+2690,2026-10-03T17:35:44,user_054,ok,0
+2691,2026-10-03T17:36:59,user_009,check this out https://example.com/video,0
+2692,2026-10-03T17:37:37,user_034,👍,0
+2693,2026-10-03T17:37:47,user_012,can someone explain how the voting works?,0
+2694,2026-10-03T17:38:29,user_044,happy birthday!,0
+2695,2026-10-03T17:38:58,user_007,Anyone selling a CRM license? I'll take it if the price is right,1
+2696,2026-10-03T17:42:12,user_007,brb,0
+2697,2026-10-03T17:44:33,user_026,good point,0
+2698,2026-10-03T17:45:33,user_014,can you resend the photo?,0
+2699,2026-10-03T17:45:54,user_026,no,0
+2700,2026-10-03T17:47:44,user_001,agreed,0
+2701,2026-10-03T17:49:52,user_034,my cost of living is insane this year,0
+2702,2026-10-03T17:51:05,user_007,same here,0
+2703,2026-10-03T17:51:18,user_009,sent you a DM,0
+2704,2026-10-03T17:53:16,user_024,happy birthday!,0
+2705,2026-10-03T17:53:48,user_033,😂😂,0
+2706,2026-10-03T17:54:09,user_055,gm,0
+2707,2026-10-03T17:57:19,user_044,ok,0
+2708,2026-10-03T17:57:26,user_010,gm,0
+2709,2026-10-03T17:58:04,user_041,"might need a security camera next month, any idea on pricing?",1
+2710,2026-10-03T17:58:47,user_004,"interesting, never thought of it that way",0
+2711,2026-10-03T17:59:29,user_033,"thinking about getting a e-bike soon, what do they go for?",1
+2712,2026-10-03T18:00:33,user_028,same here,0
+2713,2026-10-03T18:00:59,user_029,How much does a solar panel cost? Need to order today,1
+2714,2026-10-03T18:02:20,user_034,I bought a standing desk last year and it broke after a month,0
+2715,2026-10-03T18:02:35,user_013,nice one,0
+2716,2026-10-03T18:04:04,user_040,"haha that security camera meme is great, the price tag in the picture made me laugh",0
+2717,2026-10-03T18:04:50,user_011,can someone explain how the voting works?,0
+2718,2026-10-03T18:05:43,user_004,ok,0
+2719,2026-10-03T18:06:37,user_006,agreed,0
+2720,2026-10-03T18:08:25,user_014,😂😂,0
+2721,2026-10-03T18:13:44,user_026,"interesting, never thought of it that way",0
+2722,2026-10-03T18:13:59,user_015,brb,0
+2723,2026-10-03T18:14:03,user_035,ok,0
+2724,2026-10-03T18:14:52,user_048,what time is the meetup?,0
+2725,2026-10-03T18:14:55,user_032,good point,0
+2726,2026-10-03T18:15:19,user_044,makes sense,0
+2727,2026-10-03T18:15:28,user_009,"rent prices here are ridiculous, don't even ask",0
+2728,2026-10-03T18:16:47,user_021,can anyone recommend a good movie for tonight?,0
+2729,2026-10-03T18:21:04,user_022,👍,0
+2730,2026-10-03T18:22:45,user_021,good morning everyone,0
+2731,2026-10-03T18:23:11,user_060,"Looking for a vendor for 3D printers, our company needs 2 units",1
+2732,2026-10-03T18:26:26,user_039,Can anyone recommend a supplier for e-bikes? Budget is around $1200,1
+2733,2026-10-03T18:31:50,user_048,😂😂,0
+2734,2026-10-03T18:33:24,user_048,gm,0
+2735,2026-10-03T18:35:26,user_022,Where can I buy licenses in bulk?,1
+2736,2026-10-03T18:38:14,user_016,see you all tomorrow,0
+2737,2026-10-03T18:39:58,user_024,https://example.com/article/12345,0
+2738,2026-10-03T18:41:07,user_038,lol,0
+2739,2026-10-03T18:41:14,user_056,anyone watching the game tonight?,0
+2740,2026-10-03T18:41:52,user_055,makes sense,0
+2741,2026-10-03T18:42:40,user_048,yes,0
+2742,2026-10-03T18:48:13,user_048,"haha that solar panel meme is great, the price tag in the picture made me laugh",0
+2743,2026-10-03T18:49:11,user_031,this weather is something else,0
+2744,2026-10-03T18:49:33,user_048,👍,0
+2745,2026-10-03T18:50:22,user_015,good morning everyone,0
+2746,2026-10-03T18:50:59,user_040,brb,0
+2747,2026-10-03T18:51:09,user_011,same here,0
+2748,2026-10-03T18:51:46,user_033,can someone explain how the voting works?,0
+2749,2026-10-03T18:52:37,user_040,How much for 50 security cameras? Ready to buy now,1
+2750,2026-10-03T18:53:53,user_040,can you resend the photo?,0
+2751,2026-10-03T18:54:58,user_054,😂😂,0
+2752,2026-10-03T18:55:32,user_059,wow,0
+2753,2026-10-03T18:55:43,user_053,"interesting, never thought of it that way",0
+2754,2026-10-03T18:56:02,user_048,is the group chat available for new members to join?,0
+2755,2026-10-03T18:56:40,user_043,I bought a espresso machine last year and it broke after a month,0
+2756,2026-10-03T18:56:58,user_036,check this out https://example.com/video,0
+2757,2026-10-03T18:57:10,user_055,can anyone recommend a good movie for tonight?,0
+2758,2026-10-03T18:57:28,user_027,see you all tomorrow,0
+2759,2026-10-03T18:58:08,user_049,no,0
+2760,2026-10-03T18:58:42,user_025,no worries,0
+2761,2026-10-03T19:02:35,user_046,ok,0
+2762,2026-10-03T19:05:52,user_041,check this out https://example.com/video,0
+2763,2026-10-03T19:06:40,user_031,nice one,0
+2764,2026-10-03T19:07:02,user_018,I bought a projector last year and it broke after a month,0
+2765,2026-10-03T19:08:16,user_038,gm,0
+2766,2026-10-03T19:10:21,user_031,the new update broke my app again,0
+2767,2026-10-03T19:14:36,user_032,is the group chat available for new members to join?,0
+2768,2026-10-03T19:15:02,user_050,makes sense,0
+2769,2026-10-03T19:15:12,user_051,good morning everyone,0
+2770,2026-10-03T19:16:49,user_058,no,0
+2771,2026-10-03T19:17:03,user_059,https://example.com/article/12345,0
+2772,2026-10-03T19:17:33,user_052,my cost of living is insane this year,0
+2773,2026-10-03T19:18:54,user_060,check this out https://example.com/video,0
+2774,2026-10-03T19:20:18,user_002,thanks!,0
+2775,2026-10-03T19:20:42,user_036,makes sense,0
+2776,2026-10-03T19:21:20,user_030,sent you a DM,0
+2777,2026-10-03T19:21:31,user_032,good morning everyone,0
+2778,2026-10-03T19:22:11,user_041,where can I get a decent pizza around here?,0
+2779,2026-10-03T19:22:30,user_043,https://example.com/article/12345,0
+2780,2026-10-03T19:22:36,user_016,maybe later,0
+2781,2026-10-03T19:23:31,user_030,haha yes,0
+2782,2026-10-03T19:23:42,user_044,"interesting, never thought of it that way",0
+2783,2026-10-03T19:24:32,user_045,see you all tomorrow,0
+2784,2026-10-03T19:24:36,user_051,anyone watching the game tonight?,0
+2785,2026-10-03T19:25:51,user_015,congrats!!,0
+2786,2026-10-03T19:27:09,user_044,I disagree but fair enough,0
+2787,2026-10-03T19:28:52,user_018,check this out https://example.com/video,0
+2788,2026-10-03T19:29:39,user_041,congrats!!,0
+2789,2026-10-03T19:30:24,user_057,thanks!,0
+2790,2026-10-03T19:31:53,user_034,"just got my office chair, works great, thanks for the tips yesterday",0
+2791,2026-10-03T19:32:10,user_038,no worries,0
+2792,2026-10-03T19:34:09,user_031,can someone explain how the voting works?,0
+2793,2026-10-03T19:39:24,user_048,good morning everyone,0
+2794,2026-10-03T19:40:16,user_026,my cost of living is insane this year,0
+2795,2026-10-03T19:40:17,user_042,😂😂,0
+2796,2026-10-03T19:40:18,user_003,traffic was terrible this morning,0
+2797,2026-10-03T19:40:38,user_026,Need a quote for 10 3D printers for our office,1
+2798,2026-10-03T19:41:30,user_056,check this out https://example.com/video,0
+2799,2026-10-03T19:44:26,user_017,yes,0
+2800,2026-10-03T19:44:39,user_047,this weather is something else,0
+2801,2026-10-03T19:44:45,user_007,congrats!!,0
+2802,2026-10-03T19:45:42,user_040,haha yes,0
+2803,2026-10-03T19:48:34,user_036,good point,0
+2804,2026-10-03T19:50:51,user_048,no,0
+2805,2026-10-03T19:51:48,user_028,that's hilarious,0
+2806,2026-10-03T19:52:15,user_002,we used to sell projectors but stopped last year,0
+2807,2026-10-03T19:52:31,user_052,maybe later,0
+2808,2026-10-03T19:53:08,user_007,happy birthday!,0
+2809,2026-10-03T19:54:31,user_038,yes,0
+2810,2026-10-03T19:54:46,user_043,is the group chat available for new members to join?,0
+2811,2026-10-03T19:55:17,user_015,see you all tomorrow,0
+2812,2026-10-03T19:56:57,user_015,"Looking to buy 10 office chairs this week, any recommendations?",1
+2813,2026-10-03T19:57:25,user_028,haha yes,0
+2814,2026-10-03T19:57:51,user_016,the new update broke my app again,0
+2815,2026-10-03T19:58:51,user_004,I bought a used laptop last year and it broke after a month,0
+2816,2026-10-03T19:59:01,user_019,true,0
+2817,2026-10-03T20:00:29,user_001,nice one,0
+2818,2026-10-03T20:00:35,user_009,"interesting, never thought of it that way",0
+2819,2026-10-03T20:00:41,user_006,I'm looking for a free ride to the airport on friday,0
+2820,2026-10-03T20:01:26,user_035,nice one,0
+2821,2026-10-03T20:02:49,user_013,makes sense,0
+2822,2026-10-03T20:03:27,user_035,anyone watching the game tonight?,0
+2823,2026-10-03T20:04:12,user_056,lol,0
+2824,2026-10-03T20:04:48,user_040,makes sense,0
+2825,2026-10-03T20:06:13,user_052,I bought a security camera last year and it broke after a month,0
+2826,2026-10-03T20:07:15,user_017,did anyone see the news today?,0
+2827,2026-10-03T20:07:51,user_056,anyone watching the game tonight?,0
+2828,2026-10-03T20:07:55,user_023,how much did you pay for dinner last night?,0
+2829,2026-10-03T20:08:33,user_032,true,0
+2830,2026-10-03T20:10:34,user_007,traffic was terrible this morning,0
+2831,2026-10-03T20:11:42,user_020,I'm looking for a free ride to the airport on friday,0
+2832,2026-10-03T20:12:34,user_050,"rent prices here are ridiculous, don't even ask",0
+2833,2026-10-03T20:13:42,user_003,I'll check and let you know,0
+2834,2026-10-03T20:14:26,user_046,true,0
+2835,2026-10-03T20:14:57,user_030,this weather is something else,0
+2836,2026-10-03T20:15:55,user_035,anyone watching the game tonight?,0
+2837,2026-10-03T20:17:37,user_041,Where can I buy 3D printers in bulk?,1
+2838,2026-10-03T20:17:45,user_024,did anyone see the news today?,0
+2839,2026-10-03T20:17:50,user_026,no worries,0
+2840,2026-10-03T20:18:50,user_045,haha yes,0
+2841,2026-10-03T20:19:02,user_056,"Interested in buying 50 laptops, please send prices",1
+2842,2026-10-03T20:19:33,user_041,wow,0
+2843,2026-10-03T20:22:15,user_008,lol,0
+2844,2026-10-03T20:23:23,user_058,who's coming on saturday?,0
+2845,2026-10-03T20:23:32,user_043,😂😂,0
+2846,2026-10-03T20:23:34,user_046,can you resend the photo?,0
+2847,2026-10-03T20:24:24,user_049,the new update broke my app again,0
+2848,2026-10-03T20:24:45,user_020,"might need a 3D printer next month, any idea on pricing?",1
+2849,2026-10-03T20:26:12,user_008,Need a quote for 10 laptops for our office,1
+2850,2026-10-03T20:26:22,user_039,see you all tomorrow,0
+2851,2026-10-03T20:28:05,user_006,I bought a espresso machine last year and it broke after a month,0
+2852,2026-10-03T20:28:08,user_014,I bought a projector last year and it broke after a month,0
+2853,2026-10-03T20:28:47,user_007,need coffee asap,0
+2854,2026-10-03T20:30:48,user_013,no worries,0
+2855,2026-10-03T20:31:14,user_036,traffic was terrible this morning,0
+2856,2026-10-03T20:32:50,user_058,"might need a projector next month, any idea on pricing?",1
+2857,2026-10-03T20:32:52,user_002,https://example.com/article/12345,0
+2858,2026-10-03T20:32:54,user_017,same here,0
+2859,2026-10-03T20:33:08,user_007,we used to sell laptops but stopped last year,0
+2860,2026-10-03T20:33:45,user_020,Can anyone recommend a supplier for projectors? Budget is around $500,1
+2861,2026-10-03T20:34:38,user_021,this weather is something else,0
+2862,2026-10-03T20:34:56,user_029,👍,0
+2863,2026-10-03T20:35:05,user_016,we used to sell espresso machines but stopped last year,0
+2864,2026-10-03T20:36:16,user_057,no worries,0
+2865,2026-10-03T20:36:44,user_046,that's hilarious,0
+2866,2026-10-03T20:37:28,user_026,no,0
+2867,2026-10-03T20:38:35,user_035,this weather is something else,0
+2868,2026-10-03T20:39:12,user_050,sent you a DM,0
+2869,2026-10-03T20:39:23,user_018,is the group chat available for new members to join?,0
+2870,2026-10-03T20:39:56,user_043,anyone watching the game tonight?,0
+2871,2026-10-03T20:40:56,user_051,"just finished work, finally",0
+2872,2026-10-03T20:41:24,user_035,did anyone see the news today?,0
+2873,2026-10-03T20:42:29,user_029,lol,0
+2874,2026-10-03T20:42:37,user_026,can anyone recommend a good movie for tonight?,0
+2875,2026-10-03T20:43:06,user_046,this weather is something else,0
+2876,2026-10-03T20:44:48,user_024,no worries,0
+2877,2026-10-03T20:45:05,user_038,👍,0
+2878,2026-10-03T20:45:06,user_030,agreed,0
+2879,2026-10-03T20:45:18,user_036,anyone watching the game tonight?,0
+2880,2026-10-03T20:45:32,user_017,yes,0
+2881,2026-10-03T20:47:14,user_023,good morning everyone,0
+2882,2026-10-03T20:49:04,user_041,ok,0
+2883,2026-10-03T20:49:06,user_020,I disagree but fair enough,0
+2884,2026-10-03T20:50:20,user_057,wow,0
+2885,2026-10-03T20:52:42,user_027,same here,0
+2886,2026-10-03T20:52:46,user_056,lol,0
+2887,2026-10-03T20:52:59,user_025,traffic was terrible this morning,0
+2888,2026-10-03T20:53:24,user_015,"just got my standing desk, works great, thanks for the tips yesterday",0
+2889,2026-10-03T20:55:27,user_055,this weather is something else,0
+2890,2026-10-03T20:55:40,user_053,"interesting, never thought of it that way",0
+2891,2026-10-03T20:56:51,user_059,"Looking for a vendor for espresso machines, our company needs 10 units",1
+2892,2026-10-03T20:58:57,user_007,anyone watching the game tonight?,0
+2893,2026-10-03T21:00:34,user_044,congrats!!,0
+2894,2026-10-03T21:01:34,user_051,is the group chat available for new members to join?,0
+2895,2026-10-03T21:02:22,user_001,traffic was terrible this morning,0
+2896,2026-10-03T21:04:05,user_024,is the group chat available for new members to join?,0
+2897,2026-10-03T21:04:08,user_052,"We're ready to purchase a e-bike, who can send an invoice?",1
+2898,2026-10-03T21:04:19,user_034,agreed,0
+2899,2026-10-03T21:04:25,user_031,I bought a office chair last year and it broke after a month,0
+2900,2026-10-03T21:08:11,user_021,did anyone see the news today?,0
+2901,2026-10-03T21:08:37,user_001,makes sense,0
+2902,2026-10-03T21:09:10,user_039,nice one,0
+2903,2026-10-03T21:09:23,user_026,Can anyone recommend a supplier for solar panels? Budget is around $500,1
+2904,2026-10-03T21:11:11,user_025,gm,0
+2905,2026-10-03T21:11:15,user_033,maybe later,0
+2906,2026-10-03T21:11:28,user_045,same here,0
+2907,2026-10-03T21:11:47,user_058,this weather is something else,0
+2908,2026-10-03T21:14:27,user_022,How much does a office chair cost? Need to order today,1
+2909,2026-10-03T21:16:28,user_003,"might need a espresso machine next month, any idea on pricing?",1
+2910,2026-10-03T21:18:11,user_012,can anyone recommend a good movie for tonight?,0
+2911,2026-10-03T21:19:58,user_013,is the group chat available for new members to join?,0
+2912,2026-10-03T21:20:18,user_032,"haha that espresso machine meme is great, the price tag in the picture made me laugh",0
+2913,2026-10-03T21:20:24,user_015,traffic was terrible this morning,0
+2914,2026-10-03T21:20:34,user_054,nice one,0
+2915,2026-10-03T21:22:32,user_039,👍,0
+2916,2026-10-03T21:26:19,user_005,that's hilarious,0
+2917,2026-10-03T21:26:45,user_003,check this out https://example.com/video,0
+2918,2026-10-03T21:27:15,user_001,did anyone see the news today?,0
+2919,2026-10-03T21:27:50,user_007,need coffee asap,0
+2920,2026-10-03T21:29:23,user_053,no,0
+2921,2026-10-03T21:30:39,user_051,no worries,0
+2922,2026-10-03T21:31:37,user_060,anyone watching the game tonight?,0
+2923,2026-10-03T21:33:28,user_016,how much did you pay for dinner last night?,0
+2924,2026-10-03T21:33:45,user_048,😂😂,0
+2925,2026-10-03T21:36:06,user_006,traffic was terrible this morning,0
+2926,2026-10-03T21:36:30,user_007,How much for 5 security cameras? Ready to buy now,1
+2927,2026-10-03T21:36:54,user_043,can you resend the photo?,0
+2928,2026-10-03T21:37:36,user_037,ok,0
+2929,2026-10-03T21:38:03,user_028,is the group chat available for new members to join?,0
+2930,2026-10-03T21:38:45,user_001,good morning everyone,0
+2931,2026-10-03T21:39:21,user_059,that's hilarious,0
+2932,2026-10-03T21:40:22,user_052,brb,0
+2933,2026-10-03T21:43:16,user_012,I'll check and let you know,0
+2934,2026-10-03T21:46:53,user_033,anyone watching the game tonight?,0
+2935,2026-10-03T21:47:16,user_026,I bought a security camera last year and it broke after a month,0
+2936,2026-10-03T21:48:54,user_011,"just finished work, finally",0
+2937,2026-10-03T21:52:12,user_017,maybe later,0
+2938,2026-10-03T21:53:27,user_027,who's coming on saturday?,0
+2939,2026-10-03T21:54:33,user_036,need coffee asap,0
+2940,2026-10-03T21:55:11,user_049,happy birthday!,0
+2941,2026-10-03T21:56:23,user_056,we used to sell 3D printers but stopped last year,0
+2942,2026-10-03T21:56:43,user_049,we used to sell security cameras but stopped last year,0
+2943,2026-10-03T21:58:53,user_008,anyone watching the game tonight?,0
+2944,2026-10-03T22:01:00,user_011,What's the price of a e-bike and is it in stock? Want to order tomorrow,1
+2945,2026-10-03T22:02:02,user_051,👍,0
+2946,2026-10-03T22:02:15,user_027,haha yes,0
+2947,2026-10-03T22:02:16,user_060,no worries,0
+2948,2026-10-03T22:03:34,user_024,check this out https://example.com/video,0
+2949,2026-10-03T22:03:41,user_037,where can I get a decent pizza around here?,0
+2950,2026-10-03T22:05:43,user_041,I disagree but fair enough,0
+2951,2026-10-03T22:07:23,user_005,lol,0
+2952,2026-10-03T22:07:46,user_028,https://example.com/article/12345,0
+2953,2026-10-03T22:09:40,user_005,"just finished work, finally",0
+2954,2026-10-03T22:11:17,user_030,haha yes,0
+2955,2026-10-03T22:11:59,user_046,the new update broke my app again,0
+2956,2026-10-03T22:12:10,user_031,sent you a DM,0
+2957,2026-10-03T22:14:20,user_051,no worries,0
+2958,2026-10-03T22:14:50,user_037,this weather is something else,0
+2959,2026-10-03T22:15:58,user_050,"interesting, never thought of it that way",0
+2960,2026-10-03T22:16:57,user_037,can someone explain how the voting works?,0
+2961,2026-10-03T22:17:09,user_031,anyone watching the game tonight?,0
+2962,2026-10-03T22:17:20,user_050,same here,0
+2963,2026-10-03T22:23:17,user_002,what time is the meetup?,0
+2964,2026-10-03T22:23:29,user_051,agreed,0
+2965,2026-10-03T22:24:09,user_022,congrats!!,0
+2966,2026-10-03T22:24:23,user_056,I'll check and let you know,0
+2967,2026-10-03T22:25:58,user_021,this weather is something else,0
+2968,2026-10-03T22:27:39,user_036,lol,0
+2969,2026-10-03T22:28:14,user_023,https://example.com/article/12345,0
+2970,2026-10-03T22:28:34,user_056,Need a quote for 10 laptops for our office,1
+2971,2026-10-03T22:30:09,user_008,"haha that used laptop meme is great, the price tag in the picture made me laugh",0
+2972,2026-10-03T22:30:14,user_002,yes,0
+2973,2026-10-03T22:30:14,user_018,no worries,0
+2974,2026-10-03T22:30:40,user_034,same here,0
+2975,2026-10-03T22:31:33,user_009,no worries,0
+2976,2026-10-03T22:33:34,user_017,"thinking about getting a standing desk soon, what do they go for?",1
+2977,2026-10-03T22:33:39,user_060,"haha that CRM license meme is great, the price tag in the picture made me laugh",0
+2978,2026-10-03T22:34:03,user_016,traffic was terrible this morning,0
+2979,2026-10-03T22:34:56,user_016,no,0
+2980,2026-10-03T22:35:19,user_021,brb,0
+2981,2026-10-03T22:38:56,user_047,nice one,0
+2982,2026-10-03T22:39:32,user_004,good point,0
+2983,2026-10-03T22:39:33,user_038,I disagree but fair enough,0
+2984,2026-10-03T22:40:13,user_004,"interesting, never thought of it that way",0
+2985,2026-10-03T22:41:07,user_044,yes,0
+2986,2026-10-03T22:43:59,user_010,👍,0
+2987,2026-10-03T22:44:58,user_028,what time is the meetup?,0
+2988,2026-10-03T22:47:22,user_053,haha yes,0
+2989,2026-10-03T22:48:12,user_009,👍,0
+2990,2026-10-03T22:49:55,user_055,traffic was terrible this morning,0
+2991,2026-10-03T22:50:16,user_029,sent you a DM,0
+2992,2026-10-03T22:52:16,user_041,that's hilarious,0
+2993,2026-10-03T22:52:56,user_039,agreed,0
+2994,2026-10-03T22:53:08,user_040,agreed,0
+2995,2026-10-03T22:54:43,user_052,what time is the meetup?,0
+2996,2026-10-03T22:54:51,user_030,no worries,0
+2997,2026-10-03T22:55:49,user_050,anyone have a espresso machine they'd part with?,1
+2998,2026-10-03T22:57:56,user_031,can you resend the photo?,0
+2999,2026-10-03T22:57:58,user_055,is the group chat available for new members to join?,0
+3000,2026-10-03T22:58:34,user_057,makes sense,0
